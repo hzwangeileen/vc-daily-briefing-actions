@@ -1,25 +1,65 @@
 {
-  "generatedAt": "2026-05-04T08:39:19.812Z",
+  "generatedAt": "2026-05-05T08:21:32.689Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "&quot;What the f*** is he doing!?&quot; - The Besties React to the Elon/Sam Altman Trial 😂",
-      "videoId": "jROZdAU0jV0",
-      "url": "https://youtube.com/watch?v=jROZdAU0jV0",
-      "publishedAt": "2026-05-03T19:00:37+00:00"
+      "name": "20VC",
+      "title": "Shopify CEO: AI is the perfect scapegoat for mass layoffs",
+      "videoId": "6Q0ULF76n6c",
+      "url": "https://youtube.com/watch?v=6Q0ULF76n6c",
+      "publishedAt": "2026-05-05T05:00:13+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "“Rumination is the path to unhappiness.” - J Cal",
-      "videoId": "FfC-A0Wdgug",
-      "url": "https://youtube.com/watch?v=FfC-A0Wdgug",
-      "publishedAt": "2026-05-03T15:15:02+00:00"
+      "title": "How debt can ruin you: it makes you FRAGILE",
+      "videoId": "4tyzH27EIMk",
+      "url": "https://youtube.com/watch?v=4tyzH27EIMk",
+      "publishedAt": "2026-05-04T20:00:08+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "“Union power, Litigation, Climate Dogma”: Steve Hilton's Three Reasons for CA's Housing Crisis",
+      "videoId": "jCUx0BpSMx8",
+      "url": "https://youtube.com/watch?v=jCUx0BpSMx8",
+      "publishedAt": "2026-05-04T17:47:13+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "&quot;Elon has massive leverage in AI right now&quot; - Chamath",
+      "videoId": "GjcgpibkBBI",
+      "url": "https://youtube.com/watch?v=GjcgpibkBBI",
+      "publishedAt": "2026-05-04T17:00:20+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "What separates motorsport champions from the rest?",
+      "videoId": "6jyM_qqOAvg",
+      "url": "https://youtube.com/watch?v=6jyM_qqOAvg",
+      "publishedAt": "2026-05-04T16:09:42+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Shopify CEO on 20VC 🎧",
+      "videoId": "xByFHB-e6pE",
+      "url": "https://youtube.com/watch?v=xByFHB-e6pE",
+      "publishedAt": "2026-05-04T14:01:35+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Shopify CEO on How AI is a Scapegoat for Mass Layoffs &amp; Trump Derangement Syndrome in Canada",
+      "videoId": "e4pUgXxCwI0",
+      "url": "https://youtube.com/watch?v=e4pUgXxCwI0",
+      "publishedAt": "2026-05-04T14:01:04+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 7
   }
 }
