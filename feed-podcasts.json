@@ -1,57 +1,49 @@
 {
-  "generatedAt": "2026-05-06T08:37:03.543Z",
+  "generatedAt": "2026-05-07T08:44:13.422Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why 60% of Canadians Are Wrong About Trump",
-      "videoId": "dCchoH-Rms4",
-      "url": "https://youtube.com/watch?v=dCchoH-Rms4",
-      "publishedAt": "2026-05-06T05:00:38+00:00"
+      "title": "Shopify CEO on Elon Musk",
+      "videoId": "MbmdhslMpIs",
+      "url": "https://youtube.com/watch?v=MbmdhslMpIs",
+      "publishedAt": "2026-05-07T05:00:23+00:00"
     },
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "🔬Top Black Holes Physicist: GPT5 can do Vibe Physics, here's what I found",
-      "videoId": "9d899Ram9Bs",
-      "url": "https://youtube.com/watch?v=9d899Ram9Bs",
-      "publishedAt": "2026-05-05T19:37:25+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "VLC video player can open anything - VLC lead developer explains | Lex Fridman Podcast",
+      "videoId": "w64pLEGfJGY",
+      "url": "https://youtube.com/watch?v=w64pLEGfJGY",
+      "publishedAt": "2026-05-07T04:23:49+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Shopify's Best Engineers Stopped Writing Code",
-      "videoId": "cjM4fVmuU-E",
-      "url": "https://youtube.com/watch?v=cjM4fVmuU-E",
-      "publishedAt": "2026-05-05T15:14:42+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "How video compression works - VLC lead developer explains | Lex Fridman Podcast",
+      "videoId": "hnY6CkqsuRM",
+      "url": "https://youtube.com/watch?v=hnY6CkqsuRM",
+      "publishedAt": "2026-05-07T00:37:24+00:00"
     },
     {
       "source": "podcast",
       "name": "Acquired",
-      "title": "Ferrari has a higher market capitalization than Ford, Mercedes-Benz, and Volkswagen",
-      "videoId": "5eicVQwLHFQ",
-      "url": "https://youtube.com/watch?v=5eicVQwLHFQ",
-      "publishedAt": "2026-05-05T14:45:34+00:00"
+      "title": "Ferrari is the only luxury brand with global cultural reach",
+      "videoId": "ED0G95m2tp8",
+      "url": "https://youtube.com/watch?v=ED0G95m2tp8",
+      "publishedAt": "2026-05-06T18:37:16+00:00"
     },
     {
       "source": "podcast",
-      "name": "Data Driven NYC",
-      "title": "How Ramp Built Self-Maintaining Software",
-      "videoId": "Fgzs4FBmRYw",
-      "url": "https://youtube.com/watch?v=Fgzs4FBmRYw",
-      "publishedAt": "2026-05-05T12:30:31+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "How Brian Chesky Is Redesigning Airbnb for the AI Era",
-      "videoId": "eURcW5_uS60",
-      "url": "https://youtube.com/watch?v=eURcW5_uS60",
-      "publishedAt": "2026-05-05T12:01:17+00:00"
+      "name": "No Priors",
+      "title": "Cheaper AI Does the Opposite of What You'd Expect",
+      "videoId": "9pE6bPk2SL4",
+      "url": "https://youtube.com/watch?v=9pE6bPk2SL4",
+      "publishedAt": "2026-05-06T13:06:28+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 6
+    "podcastEpisodes": 5
   }
 }
