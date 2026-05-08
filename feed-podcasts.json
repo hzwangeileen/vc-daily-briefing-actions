@@ -1,49 +1,65 @@
 {
-  "generatedAt": "2026-05-07T08:44:13.422Z",
+  "generatedAt": "2026-05-08T07:50:38.874Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Shopify CEO on Elon Musk",
-      "videoId": "MbmdhslMpIs",
-      "url": "https://youtube.com/watch?v=MbmdhslMpIs",
-      "publishedAt": "2026-05-07T05:00:23+00:00"
+      "title": "The LinkedIn red flag that gets you fired instantly",
+      "videoId": "YLpqyX8f_0A",
+      "url": "https://youtube.com/watch?v=YLpqyX8f_0A",
+      "publishedAt": "2026-05-08T05:00:36+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "VLC video player can open anything - VLC lead developer explains | Lex Fridman Podcast",
-      "videoId": "w64pLEGfJGY",
-      "url": "https://youtube.com/watch?v=w64pLEGfJGY",
-      "publishedAt": "2026-05-07T04:23:49+00:00"
+      "title": "How CIA spied on people using fake VLC video player | Lex Fridman Podcast",
+      "videoId": "R6kWsZYTZpw",
+      "url": "https://youtube.com/watch?v=R6kWsZYTZpw",
+      "publishedAt": "2026-05-08T03:00:26+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "How video compression works - VLC lead developer explains | Lex Fridman Podcast",
-      "videoId": "hnY6CkqsuRM",
-      "url": "https://youtube.com/watch?v=hnY6CkqsuRM",
-      "publishedAt": "2026-05-07T00:37:24+00:00"
+      "title": "FFmpeg drama on Twitter/X | Lex Fridman Podcast",
+      "videoId": "aoXjoQH_u_w",
+      "url": "https://youtube.com/watch?v=aoXjoQH_u_w",
+      "publishedAt": "2026-05-07T23:59:32+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "⚡️ Matt Pocock - Why Engineering Fundamentals matter MORE now",
+      "videoId": "rlM_fAKxB3Q",
+      "url": "https://youtube.com/watch?v=rlM_fAKxB3Q",
+      "publishedAt": "2026-05-07T20:06:38+00:00"
     },
     {
       "source": "podcast",
       "name": "Acquired",
-      "title": "Ferrari is the only luxury brand with global cultural reach",
-      "videoId": "ED0G95m2tp8",
-      "url": "https://youtube.com/watch?v=ED0G95m2tp8",
-      "publishedAt": "2026-05-06T18:37:16+00:00"
+      "title": "The Ferrari F40 was a raw death machine with no luxury",
+      "videoId": "d9wS8QyTA3c",
+      "url": "https://youtube.com/watch?v=d9wS8QyTA3c",
+      "publishedAt": "2026-05-07T18:02:21+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "Cheaper AI Does the Opposite of What You'd Expect",
-      "videoId": "9pE6bPk2SL4",
-      "url": "https://youtube.com/watch?v=9pE6bPk2SL4",
-      "publishedAt": "2026-05-06T13:06:28+00:00"
+      "name": "20VC",
+      "title": "Is The SaaS Apocalypse Over?",
+      "videoId": "75tthJUJR2U",
+      "url": "https://youtube.com/watch?v=75tthJUJR2U",
+      "publishedAt": "2026-05-07T14:29:03+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Anthropic's Raise &amp; What It Means for Potential IPO? Mag7: Google &amp; Amazon Up, Meta &amp; Microsoft Down",
+      "videoId": "i98P2wodb10",
+      "url": "https://youtube.com/watch?v=i98P2wodb10",
+      "publishedAt": "2026-05-07T14:00:58+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 7
   }
 }
