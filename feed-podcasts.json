@@ -1,57 +1,65 @@
 {
-  "generatedAt": "2026-05-09T08:04:29.730Z",
+  "generatedAt": "2026-05-10T08:18:38.654Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "FFmpeg vs Google: Twitter drama explained by FFmpeg developer (who runs the FFmpeg X account)",
-      "videoId": "YUvEAScrfQA",
-      "url": "https://youtube.com/watch?v=YUvEAScrfQA",
-      "publishedAt": "2026-05-09T04:00:06+00:00"
+      "name": "20VC",
+      "title": "The problem with Google hires | @CliffWeitzman",
+      "videoId": "mtzNLQ9gy3Y",
+      "url": "https://youtube.com/watch?v=mtzNLQ9gy3Y",
+      "publishedAt": "2026-05-10T07:01:15+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "How hackers steal your data | Lex Fridman Podcast",
-      "videoId": "Qo88ubgG7uc",
-      "url": "https://youtube.com/watch?v=Qo88ubgG7uc",
-      "publishedAt": "2026-05-09T00:00:07+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Elon’s Anthropic Deal, The Next AI Monopoly?, “FDA for AI” Panic, Trading the AI Boom",
-      "videoId": "10MdOvK-aG4",
-      "url": "https://youtube.com/watch?v=10MdOvK-aG4",
-      "publishedAt": "2026-05-08T22:46:01+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Acquired",
-      "title": "The Ferrari in Ferris Bueller was actually a Ford",
-      "videoId": "AVthBhn4Fuk",
-      "url": "https://youtube.com/watch?v=AVthBhn4Fuk",
-      "publishedAt": "2026-05-08T20:24:16+00:00"
+      "title": "&quot;Talk is cheap. Send patches&quot; - FFmpeg | Lex Fridman Podcast",
+      "videoId": "6SH-AKxaIZE",
+      "url": "https://youtube.com/watch?v=6SH-AKxaIZE",
+      "publishedAt": "2026-05-10T04:00:06+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Video codecs explained: H.264, AV1, HEVC, VVC | Lex Fridman Podcast",
-      "videoId": "_jjJCurqm7c",
-      "url": "https://youtube.com/watch?v=_jjJCurqm7c",
-      "publishedAt": "2026-05-08T20:00:06+00:00"
+      "title": "The impossible task of testing FFmpeg code | Lex Fridman Podcast",
+      "videoId": "IHFb6Op9aKo",
+      "url": "https://youtube.com/watch?v=IHFb6Op9aKo",
+      "publishedAt": "2026-05-10T00:00:07+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Why VLC never sold out, even when it almost died: Sacrificing $30+ million dollars | Lex Fridman",
+      "videoId": "6Kxh8mN_6aw",
+      "url": "https://youtube.com/watch?v=6Kxh8mN_6aw",
+      "publishedAt": "2026-05-09T20:00:06+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "CMOs should be able to run their own campaigns with AI",
-      "videoId": "PtJl7vHWFEw",
-      "url": "https://youtube.com/watch?v=PtJl7vHWFEw",
-      "publishedAt": "2026-05-08T14:00:45+00:00"
+      "title": "How Cliff Built Speechify",
+      "videoId": "eYroF8KoiAU",
+      "url": "https://youtube.com/watch?v=eYroF8KoiAU",
+      "publishedAt": "2026-05-09T14:38:57+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Cliff Weitzman: What I Learned from 100 of the World’s Top CEOs &amp; Why Tokens Will Outspend Salaries",
+      "videoId": "HLmo450GSPA",
+      "url": "https://youtube.com/watch?v=HLmo450GSPA",
+      "publishedAt": "2026-05-09T14:36:41+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "Ferrari will always deliver one car less than the market demand",
+      "videoId": "NbN2zpQewak",
+      "url": "https://youtube.com/watch?v=NbN2zpQewak",
+      "publishedAt": "2026-05-09T14:30:18+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 6
+    "podcastEpisodes": 7
   }
 }
