@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-05-11T09:54:48.011Z",
+  "generatedAt": "2026-05-12T08:49:29.296Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "What @CliffWeitzman  learned sleeping at MrBeast's house for 3 weeks",
-      "videoId": "fqctgUqv3mk",
-      "url": "https://youtube.com/watch?v=fqctgUqv3mk",
-      "publishedAt": "2026-05-11T08:46:20+00:00"
+      "title": "The reality of working in AI",
+      "videoId": "BVc4JBeHpcc",
+      "url": "https://youtube.com/watch?v=BVc4JBeHpcc",
+      "publishedAt": "2026-05-12T05:00:16+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "H.264 codec vs MP4 container: Difference explained | Lex Fridman Podcast",
-      "videoId": "pH1ZM7cCQsw",
-      "url": "https://youtube.com/watch?v=pH1ZM7cCQsw",
-      "publishedAt": "2026-05-11T04:00:26+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "“I’m doing this to fight evil&quot; - Spencer Pratt on Running for LA Mayor",
-      "videoId": "dMXwOJyeobw",
-      "url": "https://youtube.com/watch?v=dMXwOJyeobw",
-      "publishedAt": "2026-05-11T03:15:59+00:00"
+      "title": "What will be remembered about human civilization 1,000 years from now? | Lex Fridman Podcast",
+      "videoId": "SvEKSZeeOMA",
+      "url": "https://youtube.com/watch?v=SvEKSZeeOMA",
+      "publishedAt": "2026-05-12T04:00:06+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Shocking performance boost of assembly code: ~100x faster than C code | Lex Fridman Podcast",
-      "videoId": "IUo0UwZOaRw",
-      "url": "https://youtube.com/watch?v=IUo0UwZOaRw",
-      "publishedAt": "2026-05-11T00:00:27+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption &amp; the Fight to Take It Back",
-      "videoId": "GCpjy3TC8Pg",
-      "url": "https://youtube.com/watch?v=GCpjy3TC8Pg",
-      "publishedAt": "2026-05-10T21:00:06+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Acquired",
-      "title": "The race after Enzo Ferrari's death Ferrari finished one-two at Monza",
-      "videoId": "BjsIZcfp_08",
-      "url": "https://youtube.com/watch?v=BjsIZcfp_08",
-      "publishedAt": "2026-05-10T20:11:04+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Sacks: Is Anthropic Just Standard Oil With Better PR?",
-      "videoId": "mSvG57vJoCY",
-      "url": "https://youtube.com/watch?v=mSvG57vJoCY",
-      "publishedAt": "2026-05-10T20:00:36+00:00"
+      "title": "Intelligence agencies vs VLC: &quot;No. We'll never do that&quot; - Lead developer responds | Lex Fridman",
+      "videoId": "5_tU6EXrUcU",
+      "url": "https://youtube.com/watch?v=5_tU6EXrUcU",
+      "publishedAt": "2026-05-12T00:00:07+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "New video codecs explained: AV2, H.265, H.266 | Lex Fridman Podcast",
-      "videoId": "BkJjEk7mSjI",
-      "url": "https://youtube.com/watch?v=BkJjEk7mSjI",
-      "publishedAt": "2026-05-10T20:00:06+00:00"
+      "title": "The hardest engineering challenge of VLC - VLC lead developer explains | Lex Fridman Podcast",
+      "videoId": "Iodc7-1MgSM",
+      "url": "https://youtube.com/watch?v=Iodc7-1MgSM",
+      "publishedAt": "2026-05-11T20:00:07+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "The Career Mistake Everyone Makes",
+      "videoId": "J3MKV9KE-Lo",
+      "url": "https://youtube.com/watch?v=J3MKV9KE-Lo",
+      "publishedAt": "2026-05-11T18:00:15+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Spencer Pratt on LA’s drastic NGO problem: “They will steal $100M right in your face.”",
+      "videoId": "hG5vOarnrX8",
+      "url": "https://youtube.com/watch?v=hG5vOarnrX8",
+      "publishedAt": "2026-05-11T17:26:55+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Inside Legora’s Revenue Machine",
+      "videoId": "wIwvvl0ls2I",
+      "url": "https://youtube.com/watch?v=wIwvvl0ls2I",
+      "publishedAt": "2026-05-11T14:11:46+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Amex Global Business Travel: The World’s First AI Take Private with Long Lake CEO Alexander Taubman",
+      "videoId": "g5TWnUjbeFM",
+      "url": "https://youtube.com/watch?v=g5TWnUjbeFM",
+      "publishedAt": "2026-05-11T10:01:04+00:00"
     }
   ],
   "stats": {
