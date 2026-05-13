@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-05-12T08:49:29.296Z",
+  "generatedAt": "2026-05-13T08:53:23.321Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The reality of working in AI",
-      "videoId": "BVc4JBeHpcc",
-      "url": "https://youtube.com/watch?v=BVc4JBeHpcc",
-      "publishedAt": "2026-05-12T05:00:16+00:00"
+      "title": "This is how top AI companies spot bad sales hires",
+      "videoId": "7u73hGKWcfk",
+      "url": "https://youtube.com/watch?v=7u73hGKWcfk",
+      "publishedAt": "2026-05-13T05:00:09+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "What will be remembered about human civilization 1,000 years from now? | Lex Fridman Podcast",
-      "videoId": "SvEKSZeeOMA",
-      "url": "https://youtube.com/watch?v=SvEKSZeeOMA",
-      "publishedAt": "2026-05-12T04:00:06+00:00"
+      "title": "How controversy on Twitter/X helps solve problems | Lex Fridman Podcast",
+      "videoId": "1vJyN6cQuF8",
+      "url": "https://youtube.com/watch?v=1vJyN6cQuF8",
+      "publishedAt": "2026-05-13T04:00:07+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Intelligence agencies vs VLC: &quot;No. We'll never do that&quot; - Lead developer responds | Lex Fridman",
-      "videoId": "5_tU6EXrUcU",
-      "url": "https://youtube.com/watch?v=5_tU6EXrUcU",
-      "publishedAt": "2026-05-12T00:00:07+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The hardest engineering challenge of VLC - VLC lead developer explains | Lex Fridman Podcast",
-      "videoId": "Iodc7-1MgSM",
-      "url": "https://youtube.com/watch?v=Iodc7-1MgSM",
-      "publishedAt": "2026-05-11T20:00:07+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The Career Mistake Everyone Makes",
-      "videoId": "J3MKV9KE-Lo",
-      "url": "https://youtube.com/watch?v=J3MKV9KE-Lo",
-      "publishedAt": "2026-05-11T18:00:15+00:00"
+      "title": "Regret is a tax on your mind - I regret nothing | Lex Fridman Podcast",
+      "videoId": "IWz3ZagX1_w",
+      "url": "https://youtube.com/watch?v=IWz3ZagX1_w",
+      "publishedAt": "2026-05-13T00:00:07+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Spencer Pratt on LA’s drastic NGO problem: “They will steal $100M right in your face.”",
-      "videoId": "hG5vOarnrX8",
-      "url": "https://youtube.com/watch?v=hG5vOarnrX8",
-      "publishedAt": "2026-05-11T17:26:55+00:00"
+      "title": "How We Grew Koch Industries to $150 Billion Without Going Public: Charles &amp; Chase Koch",
+      "videoId": "EIo3AuyvV84",
+      "url": "https://youtube.com/watch?v=EIo3AuyvV84",
+      "publishedAt": "2026-05-12T21:17:30+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Fast robot teleoperation (at ultra-low 8ms latency): Kyber explained | Lex Fridman Podcast",
+      "videoId": "Y6mjiS00Y-0",
+      "url": "https://youtube.com/watch?v=Y6mjiS00Y-0",
+      "publishedAt": "2026-05-12T20:00:26+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Copper is ripping. Chamath told you it would.",
+      "videoId": "5vEjSI0Zw-M",
+      "url": "https://youtube.com/watch?v=5vEjSI0Zw-M",
+      "publishedAt": "2026-05-12T18:19:14+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Inside Legora’s Revenue Machine",
-      "videoId": "wIwvvl0ls2I",
-      "url": "https://youtube.com/watch?v=wIwvvl0ls2I",
-      "publishedAt": "2026-05-11T14:11:46+00:00"
+      "title": "The old sales playbook doesn’t work anymore",
+      "videoId": "_LuUfl-VUrg",
+      "url": "https://youtube.com/watch?v=_LuUfl-VUrg",
+      "publishedAt": "2026-05-12T14:02:39+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "Amex Global Business Travel: The World’s First AI Take Private with Long Lake CEO Alexander Taubman",
-      "videoId": "g5TWnUjbeFM",
-      "url": "https://youtube.com/watch?v=g5TWnUjbeFM",
-      "publishedAt": "2026-05-11T10:01:04+00:00"
+      "name": "Acquired",
+      "title": "The WORST car Ferrari ever made!",
+      "videoId": "LmCUQwcdhWI",
+      "url": "https://youtube.com/watch?v=LmCUQwcdhWI",
+      "publishedAt": "2026-05-12T12:08:56+00:00"
     }
   ],
   "stats": {
