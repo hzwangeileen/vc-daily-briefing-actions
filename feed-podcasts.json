@@ -1,73 +1,81 @@
 {
-  "generatedAt": "2026-05-13T08:53:23.321Z",
+  "generatedAt": "2026-05-14T08:46:44.388Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "This is how top AI companies spot bad sales hires",
-      "videoId": "7u73hGKWcfk",
-      "url": "https://youtube.com/watch?v=7u73hGKWcfk",
-      "publishedAt": "2026-05-13T05:00:09+00:00"
+      "title": "When You Have Momentum, Press The Advantage",
+      "videoId": "Lw_jA3hGOX4",
+      "url": "https://youtube.com/watch?v=Lw_jA3hGOX4",
+      "publishedAt": "2026-05-14T05:00:15+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "How controversy on Twitter/X helps solve problems | Lex Fridman Podcast",
-      "videoId": "1vJyN6cQuF8",
-      "url": "https://youtube.com/watch?v=1vJyN6cQuF8",
-      "publishedAt": "2026-05-13T04:00:07+00:00"
+      "title": "Future of holograms, brain signal playback, smell, and touch in multimedia software | Lex Fridman",
+      "videoId": "S7uUtfHW6yo",
+      "url": "https://youtube.com/watch?v=S7uUtfHW6yo",
+      "publishedAt": "2026-05-14T04:00:07+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Regret is a tax on your mind - I regret nothing | Lex Fridman Podcast",
-      "videoId": "IWz3ZagX1_w",
-      "url": "https://youtube.com/watch?v=IWz3ZagX1_w",
-      "publishedAt": "2026-05-13T00:00:07+00:00"
+      "title": "How FFmpeg works - explained by FFmpeg &amp; VLC developers | Lex Fridman Podcast",
+      "videoId": "HmmRNrNFV88",
+      "url": "https://youtube.com/watch?v=HmmRNrNFV88",
+      "publishedAt": "2026-05-14T00:00:07+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "How We Grew Koch Industries to $150 Billion Without Going Public: Charles &amp; Chase Koch",
-      "videoId": "EIo3AuyvV84",
-      "url": "https://youtube.com/watch?v=EIo3AuyvV84",
-      "publishedAt": "2026-05-12T21:17:30+00:00"
+      "title": "Charles Koch: When People Lose Meaning, Societies Lose Freedom",
+      "videoId": "8K_h8zbfvfQ",
+      "url": "https://youtube.com/watch?v=8K_h8zbfvfQ",
+      "publishedAt": "2026-05-13T21:00:17+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Fast robot teleoperation (at ultra-low 8ms latency): Kyber explained | Lex Fridman Podcast",
-      "videoId": "Y6mjiS00Y-0",
-      "url": "https://youtube.com/watch?v=Y6mjiS00Y-0",
-      "publishedAt": "2026-05-12T20:00:26+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Copper is ripping. Chamath told you it would.",
-      "videoId": "5vEjSI0Zw-M",
-      "url": "https://youtube.com/watch?v=5vEjSI0Zw-M",
-      "publishedAt": "2026-05-12T18:19:14+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The old sales playbook doesn’t work anymore",
-      "videoId": "_LuUfl-VUrg",
-      "url": "https://youtube.com/watch?v=_LuUfl-VUrg",
-      "publishedAt": "2026-05-12T14:02:39+00:00"
+      "title": "Linus Torvalds built Git in 10 days | Lex Fridman Podcast",
+      "videoId": "UrSE4c1Ls7g",
+      "url": "https://youtube.com/watch?v=UrSE4c1Ls7g",
+      "publishedAt": "2026-05-13T20:00:07+00:00"
     },
     {
       "source": "podcast",
       "name": "Acquired",
-      "title": "The WORST car Ferrari ever made!",
-      "videoId": "LmCUQwcdhWI",
-      "url": "https://youtube.com/watch?v=LmCUQwcdhWI",
-      "publishedAt": "2026-05-12T12:08:56+00:00"
+      "title": "Ford tried to buy Ferrari and Enzo blew up the deal at the finish line",
+      "videoId": "n1ASMSD94kg",
+      "url": "https://youtube.com/watch?v=n1ASMSD94kg",
+      "publishedAt": "2026-05-13T17:47:33+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Spencer Pratt: I will make LA beautiful again.",
+      "videoId": "uXY5J-RXPv8",
+      "url": "https://youtube.com/watch?v=uXY5J-RXPv8",
+      "publishedAt": "2026-05-13T16:01:24+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "title": "Inside Anthropic's $100 Billion Al Compute Commitment | CFO Krishna Rao",
+      "videoId": "wEEZPpx8qow",
+      "url": "https://youtube.com/watch?v=wEEZPpx8qow",
+      "publishedAt": "2026-05-13T12:01:40+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Suno's Mikey Shulman: Everyone Can Make Music Now",
+      "videoId": "Jq3BIGz4vXQ",
+      "url": "https://youtube.com/watch?v=Jq3BIGz4vXQ",
+      "publishedAt": "2026-05-13T12:00:36+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 9
   }
 }
