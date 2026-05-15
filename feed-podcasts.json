@@ -1,81 +1,73 @@
 {
-  "generatedAt": "2026-05-14T08:46:44.388Z",
+  "generatedAt": "2026-05-15T09:19:07.016Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "When You Have Momentum, Press The Advantage",
-      "videoId": "Lw_jA3hGOX4",
-      "url": "https://youtube.com/watch?v=Lw_jA3hGOX4",
-      "publishedAt": "2026-05-14T05:00:15+00:00"
+      "title": "24x token consumption by 2030?",
+      "videoId": "W04AIIrJEGI",
+      "url": "https://youtube.com/watch?v=W04AIIrJEGI",
+      "publishedAt": "2026-05-15T04:38:17+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Future of holograms, brain signal playback, smell, and touch in multimedia software | Lex Fridman",
-      "videoId": "S7uUtfHW6yo",
-      "url": "https://youtube.com/watch?v=S7uUtfHW6yo",
-      "publishedAt": "2026-05-14T04:00:07+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "How FFmpeg works - explained by FFmpeg &amp; VLC developers | Lex Fridman Podcast",
-      "videoId": "HmmRNrNFV88",
-      "url": "https://youtube.com/watch?v=HmmRNrNFV88",
-      "publishedAt": "2026-05-14T00:00:07+00:00"
+      "name": "Latent Space",
+      "title": "Inside Abridge: The AI Listening to 100 Million Doctor Visits — Abridge's Janie Lee &amp; Chai Asawa",
+      "videoId": "vUARtyOvh5U",
+      "url": "https://youtube.com/watch?v=vUARtyOvh5U",
+      "publishedAt": "2026-05-14T22:16:14+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Charles Koch: When People Lose Meaning, Societies Lose Freedom",
-      "videoId": "8K_h8zbfvfQ",
-      "url": "https://youtube.com/watch?v=8K_h8zbfvfQ",
-      "publishedAt": "2026-05-13T21:00:17+00:00"
+      "title": "“I Walked Into My Boss's Office and Fired Myself”",
+      "videoId": "E0oG7EtwsIw",
+      "url": "https://youtube.com/watch?v=E0oG7EtwsIw",
+      "publishedAt": "2026-05-14T19:16:10+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Any normal human would sell",
+      "videoId": "QHWFfCXGSGc",
+      "url": "https://youtube.com/watch?v=QHWFfCXGSGc",
+      "publishedAt": "2026-05-14T17:58:50+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Linus Torvalds built Git in 10 days | Lex Fridman Podcast",
-      "videoId": "UrSE4c1Ls7g",
-      "url": "https://youtube.com/watch?v=UrSE4c1Ls7g",
-      "publishedAt": "2026-05-13T20:00:07+00:00"
+      "title": "The insane difficulty of reverse engineering video codecs | Lex Fridman Podcast",
+      "videoId": "v2xe5ki4oHw",
+      "url": "https://youtube.com/watch?v=v2xe5ki4oHw",
+      "publishedAt": "2026-05-14T16:00:06+00:00"
     },
     {
       "source": "podcast",
-      "name": "Acquired",
-      "title": "Ford tried to buy Ferrari and Enzo blew up the deal at the finish line",
-      "videoId": "n1ASMSD94kg",
-      "url": "https://youtube.com/watch?v=n1ASMSD94kg",
-      "publishedAt": "2026-05-13T17:47:33+00:00"
+      "name": "20VC",
+      "title": "Anthropic, Elon &amp; AI’s Biggest Week",
+      "videoId": "Mo0ibT6BZOA",
+      "url": "https://youtube.com/watch?v=Mo0ibT6BZOA",
+      "publishedAt": "2026-05-14T14:03:50+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Spencer Pratt: I will make LA beautiful again.",
-      "videoId": "uXY5J-RXPv8",
-      "url": "https://youtube.com/watch?v=uXY5J-RXPv8",
-      "publishedAt": "2026-05-13T16:01:24+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "VLC turned down $30+ million dollars to keep VLC ad-free | Lex Fridman Podcast",
+      "videoId": "W37rNcA2yPU",
+      "url": "https://youtube.com/watch?v=W37rNcA2yPU",
+      "publishedAt": "2026-05-14T12:00:07+00:00"
     },
     {
       "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "Inside Anthropic's $100 Billion Al Compute Commitment | CFO Krishna Rao",
-      "videoId": "wEEZPpx8qow",
-      "url": "https://youtube.com/watch?v=wEEZPpx8qow",
-      "publishedAt": "2026-05-13T12:01:40+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Suno's Mikey Shulman: Everyone Can Make Music Now",
-      "videoId": "Jq3BIGz4vXQ",
-      "url": "https://youtube.com/watch?v=Jq3BIGz4vXQ",
-      "publishedAt": "2026-05-13T12:00:36+00:00"
+      "name": "No Priors",
+      "title": "Pax Silica: Inside the Trump Administration’s Tech Strategy with Jacob Helberg",
+      "videoId": "xjlYpGaxIPA",
+      "url": "https://youtube.com/watch?v=xjlYpGaxIPA",
+      "publishedAt": "2026-05-14T10:01:32+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 9
+    "podcastEpisodes": 8
   }
 }
