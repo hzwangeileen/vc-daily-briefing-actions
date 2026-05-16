@@ -1,73 +1,41 @@
 {
-  "generatedAt": "2026-05-15T09:19:07.016Z",
+  "generatedAt": "2026-05-16T08:12:51.864Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "24x token consumption by 2030?",
-      "videoId": "W04AIIrJEGI",
-      "url": "https://youtube.com/watch?v=W04AIIrJEGI",
-      "publishedAt": "2026-05-15T04:38:17+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Inside Abridge: The AI Listening to 100 Million Doctor Visits — Abridge's Janie Lee &amp; Chai Asawa",
-      "videoId": "vUARtyOvh5U",
-      "url": "https://youtube.com/watch?v=vUARtyOvh5U",
-      "publishedAt": "2026-05-14T22:16:14+00:00"
+      "title": "The Problem With Token Quotas",
+      "videoId": "Dyp9XysLLaE",
+      "url": "https://youtube.com/watch?v=Dyp9XysLLaE",
+      "publishedAt": "2026-05-16T05:00:19+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "“I Walked Into My Boss's Office and Fired Myself”",
-      "videoId": "E0oG7EtwsIw",
-      "url": "https://youtube.com/watch?v=E0oG7EtwsIw",
-      "publishedAt": "2026-05-14T19:16:10+00:00"
+      "title": "Trump-Xi Summit, Benioff: &quot;Not My First SaaSpocalypse,&quot; OpenAI vs Apple, Multi-Sensory AI, El Niño",
+      "videoId": "jJRAvZNGUvI",
+      "url": "https://youtube.com/watch?v=jJRAvZNGUvI",
+      "publishedAt": "2026-05-15T21:36:40+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Any normal human would sell",
-      "videoId": "QHWFfCXGSGc",
-      "url": "https://youtube.com/watch?v=QHWFfCXGSGc",
-      "publishedAt": "2026-05-14T17:58:50+00:00"
+      "title": "The End of Traditional Software?",
+      "videoId": "dou2-qdnlpA",
+      "url": "https://youtube.com/watch?v=dou2-qdnlpA",
+      "publishedAt": "2026-05-15T14:01:05+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The insane difficulty of reverse engineering video codecs | Lex Fridman Podcast",
-      "videoId": "v2xe5ki4oHw",
-      "url": "https://youtube.com/watch?v=v2xe5ki4oHw",
-      "publishedAt": "2026-05-14T16:00:06+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Anthropic, Elon &amp; AI’s Biggest Week",
-      "videoId": "Mo0ibT6BZOA",
-      "url": "https://youtube.com/watch?v=Mo0ibT6BZOA",
-      "publishedAt": "2026-05-14T14:03:50+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "VLC turned down $30+ million dollars to keep VLC ad-free | Lex Fridman Podcast",
-      "videoId": "W37rNcA2yPU",
-      "url": "https://youtube.com/watch?v=W37rNcA2yPU",
-      "publishedAt": "2026-05-14T12:00:07+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Pax Silica: Inside the Trump Administration’s Tech Strategy with Jacob Helberg",
-      "videoId": "xjlYpGaxIPA",
-      "url": "https://youtube.com/watch?v=xjlYpGaxIPA",
-      "publishedAt": "2026-05-14T10:01:32+00:00"
+      "name": "Unsupervised Learning",
+      "title": "Yann LeCun on What Comes After LLMs",
+      "videoId": "ngBraLDqzdI",
+      "url": "https://youtube.com/watch?v=ngBraLDqzdI",
+      "publishedAt": "2026-05-15T13:00:38+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 4
   }
 }
