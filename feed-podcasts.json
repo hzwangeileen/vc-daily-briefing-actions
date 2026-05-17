@@ -1,41 +1,25 @@
 {
-  "generatedAt": "2026-05-16T08:12:51.864Z",
+  "generatedAt": "2026-05-17T08:29:36.400Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The Problem With Token Quotas",
-      "videoId": "Dyp9XysLLaE",
-      "url": "https://youtube.com/watch?v=Dyp9XysLLaE",
-      "publishedAt": "2026-05-16T05:00:19+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Trump-Xi Summit, Benioff: &quot;Not My First SaaSpocalypse,&quot; OpenAI vs Apple, Multi-Sensory AI, El Niño",
-      "videoId": "jJRAvZNGUvI",
-      "url": "https://youtube.com/watch?v=jJRAvZNGUvI",
-      "publishedAt": "2026-05-15T21:36:40+00:00"
+      "title": "The Cardiologist Who Built A $5.3BN AI Company",
+      "videoId": "J85YM0REdm0",
+      "url": "https://youtube.com/watch?v=J85YM0REdm0",
+      "publishedAt": "2026-05-16T14:10:54+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The End of Traditional Software?",
-      "videoId": "dou2-qdnlpA",
-      "url": "https://youtube.com/watch?v=dou2-qdnlpA",
-      "publishedAt": "2026-05-15T14:01:05+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Yann LeCun on What Comes After LLMs",
-      "videoId": "ngBraLDqzdI",
-      "url": "https://youtube.com/watch?v=ngBraLDqzdI",
-      "publishedAt": "2026-05-15T13:00:38+00:00"
+      "title": "The Five Year Desert to Product Market Fit and a $5.3BN Valuation | Shiv Rao, Founder @ Abridge",
+      "videoId": "byZkrYBF-N0",
+      "url": "https://youtube.com/watch?v=byZkrYBF-N0",
+      "publishedAt": "2026-05-16T14:05:27+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 2
   }
 }
