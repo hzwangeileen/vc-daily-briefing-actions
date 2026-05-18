@@ -1,25 +1,41 @@
 {
-  "generatedAt": "2026-05-17T08:29:36.400Z",
+  "generatedAt": "2026-05-18T10:19:15.981Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "The Cardiologist Who Built A $5.3BN AI Company",
-      "videoId": "J85YM0REdm0",
-      "url": "https://youtube.com/watch?v=J85YM0REdm0",
-      "publishedAt": "2026-05-16T14:10:54+00:00"
+      "name": "All-In Podcast",
+      "title": "Chamath: The Real Reason Taiwan Matters, And Why It Won't in 18 Months",
+      "videoId": "XkfQ35Ane7c",
+      "url": "https://youtube.com/watch?v=XkfQ35Ane7c",
+      "publishedAt": "2026-05-18T00:30:32+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Marc Benioff to SaaS CEOs: Grow up, wipe your tears, focus on the customer",
+      "videoId": "0E3oGyTO0aU",
+      "url": "https://youtube.com/watch?v=0E3oGyTO0aU",
+      "publishedAt": "2026-05-17T20:00:00+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "“I am going to probably use $300M of Anthropic this year at Salesforce.” - Marc Benioff",
+      "videoId": "qoUhsZKy39M",
+      "url": "https://youtube.com/watch?v=qoUhsZKy39M",
+      "publishedAt": "2026-05-17T15:30:34+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The Five Year Desert to Product Market Fit and a $5.3BN Valuation | Shiv Rao, Founder @ Abridge",
-      "videoId": "byZkrYBF-N0",
-      "url": "https://youtube.com/watch?v=byZkrYBF-N0",
-      "publishedAt": "2026-05-16T14:05:27+00:00"
+      "title": "Stop Fighting Foundation Models. Do This Instead.",
+      "videoId": "WIsKe08bJaA",
+      "url": "https://youtube.com/watch?v=WIsKe08bJaA",
+      "publishedAt": "2026-05-17T14:43:10+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 4
   }
 }
