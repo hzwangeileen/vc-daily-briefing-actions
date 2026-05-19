@@ -1,41 +1,57 @@
 {
-  "generatedAt": "2026-05-18T10:19:15.981Z",
+  "generatedAt": "2026-05-19T09:59:10.151Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Chamath: The Real Reason Taiwan Matters, And Why It Won't in 18 Months",
-      "videoId": "XkfQ35Ane7c",
-      "url": "https://youtube.com/watch?v=XkfQ35Ane7c",
-      "publishedAt": "2026-05-18T00:30:32+00:00"
+      "name": "20VC",
+      "title": "Why Most Founders Quit Too Early",
+      "videoId": "5T0dXOjju7s",
+      "url": "https://youtube.com/watch?v=5T0dXOjju7s",
+      "publishedAt": "2026-05-19T05:00:08+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+      "videoId": "ipiKIgdynZE",
+      "url": "https://youtube.com/watch?v=ipiKIgdynZE",
+      "publishedAt": "2026-05-18T20:44:21+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Marc Benioff to SaaS CEOs: Grow up, wipe your tears, focus on the customer",
-      "videoId": "0E3oGyTO0aU",
-      "url": "https://youtube.com/watch?v=0E3oGyTO0aU",
-      "publishedAt": "2026-05-17T20:00:00+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "“I am going to probably use $300M of Anthropic this year at Salesforce.” - Marc Benioff",
-      "videoId": "qoUhsZKy39M",
-      "url": "https://youtube.com/watch?v=qoUhsZKy39M",
-      "publishedAt": "2026-05-17T15:30:34+00:00"
+      "title": "Marc Benioff hilariously recaps the last year in AI: “Sex bots off, coding agents on!” 😂",
+      "videoId": "TCdglOfn_NM",
+      "url": "https://youtube.com/watch?v=TCdglOfn_NM",
+      "publishedAt": "2026-05-18T19:15:37+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Stop Fighting Foundation Models. Do This Instead.",
-      "videoId": "WIsKe08bJaA",
-      "url": "https://youtube.com/watch?v=WIsKe08bJaA",
-      "publishedAt": "2026-05-17T14:43:10+00:00"
+      "title": "&quot;I take all the money I make and buy land&quot;",
+      "videoId": "4QRPhi0d1uc",
+      "url": "https://youtube.com/watch?v=4QRPhi0d1uc",
+      "publishedAt": "2026-05-18T18:00:08+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "The one man accelerator at Four Seasons",
+      "videoId": "JRvqG8mN1nU",
+      "url": "https://youtube.com/watch?v=JRvqG8mN1nU",
+      "publishedAt": "2026-05-18T14:14:50+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "The Next War Is Already Here — Yaroslav Azhnyuk, The Fourth Law &amp; Noah Smith, Noahpinion",
+      "videoId": "UmCZBwsibgs",
+      "url": "https://youtube.com/watch?v=UmCZBwsibgs",
+      "publishedAt": "2026-05-18T13:00:48+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 6
   }
 }
