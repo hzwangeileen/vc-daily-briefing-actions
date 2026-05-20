@@ -23,14 +23,15 @@
 
 ### 2. 配置 Secrets
 
-进入你 fork 的仓库 → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**，添加以下 4 个：
+进入你 fork 的仓库 → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**，添加以下 5 个：
 
 | Secret 名称 | 说明 | 获取方式 |
 |---|---|---|
-| `GMAIL_USER` | 发件 Gmail 地址 | 你的 Gmail，如 `yourname@gmail.com` |
-| `GMAIL_APP_PASSWORD` | Gmail 应用密码（16 位） | [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) 创建 |
+| `RESEND_API_KEY` | Resend 发信 API Key | [resend.com/api-keys](https://resend.com/api-keys) 创建 |
+| `RESEND_FROM` | Resend 发件地址 | 未验证自定义域时用 `VC Daily Briefing <onboarding@resend.dev>` |
+| `RESEND_ACCOUNT_EMAIL` | Resend 账号邮箱 | 使用 `onboarding@resend.dev` 时，收件人必须是这个邮箱 |
 | `GEMINI_API_KEY` | Gemini API 密钥（免费） | [aistudio.google.com/apikey](https://aistudio.google.com/apikey) 创建 |
-| `RECIPIENT_EMAIL` | 收件邮箱，多人用逗号分隔 | 如 `a@gmail.com,b@outlook.com` |
+| `RECIPIENT_EMAIL` | 收件邮箱，多人用逗号分隔 | 使用 Resend 测试域时填 Resend 账号邮箱；如需发到其他邮箱，请先在 Resend 验证自定义域 |
 
 ### 3. 启用 GitHub Actions
 

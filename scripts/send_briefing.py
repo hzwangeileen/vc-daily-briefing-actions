@@ -16,6 +16,7 @@ from datetime import datetime, timedelta, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from html import unescape
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 PODCAST_FEED_URL = "https://raw.githubusercontent.com/jjd200099-crypto/vc-daily-briefing/main/feed-podcasts.json"
@@ -107,10 +108,15 @@ JINA_READER_PREFIX = "https://r.jina.ai/"
 
 GMAIL_USER = os.environ.get("GMAIL_USER", "")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
+RESEND_API_KEY = os.environ.get("RESEND_API_KEY", "")
+RESEND_FROM = os.environ.get("RESEND_FROM", "VC Daily Briefing <onboarding@resend.dev>")
+RESEND_ACCOUNT_EMAIL = os.environ.get("RESEND_ACCOUNT_EMAIL", GMAIL_USER)
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-RECIPIENTS = [e.strip() for e in os.environ.get("RECIPIENT_EMAIL", "jjd200099@gmail.com").split(",") if e.strip()]
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
+RECIPIENTS = [e.strip() for e in os.environ.get("RECIPIENT_EMAIL", "").split(",") if e.strip()]
 BJT = timezone(timedelta(hours=8))
 BROWSER_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+GEMINI_FATAL_ERROR = None
 
 # ── HTTP ────────────────────────────────────────────────────────────────────
 
@@ -390,9 +396,10 @@ def fetch_curated_sources(lookback_hours):
 # ── Gemini ─────────────────────────────────────────────────────────────────
 
 def gemini_call(prompt, max_tokens=8192):
+    global GEMINI_FATAL_ERROR
     if not GEMINI_API_KEY:
         return ""
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
     payload = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.2, "maxOutputTokens": max_tokens},
@@ -404,12 +411,17 @@ def gemini_call(prompt, max_tokens=8192):
                 result = json.loads(resp.read())
             return result["candidates"][0]["content"]["parts"][0]["text"]
         except Exception as e:
-            if "429" in str(e) and attempt < 2:
+            error_detail = str(e)
+            if isinstance(e, HTTPError):
+                error_body = e.read().decode("utf-8", errors="replace")
+                error_detail = f"HTTP {e.code}: {error_body[:800]}"
+            if ("429" in error_detail or "rate" in error_detail.lower()) and attempt < 2:
                 wait = 10 * (attempt + 1)
                 print(f"  Gemini rate limited, waiting {wait}s...", file=sys.stderr)
                 time.sleep(wait)
                 continue
-            print(f"[WARN] Gemini error: {e}", file=sys.stderr)
+            GEMINI_FATAL_ERROR = error_detail
+            print(f"[WARN] Gemini error: {error_detail}", file=sys.stderr)
             return ""
     return ""
 
@@ -608,12 +620,55 @@ def send_gmail(subject, body):
         server.sendmail(GMAIL_USER, RECIPIENTS, msg.as_string())
     print(f"Email sent to {len(RECIPIENTS)} recipients", file=sys.stderr)
 
+def send_resend(subject, body):
+    payload = json.dumps({
+        "from": RESEND_FROM,
+        "to": RECIPIENTS,
+        "subject": subject,
+        "text": body,
+    }).encode("utf-8")
+    req = Request(
+        "https://api.resend.com/emails",
+        data=payload,
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {RESEND_API_KEY}",
+            "User-Agent": "vc-daily-briefing/1.0",
+        },
+        method="POST",
+    )
+    try:
+        with urlopen(req, timeout=30) as resp:
+            result = resp.read().decode("utf-8", errors="replace")
+    except HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"Resend API error HTTP {e.code}: {body[:800]}") from e
+    print(f"Email sent via Resend to {len(RECIPIENTS)} recipients: {result}", file=sys.stderr)
+
 # ── Main ───────────────────────────────────────────────────────────────────
 
 def main():
-    if not GMAIL_USER or not GMAIL_APP_PASSWORD:
-        print("GMAIL_USER or GMAIL_APP_PASSWORD not set", file=sys.stderr)
+    if not RESEND_API_KEY and (not GMAIL_USER or not GMAIL_APP_PASSWORD):
+        print("Set RESEND_API_KEY or set both GMAIL_USER and GMAIL_APP_PASSWORD", file=sys.stderr)
         sys.exit(0)
+    if not GEMINI_API_KEY:
+        print("GEMINI_API_KEY not set", file=sys.stderr)
+        sys.exit(0)
+    if not RECIPIENTS:
+        print("RECIPIENT_EMAIL not set", file=sys.stderr)
+        sys.exit(0)
+    if (
+        RESEND_API_KEY
+        and "@resend.dev" in RESEND_FROM
+        and RESEND_ACCOUNT_EMAIL
+        and any(r.lower() != RESEND_ACCOUNT_EMAIL.lower() for r in RECIPIENTS)
+    ):
+        print(
+            "Resend test sender can only send to the Resend account email. "
+            "Verify a custom domain in Resend and set RESEND_FROM to an address on that domain.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
 
     today = datetime.now(BJT).strftime("%Y-%m-%d")
     lookback_hours = 36  # 36h window to catch irregular publishers
@@ -667,13 +722,20 @@ def main():
     curated_sum = summarize_items(curated, "精选推荐（来自产品/设计/AI领域策展人的推荐阅读）")
     print(f"  ✓ {len(curated_sum)} curated", file=sys.stderr)
 
+    if GEMINI_FATAL_ERROR:
+        print(f"Gemini API failed; aborting email send. {GEMINI_FATAL_ERROR}", file=sys.stderr)
+        sys.exit(1)
+
     body = format_briefing(funding_text, tech_text, vc_text,
                            media[:15], media_sum, podcasts, pod_sum, blogs, blog_sum,
                            curated, curated_sum)
     total = len(vc) + len(media[:15]) + len(podcasts) + len(blogs) + len(curated)
     subject = f"📋 每日简报 — {today}（{total}+ 条更新）"
     print(f"Sending: {subject}", file=sys.stderr)
-    send_gmail(subject, body)
+    if RESEND_API_KEY:
+        send_resend(subject, body)
+    else:
+        send_gmail(subject, body)
 
 if __name__ == "__main__":
     main()
