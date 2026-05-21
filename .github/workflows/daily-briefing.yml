@@ -2,8 +2,9 @@ name: 每日简报
 
 on:
   schedule:
-    # 1am UTC = 9am Beijing (UTC+8)
-    - cron: '0 1 * * *'
+    # 1:17am UTC = 9:17am Beijing (UTC+8).
+    # Avoid the top of the hour, when GitHub scheduled workflows are most likely to be delayed or dropped.
+    - cron: '17 1 * * *'
   workflow_dispatch:
 
 jobs:
