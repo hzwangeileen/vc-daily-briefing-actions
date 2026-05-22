@@ -404,8 +404,8 @@ def gemini_call(prompt, max_tokens=8192):
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.2, "maxOutputTokens": max_tokens},
     }).encode()
-    req = Request(url, data=payload, headers={"Content-Type": "application/json"})
-    for attempt in range(3):
+    for attempt in range(5):
+        req = Request(url, data=payload, headers={"Content-Type": "application/json"})
         try:
             with urlopen(req, timeout=90) as resp:
                 result = json.loads(resp.read())
@@ -415,9 +415,11 @@ def gemini_call(prompt, max_tokens=8192):
             if isinstance(e, HTTPError):
                 error_body = e.read().decode("utf-8", errors="replace")
                 error_detail = f"HTTP {e.code}: {error_body[:800]}"
-            if ("429" in error_detail or "rate" in error_detail.lower()) and attempt < 2:
-                wait = 10 * (attempt + 1)
-                print(f"  Gemini rate limited, waiting {wait}s...", file=sys.stderr)
+            is_retryable = any(code in error_detail for code in ["429", "500", "502", "503", "504"])
+            is_retryable = is_retryable or any(word in error_detail.lower() for word in ["rate", "unavailable", "high demand"])
+            if is_retryable and attempt < 4:
+                wait = min(15 * (attempt + 1), 60)
+                print(f"  Gemini temporarily unavailable, waiting {wait}s...", file=sys.stderr)
                 time.sleep(wait)
                 continue
             GEMINI_FATAL_ERROR = error_detail
