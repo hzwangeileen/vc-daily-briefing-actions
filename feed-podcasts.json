@@ -1,41 +1,73 @@
 {
-  "generatedAt": "2026-07-06T10:46:46.328Z",
+  "generatedAt": "2026-07-07T09:50:37.291Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Historian explains human nature | Anthony Kaldellis and Lex Fridman",
-      "videoId": "fkxNp4n6GA4",
-      "url": "https://youtube.com/watch?v=fkxNp4n6GA4",
-      "publishedAt": "2026-07-06T04:00:28+00:00"
+      "name": "20VC",
+      "title": "If You're a Startup, Maximise Your Token Spend",
+      "videoId": "YNoHCzaYxvU",
+      "url": "https://youtube.com/watch?v=YNoHCzaYxvU",
+      "publishedAt": "2026-07-07T05:00:44+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Why the Arabs attacked the Roman Empire | Anthony Kaldellis and Lex Fridman",
-      "videoId": "a9lLNM1j2vg",
-      "url": "https://youtube.com/watch?v=a9lLNM1j2vg",
-      "publishedAt": "2026-07-06T00:00:09+00:00"
+      "title": "The enemies of the Roman Empire who almost destroyed it | Anthony Kaldellis and Lex Fridman",
+      "videoId": "uACRNj5soZk",
+      "url": "https://youtube.com/watch?v=uACRNj5soZk",
+      "publishedAt": "2026-07-07T04:00:28+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Wars of conquest that weakened the Roman Empire | Anthony Kaldellis and Lex Fridman",
-      "videoId": "MUoAmcBEloY",
-      "url": "https://youtube.com/watch?v=MUoAmcBEloY",
-      "publishedAt": "2026-07-05T20:00:08+00:00"
+      "title": "The last great war of the ancient world | Anthony Kaldellis and Lex Fridman",
+      "videoId": "iqn35ueCRmc",
+      "url": "https://youtube.com/watch?v=iqn35ueCRmc",
+      "publishedAt": "2026-07-07T00:00:29+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The most controversial Roman emperor - Justinian's wars of conquest | Anthony Kaldellis",
+      "videoId": "Pm-mIFJrhYc",
+      "url": "https://youtube.com/watch?v=Pm-mIFJrhYc",
+      "publishedAt": "2026-07-06T20:00:08+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Unfair advantage that young people have today",
-      "videoId": "eqn8rnLy3JM",
-      "url": "https://youtube.com/watch?v=eqn8rnLy3JM",
-      "publishedAt": "2026-07-05T15:45:49+00:00"
+      "title": "Traditional Media Is Losing Power",
+      "videoId": "pOFsLI7ptk4",
+      "url": "https://youtube.com/watch?v=pOFsLI7ptk4",
+      "publishedAt": "2026-07-06T18:00:49+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Nuclear's SpaceX Moment",
+      "videoId": "uFEO9jbXQPM",
+      "url": "https://youtube.com/watch?v=uFEO9jbXQPM",
+      "publishedAt": "2026-07-06T14:59:18+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Nvidia is ready to fight back",
+      "videoId": "K_ibw17dmjY",
+      "url": "https://youtube.com/watch?v=K_ibw17dmjY",
+      "publishedAt": "2026-07-06T14:21:52+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "&quot;Maximise Token Spend&quot;",
+      "videoId": "cBefGzVBe0I",
+      "url": "https://youtube.com/watch?v=cBefGzVBe0I",
+      "publishedAt": "2026-07-06T14:14:08+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 8
   }
 }
