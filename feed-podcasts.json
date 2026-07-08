@@ -1,73 +1,89 @@
 {
-  "generatedAt": "2026-07-07T09:50:37.291Z",
+  "generatedAt": "2026-07-08T08:36:03.062Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "If You're a Startup, Maximise Your Token Spend",
-      "videoId": "YNoHCzaYxvU",
-      "url": "https://youtube.com/watch?v=YNoHCzaYxvU",
-      "publishedAt": "2026-07-07T05:00:44+00:00"
+      "title": "The importance of life outside work",
+      "videoId": "Iot66iK26gg",
+      "url": "https://youtube.com/watch?v=Iot66iK26gg",
+      "publishedAt": "2026-07-08T04:55:21+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The enemies of the Roman Empire who almost destroyed it | Anthony Kaldellis and Lex Fridman",
-      "videoId": "uACRNj5soZk",
-      "url": "https://youtube.com/watch?v=uACRNj5soZk",
-      "publishedAt": "2026-07-07T04:00:28+00:00"
+      "title": "Did the plague kill half the Roman Empire? | Anthony Kaldellis and Lex Fridman",
+      "videoId": "UxdG7sKV_xg",
+      "url": "https://youtube.com/watch?v=UxdG7sKV_xg",
+      "publishedAt": "2026-07-08T04:00:28+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The last great war of the ancient world | Anthony Kaldellis and Lex Fridman",
-      "videoId": "iqn35ueCRmc",
-      "url": "https://youtube.com/watch?v=iqn35ueCRmc",
-      "publishedAt": "2026-07-07T00:00:29+00:00"
+      "title": "Future of human civilization - historian explains | Anthony Kaldellis and Lex Fridman",
+      "videoId": "Tm4BEKISxNM",
+      "url": "https://youtube.com/watch?v=Tm4BEKISxNM",
+      "publishedAt": "2026-07-08T00:00:29+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The most controversial Roman emperor - Justinian's wars of conquest | Anthony Kaldellis",
-      "videoId": "Pm-mIFJrhYc",
-      "url": "https://youtube.com/watch?v=Pm-mIFJrhYc",
-      "publishedAt": "2026-07-06T20:00:08+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Traditional Media Is Losing Power",
-      "videoId": "pOFsLI7ptk4",
-      "url": "https://youtube.com/watch?v=pOFsLI7ptk4",
-      "publishedAt": "2026-07-06T18:00:49+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Nuclear's SpaceX Moment",
-      "videoId": "uFEO9jbXQPM",
-      "url": "https://youtube.com/watch?v=uFEO9jbXQPM",
-      "publishedAt": "2026-07-06T14:59:18+00:00"
+      "title": "Persian Empire vs Roman Empire: The war that destroyed both empires | Anthony Kaldellis",
+      "videoId": "Qr-ShgxKDdY",
+      "url": "https://youtube.com/watch?v=Qr-ShgxKDdY",
+      "publishedAt": "2026-07-07T20:00:28+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Nvidia is ready to fight back",
-      "videoId": "K_ibw17dmjY",
-      "url": "https://youtube.com/watch?v=K_ibw17dmjY",
-      "publishedAt": "2026-07-06T14:21:52+00:00"
+      "title": "The Three Warring Factions of The Democratic Party: Progressives, Abundance, Resistance",
+      "videoId": "EmMyZzZzTwg",
+      "url": "https://youtube.com/watch?v=EmMyZzZzTwg",
+      "publishedAt": "2026-07-07T18:02:38+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Priscilla Chan: There are Diseases Nobody is Trying to Cure",
+      "videoId": "-XAkew33hns",
+      "url": "https://youtube.com/watch?v=-XAkew33hns",
+      "publishedAt": "2026-07-07T16:12:06+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "&quot;Maximise Token Spend&quot;",
-      "videoId": "cBefGzVBe0I",
-      "url": "https://youtube.com/watch?v=cBefGzVBe0I",
-      "publishedAt": "2026-07-06T14:14:08+00:00"
+      "title": "The Biggest Mistake VCs Make",
+      "videoId": "_UI3rMI2M1I",
+      "url": "https://youtube.com/watch?v=_UI3rMI2M1I",
+      "publishedAt": "2026-07-07T15:00:53+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "title": "The Billion Dollar PDF",
+      "videoId": "Y82q5Lw7_8E",
+      "url": "https://youtube.com/watch?v=Y82q5Lw7_8E",
+      "publishedAt": "2026-07-07T12:00:22+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents",
+      "videoId": "6bGxm8gX41o",
+      "url": "https://youtube.com/watch?v=6bGxm8gX41o",
+      "publishedAt": "2026-07-07T12:00:19+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "How early Disney movies drew every single frame on screen",
+      "videoId": "y4vn8PZ4b4s",
+      "url": "https://youtube.com/watch?v=y4vn8PZ4b4s",
+      "publishedAt": "2026-07-07T09:49:11+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 10
   }
 }
