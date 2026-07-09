@@ -1,89 +1,65 @@
 {
-  "generatedAt": "2026-07-08T08:36:03.062Z",
+  "generatedAt": "2026-07-09T09:58:15.679Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The importance of life outside work",
-      "videoId": "Iot66iK26gg",
-      "url": "https://youtube.com/watch?v=Iot66iK26gg",
-      "publishedAt": "2026-07-08T04:55:21+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Did the plague kill half the Roman Empire? | Anthony Kaldellis and Lex Fridman",
-      "videoId": "UxdG7sKV_xg",
-      "url": "https://youtube.com/watch?v=UxdG7sKV_xg",
-      "publishedAt": "2026-07-08T04:00:28+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Future of human civilization - historian explains | Anthony Kaldellis and Lex Fridman",
-      "videoId": "Tm4BEKISxNM",
-      "url": "https://youtube.com/watch?v=Tm4BEKISxNM",
-      "publishedAt": "2026-07-08T00:00:29+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Persian Empire vs Roman Empire: The war that destroyed both empires | Anthony Kaldellis",
-      "videoId": "Qr-ShgxKDdY",
-      "url": "https://youtube.com/watch?v=Qr-ShgxKDdY",
-      "publishedAt": "2026-07-07T20:00:28+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "The Three Warring Factions of The Democratic Party: Progressives, Abundance, Resistance",
-      "videoId": "EmMyZzZzTwg",
-      "url": "https://youtube.com/watch?v=EmMyZzZzTwg",
-      "publishedAt": "2026-07-07T18:02:38+00:00"
+      "title": "The New Behavior AI Music Is Creating",
+      "videoId": "gT-J2h5iI9A",
+      "url": "https://youtube.com/watch?v=gT-J2h5iI9A",
+      "publishedAt": "2026-07-09T05:00:29+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Priscilla Chan: There are Diseases Nobody is Trying to Cure",
-      "videoId": "-XAkew33hns",
-      "url": "https://youtube.com/watch?v=-XAkew33hns",
-      "publishedAt": "2026-07-07T16:12:06+00:00"
+      "title": "Satya Nadella on the next great startup",
+      "videoId": "Crqac-Mlgsk",
+      "url": "https://youtube.com/watch?v=Crqac-Mlgsk",
+      "publishedAt": "2026-07-08T23:27:25+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "The Biggest Mistake VCs Make",
-      "videoId": "_UI3rMI2M1I",
-      "url": "https://youtube.com/watch?v=_UI3rMI2M1I",
-      "publishedAt": "2026-07-07T15:00:53+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "The Billion Dollar PDF",
-      "videoId": "Y82q5Lw7_8E",
-      "url": "https://youtube.com/watch?v=Y82q5Lw7_8E",
-      "publishedAt": "2026-07-07T12:00:22+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents",
-      "videoId": "6bGxm8gX41o",
-      "url": "https://youtube.com/watch?v=6bGxm8gX41o",
-      "publishedAt": "2026-07-07T12:00:19+00:00"
+      "name": "Latent Space",
+      "title": "The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO",
+      "videoId": "UwxxlTNPjWo",
+      "url": "https://youtube.com/watch?v=UwxxlTNPjWo",
+      "publishedAt": "2026-07-08T22:42:38+00:00"
     },
     {
       "source": "podcast",
       "name": "Acquired",
-      "title": "How early Disney movies drew every single frame on screen",
-      "videoId": "y4vn8PZ4b4s",
-      "url": "https://youtube.com/watch?v=y4vn8PZ4b4s",
-      "publishedAt": "2026-07-07T09:49:11+00:00"
+      "title": "The US military used Disney’s studios during World War II",
+      "videoId": "1_E3I5lGAiU",
+      "url": "https://youtube.com/watch?v=1_E3I5lGAiU",
+      "publishedAt": "2026-07-08T16:01:12+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Sex in the Roman Empire | Anthony Kaldellis and Lex Fridman",
+      "videoId": "A-GI6zNpXGc",
+      "url": "https://youtube.com/watch?v=A-GI6zNpXGc",
+      "publishedAt": "2026-07-08T16:00:28+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Four Reasons Why Gavin Newsom’s Presidential Chances are Dropping FAST - Nate Silver",
+      "videoId": "LthCFHHpJmw",
+      "url": "https://youtube.com/watch?v=LthCFHHpJmw",
+      "publishedAt": "2026-07-08T14:16:33+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The greatest military secret weapon in history - Greek Fire | Anthony Kaldellis and Lex Fridman",
+      "videoId": "-YZDWSR269o",
+      "url": "https://youtube.com/watch?v=-YZDWSR269o",
+      "publishedAt": "2026-07-08T12:00:29+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 10
+    "podcastEpisodes": 7
   }
 }
