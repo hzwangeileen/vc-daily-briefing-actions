@@ -1,65 +1,57 @@
 {
-  "generatedAt": "2026-07-09T09:58:15.679Z",
+  "generatedAt": "2026-07-10T09:43:19.980Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "The New Behavior AI Music Is Creating",
-      "videoId": "gT-J2h5iI9A",
-      "url": "https://youtube.com/watch?v=gT-J2h5iI9A",
-      "publishedAt": "2026-07-09T05:00:29+00:00"
+      "name": "All-In Podcast",
+      "title": "Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras &amp; Black Forest Labs",
+      "videoId": "Y7p4rUCdqi0",
+      "url": "https://youtube.com/watch?v=Y7p4rUCdqi0",
+      "publishedAt": "2026-07-10T01:15:25+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Satya Nadella on the next great startup",
-      "videoId": "Crqac-Mlgsk",
-      "url": "https://youtube.com/watch?v=Crqac-Mlgsk",
-      "publishedAt": "2026-07-08T23:27:25+00:00"
+      "title": "Booking Holdings CEO: AI Makes Us Easier, Cheaper, Better",
+      "videoId": "Nc4tnsFuTcg",
+      "url": "https://youtube.com/watch?v=Nc4tnsFuTcg",
+      "publishedAt": "2026-07-09T23:37:52+00:00"
     },
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "The 100,000 Sandbox Problem — Akshat Bubna, Modal CTO",
-      "videoId": "UwxxlTNPjWo",
-      "url": "https://youtube.com/watch?v=UwxxlTNPjWo",
-      "publishedAt": "2026-07-08T22:42:38+00:00"
+      "name": "20VC",
+      "title": "Enterprises Fear Frontier Models | Sam Altman Offers Trump 5% of OpenAI | DeepSeek Builds Own Chips",
+      "videoId": "LUkbZHSQIog",
+      "url": "https://youtube.com/watch?v=LUkbZHSQIog",
+      "publishedAt": "2026-07-09T14:17:06+00:00"
     },
     {
       "source": "podcast",
-      "name": "Acquired",
-      "title": "The US military used Disney’s studios during World War II",
-      "videoId": "1_E3I5lGAiU",
-      "url": "https://youtube.com/watch?v=1_E3I5lGAiU",
-      "publishedAt": "2026-07-08T16:01:12+00:00"
+      "name": "20VC",
+      "title": "This week's latest #technews",
+      "videoId": "_v_vXp9K8qs",
+      "url": "https://youtube.com/watch?v=_v_vXp9K8qs",
+      "publishedAt": "2026-07-09T14:10:32+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Sex in the Roman Empire | Anthony Kaldellis and Lex Fridman",
-      "videoId": "A-GI6zNpXGc",
-      "url": "https://youtube.com/watch?v=A-GI6zNpXGc",
-      "publishedAt": "2026-07-08T16:00:28+00:00"
+      "name": "Unsupervised Learning",
+      "title": "AI Pioneer Jürgen Schmidhuber on the State of AI Today",
+      "videoId": "RKjR8DQ40po",
+      "url": "https://youtube.com/watch?v=RKjR8DQ40po",
+      "publishedAt": "2026-07-09T13:00:22+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Four Reasons Why Gavin Newsom’s Presidential Chances are Dropping FAST - Nate Silver",
-      "videoId": "LthCFHHpJmw",
-      "url": "https://youtube.com/watch?v=LthCFHHpJmw",
-      "publishedAt": "2026-07-08T14:16:33+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The greatest military secret weapon in history - Greek Fire | Anthony Kaldellis and Lex Fridman",
-      "videoId": "-YZDWSR269o",
-      "url": "https://youtube.com/watch?v=-YZDWSR269o",
-      "publishedAt": "2026-07-08T12:00:29+00:00"
+      "name": "No Priors",
+      "title": "Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel",
+      "videoId": "8nj_0wZkbtA",
+      "url": "https://youtube.com/watch?v=8nj_0wZkbtA",
+      "publishedAt": "2026-07-09T10:00:16+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 6
   }
 }
