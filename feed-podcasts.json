@@ -1,57 +1,49 @@
 {
-  "generatedAt": "2026-07-10T09:43:19.980Z",
+  "generatedAt": "2026-07-11T08:02:52.619Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras &amp; Black Forest Labs",
-      "videoId": "Y7p4rUCdqi0",
-      "url": "https://youtube.com/watch?v=Y7p4rUCdqi0",
-      "publishedAt": "2026-07-10T01:15:25+00:00"
+      "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+      "videoId": "PHL1j2ti420",
+      "url": "https://youtube.com/watch?v=PHL1j2ti420",
+      "publishedAt": "2026-07-11T02:39:34+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv",
+      "videoId": "bIOCKXcxloQ",
+      "url": "https://youtube.com/watch?v=bIOCKXcxloQ",
+      "publishedAt": "2026-07-10T20:24:16+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "Disney's Flywheel: The Business Model Nobody Can Copy",
+      "videoId": "njXOq03SXZo",
+      "url": "https://youtube.com/watch?v=njXOq03SXZo",
+      "publishedAt": "2026-07-10T19:00:15+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Booking Holdings CEO: AI Makes Us Easier, Cheaper, Better",
-      "videoId": "Nc4tnsFuTcg",
-      "url": "https://youtube.com/watch?v=Nc4tnsFuTcg",
-      "publishedAt": "2026-07-09T23:37:52+00:00"
+      "title": "No Moat is Safe",
+      "videoId": "eg0gLkFDtuo",
+      "url": "https://youtube.com/watch?v=eg0gLkFDtuo",
+      "publishedAt": "2026-07-10T18:42:13+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Enterprises Fear Frontier Models | Sam Altman Offers Trump 5% of OpenAI | DeepSeek Builds Own Chips",
-      "videoId": "LUkbZHSQIog",
-      "url": "https://youtube.com/watch?v=LUkbZHSQIog",
-      "publishedAt": "2026-07-09T14:17:06+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "This week's latest #technews",
-      "videoId": "_v_vXp9K8qs",
-      "url": "https://youtube.com/watch?v=_v_vXp9K8qs",
-      "publishedAt": "2026-07-09T14:10:32+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "AI Pioneer Jürgen Schmidhuber on the State of AI Today",
-      "videoId": "RKjR8DQ40po",
-      "url": "https://youtube.com/watch?v=RKjR8DQ40po",
-      "publishedAt": "2026-07-09T13:00:22+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel",
-      "videoId": "8nj_0wZkbtA",
-      "url": "https://youtube.com/watch?v=8nj_0wZkbtA",
-      "publishedAt": "2026-07-09T10:00:16+00:00"
+      "title": "5% will never be enough for AI",
+      "videoId": "gpnb2w7RjLQ",
+      "url": "https://youtube.com/watch?v=gpnb2w7RjLQ",
+      "publishedAt": "2026-07-10T11:10:24+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 6
+    "podcastEpisodes": 5
   }
 }
