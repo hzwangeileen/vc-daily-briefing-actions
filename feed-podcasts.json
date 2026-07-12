@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-07-11T08:02:52.619Z",
+  "generatedAt": "2026-07-12T08:24:09.610Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
-      "videoId": "PHL1j2ti420",
-      "url": "https://youtube.com/watch?v=PHL1j2ti420",
-      "publishedAt": "2026-07-11T02:39:34+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "Latent Space",
-      "title": "Podcast Crossover: AIE, AGI, frontier lab strategy with ​ ⁨@matthew_berman⁩  and @swyxtv",
-      "videoId": "bIOCKXcxloQ",
-      "url": "https://youtube.com/watch?v=bIOCKXcxloQ",
-      "publishedAt": "2026-07-10T20:24:16+00:00"
+      "title": "Why AI Agents Don't Actually Understand You — Danielle Perszyk, Amazon AGI Lab",
+      "videoId": "K796MYUgt0k",
+      "url": "https://youtube.com/watch?v=K796MYUgt0k",
+      "publishedAt": "2026-07-11T17:00:06+00:00"
     },
     {
       "source": "podcast",
-      "name": "Acquired",
-      "title": "Disney's Flywheel: The Business Model Nobody Can Copy",
-      "videoId": "njXOq03SXZo",
-      "url": "https://youtube.com/watch?v=njXOq03SXZo",
-      "publishedAt": "2026-07-10T19:00:15+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "No Moat is Safe",
-      "videoId": "eg0gLkFDtuo",
-      "url": "https://youtube.com/watch?v=eg0gLkFDtuo",
-      "publishedAt": "2026-07-10T18:42:13+00:00"
+      "name": "All-In Podcast",
+      "title": "&quot;We've never seen anything like this.&quot; - Brad Gerstner on Anthropic's Historic Revenue Ramp",
+      "videoId": "aCE5gOi0lYA",
+      "url": "https://youtube.com/watch?v=aCE5gOi0lYA",
+      "publishedAt": "2026-07-11T16:00:19+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "5% will never be enough for AI",
-      "videoId": "gpnb2w7RjLQ",
-      "url": "https://youtube.com/watch?v=gpnb2w7RjLQ",
-      "publishedAt": "2026-07-10T11:10:24+00:00"
+      "title": "⁠Why OpenAI and Anthropic Won't Win the App Layer | Glean Founder",
+      "videoId": "jX-Uq8JJ_j8",
+      "url": "https://youtube.com/watch?v=jX-Uq8JJ_j8",
+      "publishedAt": "2026-07-11T14:00:39+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Microsoft Is the Real AI Enemy, Not OpenAI",
+      "videoId": "zVkvCtoyAgw",
+      "url": "https://youtube.com/watch?v=zVkvCtoyAgw",
+      "publishedAt": "2026-07-11T14:00:36+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "It’s like Mickey and Donald are in the room with us…",
+      "videoId": "ZxwjK2qGCws",
+      "url": "https://youtube.com/watch?v=ZxwjK2qGCws",
+      "publishedAt": "2026-07-11T12:58:02+00:00"
     }
   ],
   "stats": {
