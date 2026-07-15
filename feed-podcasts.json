@@ -1,81 +1,41 @@
 {
-  "generatedAt": "2026-07-14T08:16:06.330Z",
+  "generatedAt": "2026-07-15T08:21:56.159Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Why Small Businesses Still Need Platforms",
-      "videoId": "A9mWD8FcDcM",
-      "url": "https://youtube.com/watch?v=A9mWD8FcDcM",
-      "publishedAt": "2026-07-14T05:00:37+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law &amp; the End of the Billable Hour",
-      "videoId": "J0bce9WQJ-g",
-      "url": "https://youtube.com/watch?v=J0bce9WQJ-g",
-      "publishedAt": "2026-07-14T00:40:42+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "How Martin Scorsese Uses AI for Movies: Prototyping Set Ideas from His Head",
-      "videoId": "WVbo4G_y8v4",
-      "url": "https://youtube.com/watch?v=WVbo4G_y8v4",
-      "publishedAt": "2026-07-14T00:00:10+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "No Priors",
-      "title": "Karpathy: Context Windows are a cheap way to manupilate AI",
-      "videoId": "2kvu6h1FQPc",
-      "url": "https://youtube.com/watch?v=2kvu6h1FQPc",
-      "publishedAt": "2026-07-13T21:59:51+00:00"
+      "title": "Andrej Karpathy's Advice for the AI Job Market",
+      "videoId": "d--7z2GyIhI",
+      "url": "https://youtube.com/watch?v=d--7z2GyIhI",
+      "publishedAt": "2026-07-15T01:29:54+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Brad Gerstner: Companies Will Pay 5x More for the Best AI",
-      "videoId": "gy1txZ-xeqs",
-      "url": "https://youtube.com/watch?v=gy1txZ-xeqs",
-      "publishedAt": "2026-07-13T20:30:36+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder &amp; CEO",
-      "videoId": "jhpmMTus5a0",
-      "url": "https://youtube.com/watch?v=jhpmMTus5a0",
-      "publishedAt": "2026-07-13T18:21:40+00:00"
+      "title": "Cerebras CEO Warns: A Massive AI Data Breach Is Coming",
+      "videoId": "RqXnBGuxSlE",
+      "url": "https://youtube.com/watch?v=RqXnBGuxSlE",
+      "publishedAt": "2026-07-14T19:35:09+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Wix CEO on the True Value of Money",
-      "videoId": "6ptXyv9kV3k",
-      "url": "https://youtube.com/watch?v=6ptXyv9kV3k",
-      "publishedAt": "2026-07-13T18:01:16+00:00"
+      "title": "Wix CEO’s Unusual Sleep Schedule",
+      "videoId": "wndHNbtT83U",
+      "url": "https://youtube.com/watch?v=wndHNbtT83U",
+      "publishedAt": "2026-07-14T14:16:01+00:00"
     },
     {
       "source": "podcast",
-      "name": "Acquired",
-      "title": "Snow White had insane production value",
-      "videoId": "h9rlcx8xKE0",
-      "url": "https://youtube.com/watch?v=h9rlcx8xKE0",
-      "publishedAt": "2026-07-13T15:58:13+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "&quot;You're not gonna vibe code Shopify...&quot; | Wix CEO",
-      "videoId": "8WrvmjXSVY4",
-      "url": "https://youtube.com/watch?v=8WrvmjXSVY4",
-      "publishedAt": "2026-07-13T14:00:30+00:00"
+      "name": "Training Data",
+      "title": "Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
+      "videoId": "vPnVTHYplrQ",
+      "url": "https://youtube.com/watch?v=vPnVTHYplrQ",
+      "publishedAt": "2026-07-14T09:00:37+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 9
+    "podcastEpisodes": 4
   }
 }
