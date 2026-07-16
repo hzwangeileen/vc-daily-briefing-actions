@@ -1,41 +1,33 @@
 {
-  "generatedAt": "2026-07-15T08:21:56.159Z",
+  "generatedAt": "2026-07-16T08:20:49.137Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "Andrej Karpathy's Advice for the AI Job Market",
-      "videoId": "d--7z2GyIhI",
-      "url": "https://youtube.com/watch?v=d--7z2GyIhI",
-      "publishedAt": "2026-07-15T01:29:54+00:00"
+      "name": "20VC",
+      "title": "Will Your Degree Still Matter in a Year?",
+      "videoId": "YEnIb7ictjA",
+      "url": "https://youtube.com/watch?v=YEnIb7ictjA",
+      "publishedAt": "2026-07-16T05:00:27+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Cerebras CEO Warns: A Massive AI Data Breach Is Coming",
-      "videoId": "RqXnBGuxSlE",
-      "url": "https://youtube.com/watch?v=RqXnBGuxSlE",
-      "publishedAt": "2026-07-14T19:35:09+00:00"
+      "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+      "videoId": "-ILKiOU5iAQ",
+      "url": "https://youtube.com/watch?v=-ILKiOU5iAQ",
+      "publishedAt": "2026-07-15T21:27:56+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Wix CEO’s Unusual Sleep Schedule",
-      "videoId": "wndHNbtT83U",
-      "url": "https://youtube.com/watch?v=wndHNbtT83U",
-      "publishedAt": "2026-07-14T14:16:01+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
-      "videoId": "vPnVTHYplrQ",
-      "url": "https://youtube.com/watch?v=vPnVTHYplrQ",
-      "publishedAt": "2026-07-14T09:00:37+00:00"
+      "name": "No Priors",
+      "title": "What You Can't Say Inside an AI Lab",
+      "videoId": "rwutaYGLIso",
+      "url": "https://youtube.com/watch?v=rwutaYGLIso",
+      "publishedAt": "2026-07-15T21:18:40+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 3
   }
 }
