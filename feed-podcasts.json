@@ -1,57 +1,17 @@
 {
-  "generatedAt": "2026-07-17T08:17:47.977Z",
+  "generatedAt": "2026-07-18T07:59:15.316Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Acquired",
-      "title": "The Accidental Genius of the Disney Vault",
-      "videoId": "YH57mtExczI",
-      "url": "https://youtube.com/watch?v=YH57mtExczI",
-      "publishedAt": "2026-07-17T00:06:57+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The Phoebe Gates Outrage is Overblown",
-      "videoId": "ECY0dOjxAIA",
-      "url": "https://youtube.com/watch?v=ECY0dOjxAIA",
-      "publishedAt": "2026-07-16T18:00:42+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Apple Sues OpenAI &amp; Zuck Back on X | #technews",
-      "videoId": "jBKiQEWGi18",
-      "url": "https://youtube.com/watch?v=jBKiQEWGi18",
-      "publishedAt": "2026-07-16T15:00:29+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Zuckerberg Back on X Challenging Codex &amp; Claude Code | SK Hynix’s $26BN IPO",
-      "videoId": "HoRaqNWKcpM",
-      "url": "https://youtube.com/watch?v=HoRaqNWKcpM",
-      "publishedAt": "2026-07-16T13:59:15+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "🔬 RL with Verifiable Rewards, but the Verifier is a Lab — Lila Sciences",
-      "videoId": "2wIxPWK6nCs",
-      "url": "https://youtube.com/watch?v=2wIxPWK6nCs",
-      "publishedAt": "2026-07-16T13:30:13+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Top AI Analyst Unpacks Today's AI Hype Cycle",
-      "videoId": "vDY_ocrkQ5w",
-      "url": "https://youtube.com/watch?v=vDY_ocrkQ5w",
-      "publishedAt": "2026-07-16T13:00:05+00:00"
+      "name": "All-In Podcast",
+      "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
+      "videoId": "9IMwRIei-Xc",
+      "url": "https://youtube.com/watch?v=9IMwRIei-Xc",
+      "publishedAt": "2026-07-18T00:54:40+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 6
+    "podcastEpisodes": 1
   }
 }
