@@ -1,49 +1,17 @@
 {
-  "generatedAt": "2026-07-19T08:25:45.272Z",
+  "generatedAt": "2026-07-20T09:22:56.755Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Sacks: Kathy Hochul is LYING about Datacenters!",
-      "videoId": "FZHeOapzRZg",
-      "url": "https://youtube.com/watch?v=FZHeOapzRZg",
-      "publishedAt": "2026-07-19T00:00:37+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "20VC",
-      "title": "7 to 7,000 Employees in 9 Months",
-      "videoId": "ZDpaUOtmuns",
-      "url": "https://youtube.com/watch?v=ZDpaUOtmuns",
-      "publishedAt": "2026-07-18T14:10:35+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "From 7 to 7,000 Employees in 9 Months | Curative Co-founder &amp; CEO",
-      "videoId": "GHRuerXkHlI",
-      "url": "https://youtube.com/watch?v=GHRuerXkHlI",
-      "publishedAt": "2026-07-18T14:00:05+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Friedberg: Scientists just REVERSED skin age from 70 years to 31",
-      "videoId": "J3_9g6g-XM4",
-      "url": "https://youtube.com/watch?v=J3_9g6g-XM4",
-      "publishedAt": "2026-07-18T13:35:23+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Acquired",
-      "title": "How Walt Disney Funded Disneyland",
-      "videoId": "7ozXyLYjgH4",
-      "url": "https://youtube.com/watch?v=7ozXyLYjgH4",
-      "publishedAt": "2026-07-18T10:14:17+00:00"
+      "title": "We built our own vibe coded salesforce",
+      "videoId": "01ywfyvWuj0",
+      "url": "https://youtube.com/watch?v=01ywfyvWuj0",
+      "publishedAt": "2026-07-19T17:10:23+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 1
   }
 }
