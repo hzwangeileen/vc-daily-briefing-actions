@@ -1,17 +1,57 @@
 {
-  "generatedAt": "2026-07-20T09:22:56.755Z",
+  "generatedAt": "2026-07-21T08:35:54.791Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "We built our own vibe coded salesforce",
-      "videoId": "01ywfyvWuj0",
-      "url": "https://youtube.com/watch?v=01ywfyvWuj0",
-      "publishedAt": "2026-07-19T17:10:23+00:00"
+      "title": "What Jensen Huang Taught Her About Leadership",
+      "videoId": "qqGEuFY3VDI",
+      "url": "https://youtube.com/watch?v=qqGEuFY3VDI",
+      "publishedAt": "2026-07-21T05:00:28+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "When Disney Made More From Merch Than Movies",
+      "videoId": "U79ts6YlGHQ",
+      "url": "https://youtube.com/watch?v=U79ts6YlGHQ",
+      "publishedAt": "2026-07-20T21:04:54+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Why Token Prices Are About to Collapse",
+      "videoId": "6Ua0_IwcO2c",
+      "url": "https://youtube.com/watch?v=6Ua0_IwcO2c",
+      "publishedAt": "2026-07-20T18:00:27+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Chamath: Tokenmaxxing is a bridge to nowhere",
+      "videoId": "femfLQMSxKY",
+      "url": "https://youtube.com/watch?v=femfLQMSxKY",
+      "publishedAt": "2026-07-20T16:00:25+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Why Cheap Energy Always Creates Its Own Demand",
+      "videoId": "VqiZcxRaTWU",
+      "url": "https://youtube.com/watch?v=VqiZcxRaTWU",
+      "publishedAt": "2026-07-20T15:18:22+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Token Costs Will Fall 10X | Token Usage Will 100X",
+      "videoId": "Z5b6CSTYgdI",
+      "url": "https://youtube.com/watch?v=Z5b6CSTYgdI",
+      "publishedAt": "2026-07-20T14:00:37+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 6
   }
 }
