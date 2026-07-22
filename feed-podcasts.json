@@ -1,57 +1,65 @@
 {
-  "generatedAt": "2026-07-21T08:35:54.791Z",
+  "generatedAt": "2026-07-22T08:35:08.259Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "What Jensen Huang Taught Her About Leadership",
-      "videoId": "qqGEuFY3VDI",
-      "url": "https://youtube.com/watch?v=qqGEuFY3VDI",
-      "publishedAt": "2026-07-21T05:00:28+00:00"
+      "title": "Why AI Independence Matters Now",
+      "videoId": "xL_6vkDsnsk",
+      "url": "https://youtube.com/watch?v=xL_6vkDsnsk",
+      "publishedAt": "2026-07-22T05:00:23+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang &amp; Ci Chu)",
+      "videoId": "2AdS-2uuH80",
+      "url": "https://youtube.com/watch?v=2AdS-2uuH80",
+      "publishedAt": "2026-07-21T19:25:41+00:00"
     },
     {
       "source": "podcast",
       "name": "Acquired",
-      "title": "When Disney Made More From Merch Than Movies",
-      "videoId": "U79ts6YlGHQ",
-      "url": "https://youtube.com/watch?v=U79ts6YlGHQ",
-      "publishedAt": "2026-07-20T21:04:54+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Why Token Prices Are About to Collapse",
-      "videoId": "6Ua0_IwcO2c",
-      "url": "https://youtube.com/watch?v=6Ua0_IwcO2c",
-      "publishedAt": "2026-07-20T18:00:27+00:00"
+      "title": "The Original Mickey Mouse Club",
+      "videoId": "RNFqON1bm94",
+      "url": "https://youtube.com/watch?v=RNFqON1bm94",
+      "publishedAt": "2026-07-21T18:31:57+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Chamath: Tokenmaxxing is a bridge to nowhere",
-      "videoId": "femfLQMSxKY",
-      "url": "https://youtube.com/watch?v=femfLQMSxKY",
-      "publishedAt": "2026-07-20T16:00:25+00:00"
+      "title": "China Could Cripple Taiwan in 3 Weeks, Without Invading",
+      "videoId": "NGdt40IVNPU",
+      "url": "https://youtube.com/watch?v=NGdt40IVNPU",
+      "publishedAt": "2026-07-21T18:31:02+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "Why Cheap Energy Always Creates Its Own Demand",
-      "videoId": "VqiZcxRaTWU",
-      "url": "https://youtube.com/watch?v=VqiZcxRaTWU",
-      "publishedAt": "2026-07-20T15:18:22+00:00"
+      "name": "All-In Podcast",
+      "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
+      "videoId": "OY2Sjbjd_VE",
+      "url": "https://youtube.com/watch?v=OY2Sjbjd_VE",
+      "publishedAt": "2026-07-21T17:14:13+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Token Costs Will Fall 10X | Token Usage Will 100X",
-      "videoId": "Z5b6CSTYgdI",
-      "url": "https://youtube.com/watch?v=Z5b6CSTYgdI",
-      "publishedAt": "2026-07-20T14:00:37+00:00"
+      "title": "Inside AI's Next Big Shift",
+      "videoId": "RB6kemlqbyk",
+      "url": "https://youtube.com/watch?v=RB6kemlqbyk",
+      "publishedAt": "2026-07-21T14:00:32+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
+      "videoId": "ZesOukBjPmI",
+      "url": "https://youtube.com/watch?v=ZesOukBjPmI",
+      "publishedAt": "2026-07-21T12:00:08+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 6
+    "podcastEpisodes": 7
   }
 }
