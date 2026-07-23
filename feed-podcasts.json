@@ -1,65 +1,41 @@
 {
-  "generatedAt": "2026-07-22T08:35:08.259Z",
+  "generatedAt": "2026-07-23T08:36:33.093Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why AI Independence Matters Now",
-      "videoId": "xL_6vkDsnsk",
-      "url": "https://youtube.com/watch?v=xL_6vkDsnsk",
-      "publishedAt": "2026-07-22T05:00:23+00:00"
+      "title": "Why Founders Leave the UK",
+      "videoId": "CYJOEAg8baU",
+      "url": "https://youtube.com/watch?v=CYJOEAg8baU",
+      "publishedAt": "2026-07-23T05:00:28+00:00"
     },
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "Causal Models Need Causal Data - Xaira’s X-Cell model (Bo Wang &amp; Ci Chu)",
-      "videoId": "2AdS-2uuH80",
-      "url": "https://youtube.com/watch?v=2AdS-2uuH80",
-      "publishedAt": "2026-07-21T19:25:41+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Acquired",
-      "title": "The Original Mickey Mouse Club",
-      "videoId": "RNFqON1bm94",
-      "url": "https://youtube.com/watch?v=RNFqON1bm94",
-      "publishedAt": "2026-07-21T18:31:57+00:00"
+      "title": "Poolside’s Model Factory, Laguna S, Open Models, and the Race to AGI — Eiso Kant, Poolside AI",
+      "videoId": "9_0hs2sxHHo",
+      "url": "https://youtube.com/watch?v=9_0hs2sxHHo",
+      "publishedAt": "2026-07-22T20:46:43+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "China Could Cripple Taiwan in 3 Weeks, Without Invading",
-      "videoId": "NGdt40IVNPU",
-      "url": "https://youtube.com/watch?v=NGdt40IVNPU",
-      "publishedAt": "2026-07-21T18:31:02+00:00"
+      "title": "David Sacks: Anthropic Wants to Ban Open Source AI in America",
+      "videoId": "i9Ky2UH6c2Q",
+      "url": "https://youtube.com/watch?v=i9Ky2UH6c2Q",
+      "publishedAt": "2026-07-22T18:15:26+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
-      "videoId": "OY2Sjbjd_VE",
-      "url": "https://youtube.com/watch?v=OY2Sjbjd_VE",
-      "publishedAt": "2026-07-21T17:14:13+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Inside AI's Next Big Shift",
-      "videoId": "RB6kemlqbyk",
-      "url": "https://youtube.com/watch?v=RB6kemlqbyk",
-      "publishedAt": "2026-07-21T14:00:32+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
-      "videoId": "ZesOukBjPmI",
-      "url": "https://youtube.com/watch?v=ZesOukBjPmI",
-      "publishedAt": "2026-07-21T12:00:08+00:00"
+      "title": "How the Finance Department Killed Intel - Former CEO",
+      "videoId": "WKsROP5xK0g",
+      "url": "https://youtube.com/watch?v=WKsROP5xK0g",
+      "publishedAt": "2026-07-22T15:33:50+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 4
   }
 }
