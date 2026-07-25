@@ -1,49 +1,41 @@
 {
-  "generatedAt": "2026-07-24T08:32:57.011Z",
+  "generatedAt": "2026-07-25T08:12:32.684Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "David Friedberg: The Socialists Are Coming for Your Private Property Rights",
+      "videoId": "3LUSjHpKn6c",
+      "url": "https://youtube.com/watch?v=3LUSjHpKn6c",
+      "publishedAt": "2026-07-25T02:09:58+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+      "videoId": "wcV0SRPFK9s",
+      "url": "https://youtube.com/watch?v=wcV0SRPFK9s",
+      "publishedAt": "2026-07-24T21:04:37+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "Walt Disney's Unfinished Sci-Fi City: The REAL EPCOT",
+      "videoId": "JjDdCToFpUM",
+      "url": "https://youtube.com/watch?v=JjDdCToFpUM",
+      "publishedAt": "2026-07-24T20:56:10+00:00"
+    },
+    {
+      "source": "podcast",
       "name": "20VC",
-      "title": "Why AI Will Follow the Software Stack Playbook",
-      "videoId": "WvI0EpLG_fg",
-      "url": "https://youtube.com/watch?v=WvI0EpLG_fg",
-      "publishedAt": "2026-07-24T05:00:26+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "AI Will Create More Delivery Jobs",
-      "videoId": "mj339oyeXx4",
-      "url": "https://youtube.com/watch?v=mj339oyeXx4",
-      "publishedAt": "2026-07-23T20:39:29+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "OpenAI &amp; Anthropic Threatened by Kimi?",
-      "videoId": "5poqNchMhcw",
-      "url": "https://youtube.com/watch?v=5poqNchMhcw",
-      "publishedAt": "2026-07-23T14:00:25+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Frontier Labs Threatened by Kimi? Should the US Ban Chinese Open-Source Models &amp; Stripe Buys PayPal",
-      "videoId": "rwGTOmdbLQs",
-      "url": "https://youtube.com/watch?v=rwGTOmdbLQs",
-      "publishedAt": "2026-07-23T13:59:40+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Building an Autonomous Delivery Experience with DoorDash Co-Founders Andy Fang and Stanley Tang",
-      "videoId": "vNpcg_Ma-FA",
-      "url": "https://youtube.com/watch?v=vNpcg_Ma-FA",
-      "publishedAt": "2026-07-23T10:00:28+00:00"
+      "title": "Groq CEO Explains the Data Centre Crisis",
+      "videoId": "XZfsrIyaVvA",
+      "url": "https://youtube.com/watch?v=XZfsrIyaVvA",
+      "publishedAt": "2026-07-24T14:52:41+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 4
   }
 }
