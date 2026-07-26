@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-07-25T08:12:32.684Z",
+  "generatedAt": "2026-07-26T08:32:38.006Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "David Friedberg: The Socialists Are Coming for Your Private Property Rights",
-      "videoId": "3LUSjHpKn6c",
-      "url": "https://youtube.com/watch?v=3LUSjHpKn6c",
-      "publishedAt": "2026-07-25T02:09:58+00:00"
+      "title": "Chamath: Banning Open Source AI Will Crash the Stock Market",
+      "videoId": "Ka2y-0Of0Dc",
+      "url": "https://youtube.com/watch?v=Ka2y-0Of0Dc",
+      "publishedAt": "2026-07-25T20:30:21+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
-      "videoId": "wcV0SRPFK9s",
-      "url": "https://youtube.com/watch?v=wcV0SRPFK9s",
-      "publishedAt": "2026-07-24T21:04:37+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Acquired",
-      "title": "Walt Disney's Unfinished Sci-Fi City: The REAL EPCOT",
-      "videoId": "JjDdCToFpUM",
-      "url": "https://youtube.com/watch?v=JjDdCToFpUM",
-      "publishedAt": "2026-07-24T20:56:10+00:00"
+      "title": "David Sacks: Anthropic Wants to Kill Open Source AI in America",
+      "videoId": "rXox_xc-ddM",
+      "url": "https://youtube.com/watch?v=rXox_xc-ddM",
+      "publishedAt": "2026-07-25T16:00:16+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Groq CEO Explains the Data Centre Crisis",
-      "videoId": "XZfsrIyaVvA",
-      "url": "https://youtube.com/watch?v=XZfsrIyaVvA",
-      "publishedAt": "2026-07-24T14:52:41+00:00"
+      "title": "Mercor Head of Product on Revenue Concentration from Frontier Labs",
+      "videoId": "rlY1mHhJKvs",
+      "url": "https://youtube.com/watch?v=rlY1mHhJKvs",
+      "publishedAt": "2026-07-25T14:00:20+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Why Mercor Is Moving Away From Figma",
+      "videoId": "ecZmNJ_EXW8",
+      "url": "https://youtube.com/watch?v=ecZmNJ_EXW8",
+      "publishedAt": "2026-07-25T13:55:25+00:00"
     }
   ],
   "stats": {
