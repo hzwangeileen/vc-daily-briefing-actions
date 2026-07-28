@@ -1,25 +1,57 @@
 {
-  "generatedAt": "2026-07-27T09:59:04.191Z",
+  "generatedAt": "2026-07-28T08:41:43.523Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why we switched from Figma to Claude Design",
-      "videoId": "AhaWz2scxGI",
-      "url": "https://youtube.com/watch?v=AhaWz2scxGI",
-      "publishedAt": "2026-07-26T17:24:41+00:00"
+      "title": "Why Europe’s Best Founders Stand Out",
+      "videoId": "1w0eEW9YnPk",
+      "url": "https://youtube.com/watch?v=1w0eEW9YnPk",
+      "publishedAt": "2026-07-28T05:00:34+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Chamath: Google Is the Ultimate AI Compounding Machine",
-      "videoId": "b8V_4jb8Yes",
-      "url": "https://youtube.com/watch?v=b8V_4jb8Yes",
-      "publishedAt": "2026-07-26T15:24:27+00:00"
+      "title": "Mark Cuban: AI is not going to take away 50% of the jobs.",
+      "videoId": "8LFUuMqUqfM",
+      "url": "https://youtube.com/watch?v=8LFUuMqUqfM",
+      "publishedAt": "2026-07-27T23:30:38+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Why VCs Are Investing Earlier",
+      "videoId": "2TPbRvg9y2g",
+      "url": "https://youtube.com/watch?v=2TPbRvg9y2g",
+      "publishedAt": "2026-07-27T18:00:23+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Mark Cuban: “A lot of data centers will be turned into pickleball courts.”",
+      "videoId": "Rn0qsdB2ZTQ",
+      "url": "https://youtube.com/watch?v=Rn0qsdB2ZTQ",
+      "publishedAt": "2026-07-27T16:16:36+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Will Open Source Threaten Anthropic's Business?",
+      "videoId": "FXZ74m8L-Vw",
+      "url": "https://youtube.com/watch?v=FXZ74m8L-Vw",
+      "publishedAt": "2026-07-27T14:13:36+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "The Biggest Mistake Autonomy Startups Make",
+      "videoId": "-vIU-I4s8qU",
+      "url": "https://youtube.com/watch?v=-vIU-I4s8qU",
+      "publishedAt": "2026-07-27T13:40:03+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 6
   }
 }
