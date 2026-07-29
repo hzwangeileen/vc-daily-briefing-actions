@@ -1,57 +1,73 @@
 {
-  "generatedAt": "2026-07-28T08:41:43.523Z",
+  "generatedAt": "2026-07-29T08:47:35.872Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why Europe’s Best Founders Stand Out",
-      "videoId": "1w0eEW9YnPk",
-      "url": "https://youtube.com/watch?v=1w0eEW9YnPk",
-      "publishedAt": "2026-07-28T05:00:34+00:00"
+      "title": "Why Menlo Ventures Backed Anthropic Before It Had Revenue",
+      "videoId": "CMKP0R5nv6o",
+      "url": "https://youtube.com/watch?v=CMKP0R5nv6o",
+      "publishedAt": "2026-07-29T05:00:27+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Civil War could've been avoided - Why historians are wrong | Gary Gallagher and Lex Fridman",
+      "videoId": "zNf10r0zP-E",
+      "url": "https://youtube.com/watch?v=zNf10r0zP-E",
+      "publishedAt": "2026-07-29T04:00:29+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The truth about slavery: It was very profitable in America | Gary Gallagher and Lex Fridman",
+      "videoId": "SPby2V3OtSY",
+      "url": "https://youtube.com/watch?v=SPby2V3OtSY",
+      "publishedAt": "2026-07-29T00:00:11+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "Disney Built Disneyland in One Year for $17 Million",
+      "videoId": "hT32G6bZ_lM",
+      "url": "https://youtube.com/watch?v=hT32G6bZ_lM",
+      "publishedAt": "2026-07-28T17:23:14+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Mark Cuban: AI is not going to take away 50% of the jobs.",
-      "videoId": "8LFUuMqUqfM",
-      "url": "https://youtube.com/watch?v=8LFUuMqUqfM",
-      "publishedAt": "2026-07-27T23:30:38+00:00"
+      "title": "The Incredible Deal Behind Darth Vader’s AI Voice",
+      "videoId": "qy6CBueM5CA",
+      "url": "https://youtube.com/watch?v=qy6CBueM5CA",
+      "publishedAt": "2026-07-28T16:11:34+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "OpenAI’s Plan to Make ChatGPT the Everything App — Akshay Nathan, OpenAI",
+      "videoId": "gKhW6vL4V9A",
+      "url": "https://youtube.com/watch?v=gKhW6vL4V9A",
+      "publishedAt": "2026-07-28T14:47:26+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why VCs Are Investing Earlier",
-      "videoId": "2TPbRvg9y2g",
-      "url": "https://youtube.com/watch?v=2TPbRvg9y2g",
-      "publishedAt": "2026-07-27T18:00:23+00:00"
+      "title": "Can Open-Source AI Replace Anthropic?",
+      "videoId": "y0wF0pf5XyM",
+      "url": "https://youtube.com/watch?v=y0wF0pf5XyM",
+      "publishedAt": "2026-07-28T14:00:32+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Mark Cuban: “A lot of data centers will be turned into pickleball courts.”",
-      "videoId": "Rn0qsdB2ZTQ",
-      "url": "https://youtube.com/watch?v=Rn0qsdB2ZTQ",
-      "publishedAt": "2026-07-27T16:16:36+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Will Open Source Threaten Anthropic's Business?",
-      "videoId": "FXZ74m8L-Vw",
-      "url": "https://youtube.com/watch?v=FXZ74m8L-Vw",
-      "publishedAt": "2026-07-27T14:13:36+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "The Biggest Mistake Autonomy Startups Make",
-      "videoId": "-vIU-I4s8qU",
-      "url": "https://youtube.com/watch?v=-vIU-I4s8qU",
-      "publishedAt": "2026-07-27T13:40:03+00:00"
+      "name": "Invest Like the Best",
+      "title": "Sam Altman on AGI, Compute, and Human Agency",
+      "videoId": "XDB5beon4DY",
+      "url": "https://youtube.com/watch?v=XDB5beon4DY",
+      "publishedAt": "2026-07-28T12:00:11+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 6
+    "podcastEpisodes": 8
   }
 }
