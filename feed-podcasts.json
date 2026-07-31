@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-07-30T08:34:00.742Z",
+  "generatedAt": "2026-07-31T08:55:39.163Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "How the Confederacy almost won the Civil War - historian debunks myth | Gary Gallagher",
-      "videoId": "DNodWApHAF4",
-      "url": "https://youtube.com/watch?v=DNodWApHAF4",
-      "publishedAt": "2026-07-30T04:00:49+00:00"
+      "title": "The lies behind the Civil War | Gary Gallagher and Lex Fridman",
+      "videoId": "KZVVIACrX38",
+      "url": "https://youtube.com/watch?v=KZVVIACrX38",
+      "publishedAt": "2026-07-31T04:00:09+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The greatest president in America's history | Gary Gallagher and Lex Fridman",
-      "videoId": "I_wsdbhACxg",
-      "url": "https://youtube.com/watch?v=I_wsdbhACxg",
-      "publishedAt": "2026-07-30T00:00:30+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Why Cheap Energy Always Creates Its Own Demand",
-      "videoId": "cQQqjThjscI",
-      "url": "https://youtube.com/watch?v=cQQqjThjscI",
-      "publishedAt": "2026-07-29T20:45:30+00:00"
+      "title": "Black men who fought in the Civil War | Gary Gallagher and Lex Fridman",
+      "videoId": "V18Iyo9qZA8",
+      "url": "https://youtube.com/watch?v=V18Iyo9qZA8",
+      "publishedAt": "2026-07-31T00:00:11+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The final showdown of the Civil War - Grant vs Lee | Gary Gallagher and Lex Fridman",
-      "videoId": "cuGrOVY5SiU",
-      "url": "https://youtube.com/watch?v=cuGrOVY5SiU",
-      "publishedAt": "2026-07-29T20:00:30+00:00"
+      "title": "Confederate flag explained by historian | Gary Gallagher and Lex Fridman",
+      "videoId": "OgfmMlLY1dU",
+      "url": "https://youtube.com/watch?v=OgfmMlLY1dU",
+      "publishedAt": "2026-07-30T20:00:29+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "How Lovable Hit $300M ARR in Just Over a Year",
-      "videoId": "D88q94PtQVE",
-      "url": "https://youtube.com/watch?v=D88q94PtQVE",
-      "publishedAt": "2026-07-29T14:00:38+00:00"
+      "title": "Leo Aschenbrenner FORCED TO SELL",
+      "videoId": "Qo1aHNJf_Mk",
+      "url": "https://youtube.com/watch?v=Qo1aHNJf_Mk",
+      "publishedAt": "2026-07-30T18:50:35+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next",
-      "videoId": "TqNiSTeNtb0",
-      "url": "https://youtube.com/watch?v=TqNiSTeNtb0",
-      "publishedAt": "2026-07-29T12:49:19+00:00"
+      "name": "No Priors",
+      "title": "The U.S. Claimed 4,000 Acres in the Philippines for AI",
+      "videoId": "zhdGwWZSdiE",
+      "url": "https://youtube.com/watch?v=zhdGwWZSdiE",
+      "publishedAt": "2026-07-30T17:03:00+00:00"
     },
     {
       "source": "podcast",
-      "name": "Training Data",
-      "title": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
-      "videoId": "2RJiaf0SY8s",
-      "url": "https://youtube.com/watch?v=2RJiaf0SY8s",
-      "publishedAt": "2026-07-29T12:00:38+00:00"
+      "name": "20VC",
+      "title": "Travis Kalanick Raises $1.7B for Atoms | Google Cloud Grows 82% But The Market Tanks",
+      "videoId": "0oWgE5ph9r4",
+      "url": "https://youtube.com/watch?v=0oWgE5ph9r4",
+      "publishedAt": "2026-07-30T14:02:33+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Jensen's Open-Weights Letter, Travis Kalanick Raises $1.7B for Atoms &amp; lots more...",
+      "videoId": "x220BmXVsJs",
+      "url": "https://youtube.com/watch?v=x220BmXVsJs",
+      "publishedAt": "2026-07-30T14:01:28+00:00"
     }
   ],
   "stats": {
