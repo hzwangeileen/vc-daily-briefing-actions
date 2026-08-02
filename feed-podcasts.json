@@ -1,89 +1,65 @@
 {
-  "generatedAt": "2026-08-01T08:26:50.175Z",
+  "generatedAt": "2026-08-02T08:29:31.606Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Sacks: The Chip Stock Crash is Based on Momentum, NOT Fundamentals",
-      "videoId": "ucwxs7KLUI4",
-      "url": "https://youtube.com/watch?v=ucwxs7KLUI4",
-      "publishedAt": "2026-08-01T04:16:11+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Lessons from the Civil War for today | Gary Gallagher and Lex Fridman",
-      "videoId": "pbsbNYpQgho",
-      "url": "https://youtube.com/watch?v=pbsbNYpQgho",
-      "publishedAt": "2026-08-01T04:00:31+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Bloodiest day in American history | Gary Gallagher and Lex Fridman",
-      "videoId": "1MdGbsPfpNU",
-      "url": "https://youtube.com/watch?v=1MdGbsPfpNU",
-      "publishedAt": "2026-08-01T00:00:37+00:00"
+      "title": "The shocking brutality of the Civil War | Gary Gallagher and Lex Fridman",
+      "videoId": "Og0cqYM8GiA",
+      "url": "https://youtube.com/watch?v=Og0cqYM8GiA",
+      "publishedAt": "2026-08-02T04:00:30+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Can AI Startups Still Compete With the Labs?",
-      "videoId": "_W2orRAR9eM",
-      "url": "https://youtube.com/watch?v=_W2orRAR9eM",
-      "publishedAt": "2026-07-31T23:30:42+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
-      "videoId": "ViqYWhLimGg",
-      "url": "https://youtube.com/watch?v=ViqYWhLimGg",
-      "publishedAt": "2026-07-31T22:51:01+00:00"
+      "title": "You're Underestimating America",
+      "videoId": "zxAUJ10ghsY",
+      "url": "https://youtube.com/watch?v=zxAUJ10ghsY",
+      "publishedAt": "2026-08-02T00:43:59+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "What caused the American Civil War? | Gary Gallagher and Lex Fridman",
-      "videoId": "tJ5gJvZPRtg",
-      "url": "https://youtube.com/watch?v=tJ5gJvZPRtg",
-      "publishedAt": "2026-07-31T20:00:25+00:00"
+      "title": "The most important battle of the Civil War | Gary Gallagher and Lex Fridman",
+      "videoId": "cuh7GZ6cBqA",
+      "url": "https://youtube.com/watch?v=cuh7GZ6cBqA",
+      "publishedAt": "2026-08-02T00:00:33+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Greatest speech in American history | Gary Gallagher and Lex Fridman",
+      "videoId": "Gw50KOG7srg",
+      "url": "https://youtube.com/watch?v=Gw50KOG7srg",
+      "publishedAt": "2026-08-01T20:00:30+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Inside Citadel's $16B Takeover of Leopold Aschenbrenner's AI Empire",
-      "videoId": "5WsQrcrb1TM",
-      "url": "https://youtube.com/watch?v=5WsQrcrb1TM",
-      "publishedAt": "2026-07-31T18:30:45+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "xAI Co-Founder on the Reality Behind Open Models, Building Colossus &amp; What's Next Beyond Coding",
-      "videoId": "0aBTpoCX_A8",
-      "url": "https://youtube.com/watch?v=0aBTpoCX_A8",
-      "publishedAt": "2026-07-31T15:21:24+00:00"
+      "title": "The Company Simulating Human Behaviour",
+      "videoId": "OB-lf0m8r0M",
+      "url": "https://youtube.com/watch?v=OB-lf0m8r0M",
+      "publishedAt": "2026-08-01T14:00:30+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Inside the Leo Aschenbrenner Situation: Who Wins? Who Loses?",
-      "videoId": "EVC816-UIEw",
-      "url": "https://youtube.com/watch?v=EVC816-UIEw",
-      "publishedAt": "2026-07-31T12:50:27+00:00"
+      "title": "The Best AI Companies Have Unique Data Acquisition Strategies | Simile Co-founder &amp; CEO",
+      "videoId": "ya6D6-SizbI",
+      "url": "https://youtube.com/watch?v=ya6D6-SizbI",
+      "publishedAt": "2026-08-01T14:00:20+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak",
-      "videoId": "wWbX3NL6_Uo",
-      "url": "https://youtube.com/watch?v=wWbX3NL6_Uo",
-      "publishedAt": "2026-07-31T10:00:08+00:00"
+      "name": "All-In Podcast",
+      "title": "Friedberg: NYC’s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
+      "videoId": "2j0l5lWSTiA",
+      "url": "https://youtube.com/watch?v=2j0l5lWSTiA",
+      "publishedAt": "2026-08-01T13:40:53+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 10
+    "podcastEpisodes": 7
   }
 }
