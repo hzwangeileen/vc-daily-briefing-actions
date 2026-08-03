@@ -1,65 +1,41 @@
 {
-  "generatedAt": "2026-08-02T08:29:31.606Z",
+  "generatedAt": "2026-08-03T09:54:16.187Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The shocking brutality of the Civil War | Gary Gallagher and Lex Fridman",
-      "videoId": "Og0cqYM8GiA",
-      "url": "https://youtube.com/watch?v=Og0cqYM8GiA",
-      "publishedAt": "2026-08-02T04:00:30+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "You're Underestimating America",
-      "videoId": "zxAUJ10ghsY",
-      "url": "https://youtube.com/watch?v=zxAUJ10ghsY",
-      "publishedAt": "2026-08-02T00:43:59+00:00"
+      "title": "Anti-immigrant sentiment in American history | Gary Gallagher and Lex Fridman",
+      "videoId": "r9jhOiVWh7k",
+      "url": "https://youtube.com/watch?v=r9jhOiVWh7k",
+      "publishedAt": "2026-08-03T04:00:27+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The most important battle of the Civil War | Gary Gallagher and Lex Fridman",
-      "videoId": "cuh7GZ6cBqA",
-      "url": "https://youtube.com/watch?v=cuh7GZ6cBqA",
-      "publishedAt": "2026-08-02T00:00:33+00:00"
+      "title": "How guerrilla warfare terrorized Missouri during the Civil War | Gary Gallagher and Lex Fridman",
+      "videoId": "xUanNBYe7Cs",
+      "url": "https://youtube.com/watch?v=xUanNBYe7Cs",
+      "publishedAt": "2026-08-03T00:00:31+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Greatest speech in American history | Gary Gallagher and Lex Fridman",
-      "videoId": "Gw50KOG7srg",
-      "url": "https://youtube.com/watch?v=Gw50KOG7srg",
-      "publishedAt": "2026-08-01T20:00:30+00:00"
+      "title": "Extreme political division in US - Are we on the verge of a Civil War? | Gary Gallagher",
+      "videoId": "ZX9XNDT0dgQ",
+      "url": "https://youtube.com/watch?v=ZX9XNDT0dgQ",
+      "publishedAt": "2026-08-02T20:00:13+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The Company Simulating Human Behaviour",
-      "videoId": "OB-lf0m8r0M",
-      "url": "https://youtube.com/watch?v=OB-lf0m8r0M",
-      "publishedAt": "2026-08-01T14:00:30+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The Best AI Companies Have Unique Data Acquisition Strategies | Simile Co-founder &amp; CEO",
-      "videoId": "ya6D6-SizbI",
-      "url": "https://youtube.com/watch?v=ya6D6-SizbI",
-      "publishedAt": "2026-08-01T14:00:20+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Friedberg: NYC’s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
-      "videoId": "2j0l5lWSTiA",
-      "url": "https://youtube.com/watch?v=2j0l5lWSTiA",
-      "publishedAt": "2026-08-01T13:40:53+00:00"
+      "title": "The Sign of Truly Great Talent",
+      "videoId": "N7JjeZ4-gx4",
+      "url": "https://youtube.com/watch?v=N7JjeZ4-gx4",
+      "publishedAt": "2026-08-02T14:50:22+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 4
   }
 }
