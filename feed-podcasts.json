@@ -1,41 +1,81 @@
 {
-  "generatedAt": "2026-08-03T09:54:16.187Z",
+  "generatedAt": "2026-08-04T08:44:56.108Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Anti-immigrant sentiment in American history | Gary Gallagher and Lex Fridman",
-      "videoId": "r9jhOiVWh7k",
-      "url": "https://youtube.com/watch?v=r9jhOiVWh7k",
-      "publishedAt": "2026-08-03T04:00:27+00:00"
+      "name": "20VC",
+      "title": "AI Has Reached the Science-Fiction Stage",
+      "videoId": "5cB_ea0cZ74",
+      "url": "https://youtube.com/watch?v=5cB_ea0cZ74",
+      "publishedAt": "2026-08-04T05:00:24+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "How guerrilla warfare terrorized Missouri during the Civil War | Gary Gallagher and Lex Fridman",
-      "videoId": "xUanNBYe7Cs",
-      "url": "https://youtube.com/watch?v=xUanNBYe7Cs",
-      "publishedAt": "2026-08-03T00:00:31+00:00"
+      "title": "Historian responds to controversial statues being taken down | Gary Gallagher and Lex Fridman",
+      "videoId": "OJg59uH3Jmk",
+      "url": "https://youtube.com/watch?v=OJg59uH3Jmk",
+      "publishedAt": "2026-08-04T04:00:11+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Extreme political division in US - Are we on the verge of a Civil War? | Gary Gallagher",
-      "videoId": "ZX9XNDT0dgQ",
-      "url": "https://youtube.com/watch?v=ZX9XNDT0dgQ",
-      "publishedAt": "2026-08-02T20:00:13+00:00"
+      "title": "The truth about the Civil War - Why people volunteered to fight | Gary Gallagher and Lex Fridman",
+      "videoId": "cVGXlFYAT68",
+      "url": "https://youtube.com/watch?v=cVGXlFYAT68",
+      "publishedAt": "2026-08-04T00:00:12+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely &amp; Ali Taha, Baseten",
+      "videoId": "7PSXtru6mmY",
+      "url": "https://youtube.com/watch?v=7PSXtru6mmY",
+      "publishedAt": "2026-08-03T21:35:42+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The military genius of Robert E. Lee in the Civil War | Gary Gallagher and Lex Fridman",
+      "videoId": "HZYJriW_BAs",
+      "url": "https://youtube.com/watch?v=HZYJriW_BAs",
+      "publishedAt": "2026-08-03T20:00:30+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The Sign of Truly Great Talent",
-      "videoId": "N7JjeZ4-gx4",
-      "url": "https://youtube.com/watch?v=N7JjeZ4-gx4",
-      "publishedAt": "2026-08-02T14:50:22+00:00"
+      "title": "Arena CEO Warns About Fake AI Job Applicants",
+      "videoId": "DooPV2w7tEY",
+      "url": "https://youtube.com/watch?v=DooPV2w7tEY",
+      "publishedAt": "2026-08-03T18:03:13+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "A trillion $$$ American open-source giant is coming...",
+      "videoId": "ZG42lIwBXBU",
+      "url": "https://youtube.com/watch?v=ZG42lIwBXBU",
+      "publishedAt": "2026-08-03T14:20:29+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Will Robots Take Blue-Collar Jobs?",
+      "videoId": "jND-xNPxnUA",
+      "url": "https://youtube.com/watch?v=jND-xNPxnUA",
+      "publishedAt": "2026-08-03T14:01:40+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Unsupervised Learning",
+      "title": "AI Vibe Check: Chinese Open Models, Distillation &amp; The Hugging Face Breach",
+      "videoId": "_GlSkJjRDMM",
+      "url": "https://youtube.com/watch?v=_GlSkJjRDMM",
+      "publishedAt": "2026-08-03T13:16:39+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 9
   }
 }
