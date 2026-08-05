@@ -1,81 +1,73 @@
 {
-  "generatedAt": "2026-08-04T08:44:56.108Z",
+  "generatedAt": "2026-08-05T08:42:20.808Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "AI Has Reached the Science-Fiction Stage",
-      "videoId": "5cB_ea0cZ74",
-      "url": "https://youtube.com/watch?v=5cB_ea0cZ74",
-      "publishedAt": "2026-08-04T05:00:24+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Historian responds to controversial statues being taken down | Gary Gallagher and Lex Fridman",
-      "videoId": "OJg59uH3Jmk",
-      "url": "https://youtube.com/watch?v=OJg59uH3Jmk",
-      "publishedAt": "2026-08-04T04:00:11+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The truth about the Civil War - Why people volunteered to fight | Gary Gallagher and Lex Fridman",
-      "videoId": "cVGXlFYAT68",
-      "url": "https://youtube.com/watch?v=cVGXlFYAT68",
-      "publishedAt": "2026-08-04T00:00:12+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "The Inference Frontier: 10x Faster Models to Self-Optimizing AI — Philip Kiely &amp; Ali Taha, Baseten",
-      "videoId": "7PSXtru6mmY",
-      "url": "https://youtube.com/watch?v=7PSXtru6mmY",
-      "publishedAt": "2026-08-03T21:35:42+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The military genius of Robert E. Lee in the Civil War | Gary Gallagher and Lex Fridman",
-      "videoId": "HZYJriW_BAs",
-      "url": "https://youtube.com/watch?v=HZYJriW_BAs",
-      "publishedAt": "2026-08-03T20:00:30+00:00"
+      "title": "Why Data Could Become a $1 Trillion Market",
+      "videoId": "oxpp2wB-QgM",
+      "url": "https://youtube.com/watch?v=oxpp2wB-QgM",
+      "publishedAt": "2026-08-05T04:55:23+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Arena CEO Warns About Fake AI Job Applicants",
-      "videoId": "DooPV2w7tEY",
-      "url": "https://youtube.com/watch?v=DooPV2w7tEY",
-      "publishedAt": "2026-08-03T18:03:13+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "A trillion $$$ American open-source giant is coming...",
-      "videoId": "ZG42lIwBXBU",
-      "url": "https://youtube.com/watch?v=ZG42lIwBXBU",
-      "publishedAt": "2026-08-03T14:20:29+00:00"
+      "title": "Did Kimi Just Beat America’s Best AI Models?",
+      "videoId": "N2KOrdkK5nU",
+      "url": "https://youtube.com/watch?v=N2KOrdkK5nU",
+      "publishedAt": "2026-08-04T19:00:39+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Will Robots Take Blue-Collar Jobs?",
-      "videoId": "jND-xNPxnUA",
-      "url": "https://youtube.com/watch?v=jND-xNPxnUA",
-      "publishedAt": "2026-08-03T14:01:40+00:00"
+      "title": "Valar Built a Nuclear Safety System 12x Cheaper",
+      "videoId": "oBRlOdhY3wg",
+      "url": "https://youtube.com/watch?v=oBRlOdhY3wg",
+      "publishedAt": "2026-08-04T17:26:14+00:00"
     },
     {
       "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "AI Vibe Check: Chinese Open Models, Distillation &amp; The Hugging Face Breach",
-      "videoId": "_GlSkJjRDMM",
-      "url": "https://youtube.com/watch?v=_GlSkJjRDMM",
-      "publishedAt": "2026-08-03T13:16:39+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "How the Civil War ended | Gary Gallagher and Lex Fridman",
+      "videoId": "Zdq7Aj3ihEo",
+      "url": "https://youtube.com/watch?v=Zdq7Aj3ihEo",
+      "publishedAt": "2026-08-04T16:00:32+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "White supremacy after the Civil War | Gary Gallagher and Lex Fridman",
+      "videoId": "7mo4jVVQyvY",
+      "url": "https://youtube.com/watch?v=7mo4jVVQyvY",
+      "publishedAt": "2026-08-04T12:00:53+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "title": "The AI Selloff Doesn't Match the Data | Top AI Investor Explains",
+      "videoId": "NGsi2PC4y68",
+      "url": "https://youtube.com/watch?v=NGsi2PC4y68",
+      "publishedAt": "2026-08-04T12:00:33+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
+      "videoId": "wv53mDmY-k0",
+      "url": "https://youtube.com/watch?v=wv53mDmY-k0",
+      "publishedAt": "2026-08-04T12:00:29+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "This AI Can Predict the Future",
+      "videoId": "Gkzhh__WowM",
+      "url": "https://youtube.com/watch?v=Gkzhh__WowM",
+      "publishedAt": "2026-08-04T11:10:21+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 9
+    "podcastEpisodes": 8
   }
 }
