@@ -1,73 +1,41 @@
 {
-  "generatedAt": "2026-08-05T08:42:20.808Z",
+  "generatedAt": "2026-08-06T08:44:00.889Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why Data Could Become a $1 Trillion Market",
-      "videoId": "oxpp2wB-QgM",
-      "url": "https://youtube.com/watch?v=oxpp2wB-QgM",
-      "publishedAt": "2026-08-05T04:55:23+00:00"
+      "title": "Could Chinese Open-Source AI Steal Your Company Data?",
+      "videoId": "Wj3-X-WSA7s",
+      "url": "https://youtube.com/watch?v=Wj3-X-WSA7s",
+      "publishedAt": "2026-08-06T05:00:21+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Did Kimi Just Beat America’s Best AI Models?",
-      "videoId": "N2KOrdkK5nU",
-      "url": "https://youtube.com/watch?v=N2KOrdkK5nU",
-      "publishedAt": "2026-08-04T19:00:39+00:00"
+      "name": "All-In Podcast",
+      "title": "China Outbuilds America 230-to-1. Saronic Has a Plan",
+      "videoId": "jfxHHglA5Eo",
+      "url": "https://youtube.com/watch?v=jfxHHglA5Eo",
+      "publishedAt": "2026-08-06T01:29:59+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Valar Built a Nuclear Safety System 12x Cheaper",
-      "videoId": "oBRlOdhY3wg",
-      "url": "https://youtube.com/watch?v=oBRlOdhY3wg",
-      "publishedAt": "2026-08-04T17:26:14+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "How the Civil War ended | Gary Gallagher and Lex Fridman",
-      "videoId": "Zdq7Aj3ihEo",
-      "url": "https://youtube.com/watch?v=Zdq7Aj3ihEo",
-      "publishedAt": "2026-08-04T16:00:32+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "White supremacy after the Civil War | Gary Gallagher and Lex Fridman",
-      "videoId": "7mo4jVVQyvY",
-      "url": "https://youtube.com/watch?v=7mo4jVVQyvY",
-      "publishedAt": "2026-08-04T12:00:53+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "The AI Selloff Doesn't Match the Data | Top AI Investor Explains",
-      "videoId": "NGsi2PC4y68",
-      "url": "https://youtube.com/watch?v=NGsi2PC4y68",
-      "publishedAt": "2026-08-04T12:00:33+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
-      "videoId": "wv53mDmY-k0",
-      "url": "https://youtube.com/watch?v=wv53mDmY-k0",
-      "publishedAt": "2026-08-04T12:00:29+00:00"
+      "title": "The AI security market is not overreacting",
+      "videoId": "z6VLyUMBYo0",
+      "url": "https://youtube.com/watch?v=z6VLyUMBYo0",
+      "publishedAt": "2026-08-05T21:32:02+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "This AI Can Predict the Future",
-      "videoId": "Gkzhh__WowM",
-      "url": "https://youtube.com/watch?v=Gkzhh__WowM",
-      "publishedAt": "2026-08-04T11:10:21+00:00"
+      "title": "OpenAI Is Coming for SaaS Companies",
+      "videoId": "KS6iEdPpc9E",
+      "url": "https://youtube.com/watch?v=KS6iEdPpc9E",
+      "publishedAt": "2026-08-05T14:00:30+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 4
   }
 }
