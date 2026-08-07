@@ -1,41 +1,49 @@
 {
-  "generatedAt": "2026-08-06T08:44:00.889Z",
+  "generatedAt": "2026-08-07T07:22:25.441Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Could Chinese Open-Source AI Steal Your Company Data?",
-      "videoId": "Wj3-X-WSA7s",
-      "url": "https://youtube.com/watch?v=Wj3-X-WSA7s",
-      "publishedAt": "2026-08-06T05:00:21+00:00"
+      "name": "No Priors",
+      "title": "Is Coding Solved?",
+      "videoId": "4B4xVnuOi9U",
+      "url": "https://youtube.com/watch?v=4B4xVnuOi9U",
+      "publishedAt": "2026-08-07T01:46:22+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "China Outbuilds America 230-to-1. Saronic Has a Plan",
-      "videoId": "jfxHHglA5Eo",
-      "url": "https://youtube.com/watch?v=jfxHHglA5Eo",
-      "publishedAt": "2026-08-06T01:29:59+00:00"
+      "name": "20VC",
+      "title": "Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab",
+      "videoId": "oEY52Wkcz08",
+      "url": "https://youtube.com/watch?v=oEY52Wkcz08",
+      "publishedAt": "2026-08-06T18:02:27+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Leo Aschenbrenner's Situational Awareness Blows Up | Moonshot AI Raises $3.5B at $35B",
+      "videoId": "Q6kDZJ0xdSw",
+      "url": "https://youtube.com/watch?v=Q6kDZJ0xdSw",
+      "publishedAt": "2026-08-06T15:07:23+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Airtable Sold for $1.285BN | Leo Aschenbrenner's Situational Awareness Blows Up",
+      "videoId": "864LTA1azPE",
+      "url": "https://youtube.com/watch?v=864LTA1azPE",
+      "publishedAt": "2026-08-06T14:30:52+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "The AI security market is not overreacting",
-      "videoId": "z6VLyUMBYo0",
-      "url": "https://youtube.com/watch?v=z6VLyUMBYo0",
-      "publishedAt": "2026-08-05T21:32:02+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "OpenAI Is Coming for SaaS Companies",
-      "videoId": "KS6iEdPpc9E",
-      "url": "https://youtube.com/watch?v=KS6iEdPpc9E",
-      "publishedAt": "2026-08-05T14:00:30+00:00"
+      "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, &amp; Regulatory Capture",
+      "videoId": "6l8oAO_LBx4",
+      "url": "https://youtube.com/watch?v=6l8oAO_LBx4",
+      "publishedAt": "2026-08-06T10:00:03+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 5
   }
 }
