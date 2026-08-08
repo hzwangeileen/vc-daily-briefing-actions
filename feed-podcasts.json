@@ -1,49 +1,33 @@
 {
-  "generatedAt": "2026-08-07T07:22:25.441Z",
+  "generatedAt": "2026-08-08T07:00:13.889Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "Is Coding Solved?",
-      "videoId": "4B4xVnuOi9U",
-      "url": "https://youtube.com/watch?v=4B4xVnuOi9U",
-      "publishedAt": "2026-08-07T01:46:22+00:00"
+      "name": "All-In Podcast",
+      "title": "Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI",
+      "videoId": "muRIXCDw-k0",
+      "url": "https://youtube.com/watch?v=muRIXCDw-k0",
+      "publishedAt": "2026-08-08T01:33:14+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab",
-      "videoId": "oEY52Wkcz08",
-      "url": "https://youtube.com/watch?v=oEY52Wkcz08",
-      "publishedAt": "2026-08-06T18:02:27+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Leo Aschenbrenner's Situational Awareness Blows Up | Moonshot AI Raises $3.5B at $35B",
-      "videoId": "Q6kDZJ0xdSw",
-      "url": "https://youtube.com/watch?v=Q6kDZJ0xdSw",
-      "publishedAt": "2026-08-06T15:07:23+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Airtable Sold for $1.285BN | Leo Aschenbrenner's Situational Awareness Blows Up",
-      "videoId": "864LTA1azPE",
-      "url": "https://youtube.com/watch?v=864LTA1azPE",
-      "publishedAt": "2026-08-06T14:30:52+00:00"
+      "title": "The Airtable Acquisition is a great outcome",
+      "videoId": "ZtAGTPi7p2Y",
+      "url": "https://youtube.com/watch?v=ZtAGTPi7p2Y",
+      "publishedAt": "2026-08-07T16:55:15+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, &amp; Regulatory Capture",
-      "videoId": "6l8oAO_LBx4",
-      "url": "https://youtube.com/watch?v=6l8oAO_LBx4",
-      "publishedAt": "2026-08-06T10:00:03+00:00"
+      "title": "The First 1-Person Billion-Dollar Company",
+      "videoId": "sasC-IgKXxk",
+      "url": "https://youtube.com/watch?v=sasC-IgKXxk",
+      "publishedAt": "2026-08-07T16:35:09+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 3
   }
 }
