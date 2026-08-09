@@ -1,33 +1,25 @@
 {
-  "generatedAt": "2026-08-08T07:00:13.889Z",
+  "generatedAt": "2026-08-09T07:02:19.531Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI",
-      "videoId": "muRIXCDw-k0",
-      "url": "https://youtube.com/watch?v=muRIXCDw-k0",
-      "publishedAt": "2026-08-08T01:33:14+00:00"
+      "title": "🚨 The All-In Summit 2026 Speaker Announcement",
+      "videoId": "1IJKIqHCN7M",
+      "url": "https://youtube.com/watch?v=1IJKIqHCN7M",
+      "publishedAt": "2026-08-08T14:30:02+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The Airtable Acquisition is a great outcome",
-      "videoId": "ZtAGTPi7p2Y",
-      "url": "https://youtube.com/watch?v=ZtAGTPi7p2Y",
-      "publishedAt": "2026-08-07T16:55:15+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "The First 1-Person Billion-Dollar Company",
-      "videoId": "sasC-IgKXxk",
-      "url": "https://youtube.com/watch?v=sasC-IgKXxk",
-      "publishedAt": "2026-08-07T16:35:09+00:00"
+      "title": "The AI Boom Will Create Enormous Roadkill: Who Wins &amp; Loses? | David Frankel",
+      "videoId": "PDaGwInqbbQ",
+      "url": "https://youtube.com/watch?v=PDaGwInqbbQ",
+      "publishedAt": "2026-08-08T14:00:12+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 3
+    "podcastEpisodes": 2
   }
 }
