@@ -1,25 +1,17 @@
 {
-  "generatedAt": "2026-08-09T07:02:19.531Z",
+  "generatedAt": "2026-08-10T07:48:47.197Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "🚨 The All-In Summit 2026 Speaker Announcement",
-      "videoId": "1IJKIqHCN7M",
-      "url": "https://youtube.com/watch?v=1IJKIqHCN7M",
-      "publishedAt": "2026-08-08T14:30:02+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The AI Boom Will Create Enormous Roadkill: Who Wins &amp; Loses? | David Frankel",
-      "videoId": "PDaGwInqbbQ",
-      "url": "https://youtube.com/watch?v=PDaGwInqbbQ",
-      "publishedAt": "2026-08-08T14:00:12+00:00"
+      "title": "Friedberg: Elon’s $17B Terafab Could Be the Greatest Chip Fab on Earth",
+      "videoId": "rPa4TGGkOH4",
+      "url": "https://youtube.com/watch?v=rPa4TGGkOH4",
+      "publishedAt": "2026-08-09T20:02:22+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 1
   }
 }
