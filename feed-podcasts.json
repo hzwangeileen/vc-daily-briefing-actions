@@ -1,65 +1,81 @@
 {
-  "generatedAt": "2026-08-13T07:40:22.395Z",
+  "generatedAt": "2026-08-14T07:38:06.973Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Lex Fridman on interviewing Fedor Emelianenko",
-      "videoId": "J8BuJb0C7Qw",
-      "url": "https://youtube.com/watch?v=J8BuJb0C7Qw",
-      "publishedAt": "2026-08-13T04:43:26+00:00"
+      "title": "Why Khabib beat up Lex in training",
+      "videoId": "8zdtEaFLcSk",
+      "url": "https://youtube.com/watch?v=8zdtEaFLcSk",
+      "publishedAt": "2026-08-14T00:41:48+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration &amp; DSA vs Democrats",
-      "videoId": "_TcEfYlW4PA",
-      "url": "https://youtube.com/watch?v=_TcEfYlW4PA",
-      "publishedAt": "2026-08-13T02:22:04+00:00"
+      "title": "30 Days Until All-In Summit 2026",
+      "videoId": "2RUc78Mw4DI",
+      "url": "https://youtube.com/watch?v=2RUc78Mw4DI",
+      "publishedAt": "2026-08-14T00:00:11+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "The &quot;Niche Market&quot; Trap in AI",
-      "videoId": "two1jB-E2eI",
-      "url": "https://youtube.com/watch?v=two1jB-E2eI",
-      "publishedAt": "2026-08-12T23:12:37+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Messi vs Ronaldo: Who is the greatest soccer player of all time? | Khabib Nurmagomedov",
-      "videoId": "PpH-uK-k_pM",
-      "url": "https://youtube.com/watch?v=PpH-uK-k_pM",
-      "publishedAt": "2026-08-12T22:00:10+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "How Robots Learn: Much Slower Than Humans At First, Then Infinitely Scalable",
-      "videoId": "f_k-OrM83vY",
-      "url": "https://youtube.com/watch?v=f_k-OrM83vY",
-      "publishedAt": "2026-08-12T18:39:56+00:00"
+      "name": "Acquired",
+      "title": "How Disney Monetized Its Movie Library",
+      "videoId": "rzhgN465B5A",
+      "url": "https://youtube.com/watch?v=rzhgN465B5A",
+      "publishedAt": "2026-08-13T20:23:49+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Khabib vs Conor McGregor fight: Khabib on why it was the biggest fight of all time",
-      "videoId": "kfWp3X8OoE4",
-      "url": "https://youtube.com/watch?v=kfWp3X8OoE4",
-      "publishedAt": "2026-08-12T18:00:28+00:00"
+      "title": "The secret to Khabib's dominance: I hated to lose | Khabib Nurmagomedov and Lex Fridman",
+      "videoId": "sNOoZaK57sw",
+      "url": "https://youtube.com/watch?v=sNOoZaK57sw",
+      "publishedAt": "2026-08-13T20:00:21+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Street fighting in Dagestan | Khabib Nurmagomedov and Lex Fridman",
+      "videoId": "xsuzX5VwnN8",
+      "url": "https://youtube.com/watch?v=xsuzX5VwnN8",
+      "publishedAt": "2026-08-13T16:00:25+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why Big Companies Don’t Trust Frontier AI",
-      "videoId": "uRnnwi8-HkI",
-      "url": "https://youtube.com/watch?v=uRnnwi8-HkI",
-      "publishedAt": "2026-08-12T14:00:30+00:00"
+      "title": "Canva Slahes Growth | Talent Exodus at Google | Revolut's $50B CEO Package | Musk's $55B Terrafab",
+      "videoId": "9uq9zxtwBrk",
+      "url": "https://youtube.com/watch?v=9uq9zxtwBrk",
+      "publishedAt": "2026-08-13T14:11:59+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Chess.com CEO: AGI Will Be a Cultural Problem",
+      "videoId": "nHQDTiDQjJM",
+      "url": "https://youtube.com/watch?v=nHQDTiDQjJM",
+      "publishedAt": "2026-08-13T14:08:20+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Canva's Growth Slashed as AI Costs Explode",
+      "videoId": "JMwAEqSD3jY",
+      "url": "https://youtube.com/watch?v=JMwAEqSD3jY",
+      "publishedAt": "2026-08-13T14:01:18+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "How Chess.com Became the World’s Biggest Chess Community with CEO Erik Allebest",
+      "videoId": "hplb9IHWuw0",
+      "url": "https://youtube.com/watch?v=hplb9IHWuw0",
+      "publishedAt": "2026-08-13T10:00:31+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 9
   }
 }
