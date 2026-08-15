@@ -1,81 +1,21 @@
 {
-  "generatedAt": "2026-08-14T07:38:06.973Z",
+  "generatedAt": "2026-08-15T06:44:47.123Z",
   "lookbackHours": 72,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Why Khabib beat up Lex in training",
-      "videoId": "8zdtEaFLcSk",
-      "url": "https://youtube.com/watch?v=8zdtEaFLcSk",
-      "publishedAt": "2026-08-14T00:41:48+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "30 Days Until All-In Summit 2026",
-      "videoId": "2RUc78Mw4DI",
-      "url": "https://youtube.com/watch?v=2RUc78Mw4DI",
-      "publishedAt": "2026-08-14T00:00:11+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Acquired",
-      "title": "How Disney Monetized Its Movie Library",
-      "videoId": "rzhgN465B5A",
-      "url": "https://youtube.com/watch?v=rzhgN465B5A",
-      "publishedAt": "2026-08-13T20:23:49+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The secret to Khabib's dominance: I hated to lose | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "sNOoZaK57sw",
-      "url": "https://youtube.com/watch?v=sNOoZaK57sw",
-      "publishedAt": "2026-08-13T20:00:21+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Street fighting in Dagestan | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "xsuzX5VwnN8",
-      "url": "https://youtube.com/watch?v=xsuzX5VwnN8",
-      "publishedAt": "2026-08-13T16:00:25+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Canva Slahes Growth | Talent Exodus at Google | Revolut's $50B CEO Package | Musk's $55B Terrafab",
-      "videoId": "9uq9zxtwBrk",
-      "url": "https://youtube.com/watch?v=9uq9zxtwBrk",
-      "publishedAt": "2026-08-13T14:11:59+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Chess.com CEO: AGI Will Be a Cultural Problem",
-      "videoId": "nHQDTiDQjJM",
-      "url": "https://youtube.com/watch?v=nHQDTiDQjJM",
-      "publishedAt": "2026-08-13T14:08:20+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Canva's Growth Slashed as AI Costs Explode",
-      "videoId": "JMwAEqSD3jY",
-      "url": "https://youtube.com/watch?v=JMwAEqSD3jY",
-      "publishedAt": "2026-08-13T14:01:18+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "How Chess.com Became the World’s Biggest Chess Community with CEO Erik Allebest",
-      "videoId": "hplb9IHWuw0",
-      "url": "https://youtube.com/watch?v=hplb9IHWuw0",
-      "publishedAt": "2026-08-13T10:00:31+00:00"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 9
-  }
+    "podcastEpisodes": 0
+  },
+  "errors": [
+    "RSS: Failed to fetch Latent Space: HTTP 404",
+    "RSS: Failed to fetch Training Data: HTTP 404",
+    "RSS: Failed to fetch No Priors: HTTP 404",
+    "RSS: Failed to fetch Unsupervised Learning: HTTP 404",
+    "RSS: Failed to fetch Data Driven NYC: HTTP 404",
+    "RSS: Failed to fetch Lex Fridman Podcast: HTTP 404",
+    "RSS: Failed to fetch All-In Podcast: HTTP 404",
+    "RSS: Failed to fetch BG2Pod: HTTP 404",
+    "RSS: Failed to fetch 20VC: HTTP 404",
+    "RSS: Failed to fetch Acquired: HTTP 404",
+    "RSS: Failed to fetch Invest Like the Best: HTTP 404"
+  ]
 }
