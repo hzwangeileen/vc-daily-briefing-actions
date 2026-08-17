@@ -1,113 +1,49 @@
 {
-  "generatedAt": "2026-08-16T06:46:40.572Z",
+  "generatedAt": "2026-08-17T07:03:23.077Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Khabib on genius of Zlatan Ibrahimovic | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "BNImQS6nCi4",
-      "url": "https://youtube.com/watch?v=BNImQS6nCi4",
-      "publishedAt": "2026-08-16T04:00:30+00:00"
+      "title": "A fighter's toughest enemy: The trap of money and fame | Khabib Nurmagomedov and Lex Fridman",
+      "videoId": "OLiWOBo_AZ8",
+      "url": "https://youtube.com/watch?v=OLiWOBo_AZ8",
+      "publishedAt": "2026-08-17T04:00:24+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "The Hidden Challenge of Delivery Robots",
+      "videoId": "MZU1t4h1Abc",
+      "url": "https://youtube.com/watch?v=MZU1t4h1Abc",
+      "publishedAt": "2026-08-17T00:31:54+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Greatest MMA fighters of all time | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "54ssyFAfv3k",
-      "url": "https://youtube.com/watch?v=54ssyFAfv3k",
-      "publishedAt": "2026-08-16T00:00:32+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Chess.com CEO: We’re Revamping Poker",
-      "videoId": "e3okPUfB6tM",
-      "url": "https://youtube.com/watch?v=e3okPUfB6tM",
-      "publishedAt": "2026-08-15T23:53:13+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Gavin Baker: AI is too dangerous to centralize",
-      "videoId": "-KgyFod6TUk",
-      "url": "https://youtube.com/watch?v=-KgyFod6TUk",
-      "publishedAt": "2026-08-15T20:30:20+00:00"
+      "title": "Khabib explains why Dagestan produces so many champions | Khabib Nurmagomedov and Lex Fridman",
+      "videoId": "QEnNGxGHtks",
+      "url": "https://youtube.com/watch?v=QEnNGxGHtks",
+      "publishedAt": "2026-08-17T00:00:25+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Khabib on relationship with his father | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "EdTZyYG8Tfo",
-      "url": "https://youtube.com/watch?v=EdTZyYG8Tfo",
-      "publishedAt": "2026-08-15T20:00:25+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Anthropic Thinks It Could Be the WORLD'S LAST COMPANY!?",
-      "videoId": "F9UOkrf7BLk",
-      "url": "https://youtube.com/watch?v=F9UOkrf7BLk",
-      "publishedAt": "2026-08-15T16:30:35+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Exo: Harnesses should see their own code and logs — Alex Krentsel",
-      "videoId": "5lFD-34dhqE",
-      "url": "https://youtube.com/watch?v=5lFD-34dhqE",
-      "publishedAt": "2026-08-15T15:45:32+00:00"
+      "title": "MMA vs street fighting - Khabib explains the difference | Khabib Nurmagomedov and Lex Fridman",
+      "videoId": "0cpfK0QHaAU",
+      "url": "https://youtube.com/watch?v=0cpfK0QHaAU",
+      "publishedAt": "2026-08-16T20:00:21+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "How to Build a $100M Growth Engine: Lessons from Wispr Flow &amp; Superhuman | Matt Swulinski",
-      "videoId": "bm8rMM4Bxz8",
-      "url": "https://youtube.com/watch?v=bm8rMM4Bxz8",
-      "publishedAt": "2026-08-15T14:00:20+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The Growth Playbook Every SaaS Founder Needs",
-      "videoId": "DPrRBc0ot0g",
-      "url": "https://youtube.com/watch?v=DPrRBc0ot0g",
-      "publishedAt": "2026-08-15T14:00:14+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
-      "videoId": "2Jj1SxI3r7Q",
-      "url": "https://youtube.com/watch?v=2Jj1SxI3r7Q",
-      "publishedAt": "2026-08-15T00:16:39+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
-      "videoId": "kVzYGVJ8zUk",
-      "url": "https://youtube.com/watch?v=kVzYGVJ8zUk",
-      "publishedAt": "2026-08-14T20:36:20+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "America's Plan to compete with Chinese Robots",
-      "videoId": "IM2b9qdfrmA",
-      "url": "https://youtube.com/watch?v=IM2b9qdfrmA",
-      "publishedAt": "2026-08-14T20:08:31+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Could Bending Spoons Buy HubSpot?",
-      "videoId": "EOf0dJHcJgs",
-      "url": "https://youtube.com/watch?v=EOf0dJHcJgs",
-      "publishedAt": "2026-08-14T14:00:37+00:00"
+      "title": "The 3 Growth Channels Every Startup Needs",
+      "videoId": "Q3FCm3lZHF8",
+      "url": "https://youtube.com/watch?v=Q3FCm3lZHF8",
+      "publishedAt": "2026-08-16T14:00:41+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 13
+    "podcastEpisodes": 5
   }
 }
