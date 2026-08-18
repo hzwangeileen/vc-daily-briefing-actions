@@ -1,49 +1,21 @@
 {
-  "generatedAt": "2026-08-17T07:03:23.077Z",
+  "generatedAt": "2026-08-18T06:50:47.093Z",
   "lookbackHours": 72,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "A fighter's toughest enemy: The trap of money and fame | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "OLiWOBo_AZ8",
-      "url": "https://youtube.com/watch?v=OLiWOBo_AZ8",
-      "publishedAt": "2026-08-17T04:00:24+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "The Hidden Challenge of Delivery Robots",
-      "videoId": "MZU1t4h1Abc",
-      "url": "https://youtube.com/watch?v=MZU1t4h1Abc",
-      "publishedAt": "2026-08-17T00:31:54+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Khabib explains why Dagestan produces so many champions | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "QEnNGxGHtks",
-      "url": "https://youtube.com/watch?v=QEnNGxGHtks",
-      "publishedAt": "2026-08-17T00:00:25+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "MMA vs street fighting - Khabib explains the difference | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "0cpfK0QHaAU",
-      "url": "https://youtube.com/watch?v=0cpfK0QHaAU",
-      "publishedAt": "2026-08-16T20:00:21+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The 3 Growth Channels Every Startup Needs",
-      "videoId": "Q3FCm3lZHF8",
-      "url": "https://youtube.com/watch?v=Q3FCm3lZHF8",
-      "publishedAt": "2026-08-16T14:00:41+00:00"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 5
-  }
+    "podcastEpisodes": 0
+  },
+  "errors": [
+    "RSS: Failed to fetch Latent Space: HTTP 404",
+    "RSS: Failed to fetch Training Data: HTTP 404",
+    "RSS: Failed to fetch No Priors: HTTP 404",
+    "RSS: Failed to fetch Unsupervised Learning: HTTP 404",
+    "RSS: Failed to fetch Data Driven NYC: HTTP 404",
+    "RSS: Failed to fetch Lex Fridman Podcast: HTTP 404",
+    "RSS: Failed to fetch All-In Podcast: HTTP 404",
+    "RSS: Failed to fetch BG2Pod: HTTP 404",
+    "RSS: Failed to fetch 20VC: HTTP 404",
+    "RSS: Failed to fetch Acquired: HTTP 404",
+    "RSS: Failed to fetch Invest Like the Best: HTTP 404"
+  ]
 }
