@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T06:50:47.093Z",
+  "generatedAt": "2026-08-19T06:50:58.405Z",
   "lookbackHours": 72,
   "podcasts": [],
   "stats": {
@@ -16,6 +16,6 @@
     "RSS: Failed to fetch BG2Pod: HTTP 404",
     "RSS: Failed to fetch 20VC: HTTP 404",
     "RSS: Failed to fetch Acquired: HTTP 404",
-    "RSS: Failed to fetch Invest Like the Best: HTTP 404"
+    "RSS: Failed to fetch Invest Like the Best: HTTP 500"
   ]
 }
