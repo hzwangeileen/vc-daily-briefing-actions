@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:53:46.164Z",
+  "generatedAt": "2026-08-22T06:46:59.520Z",
   "lookbackHours": 72,
   "podcasts": [],
   "stats": {
@@ -11,7 +11,7 @@
     "RSS: Failed to fetch No Priors: HTTP 404",
     "RSS: Failed to fetch Unsupervised Learning: HTTP 404",
     "RSS: Failed to fetch Data Driven NYC: HTTP 404",
-    "RSS: Failed to fetch Lex Fridman Podcast: HTTP 404",
+    "RSS: Failed to fetch Lex Fridman Podcast: HTTP 500",
     "RSS: Failed to fetch All-In Podcast: HTTP 404",
     "RSS: Failed to fetch BG2Pod: HTTP 404",
     "RSS: Failed to fetch 20VC: HTTP 404",
