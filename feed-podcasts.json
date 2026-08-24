@@ -1,113 +1,25 @@
 {
-  "generatedAt": "2026-08-23T06:48:06.917Z",
+  "generatedAt": "2026-08-24T07:05:49.125Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "Is Intelligence a Law of Physics?",
-      "videoId": "wwhzeUVDyUw",
-      "url": "https://youtube.com/watch?v=wwhzeUVDyUw",
-      "publishedAt": "2026-08-22T23:42:22+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Jason Calacanis on America’s AI Backlash: “They’re Sharpening the Guillotines”",
-      "videoId": "JXnLFsOg-vk",
-      "url": "https://youtube.com/watch?v=JXnLFsOg-vk",
-      "publishedAt": "2026-08-22T18:26:32+00:00"
+      "title": "David Sacks Calls Out Dario’s Contradictions on AI &amp; Data Centers",
+      "videoId": "PLt-eu9kEbI",
+      "url": "https://youtube.com/watch?v=PLt-eu9kEbI",
+      "publishedAt": "2026-08-23T20:30:25+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The AI Bubble WILL Burst | Should we be fearful of Chinese Open-Source | Jerry Murdock",
-      "videoId": "R1336Jyb-qk",
-      "url": "https://youtube.com/watch?v=R1336Jyb-qk",
-      "publishedAt": "2026-08-22T14:00:40+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "50% of Neoclouds WILL Die",
-      "videoId": "jSXgssbl2pA",
-      "url": "https://youtube.com/watch?v=jSXgssbl2pA",
-      "publishedAt": "2026-08-22T13:55:30+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Chess.com CEO: How to Get Better at Chess",
-      "videoId": "QqGCSNay2oU",
-      "url": "https://youtube.com/watch?v=QqGCSNay2oU",
-      "publishedAt": "2026-08-21T23:15:51+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Khabib on John Danaher: He creates champions | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "m0kf05VgZvM",
-      "url": "https://youtube.com/watch?v=m0kf05VgZvM",
-      "publishedAt": "2026-08-21T20:00:28+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Simulating Humanity: from Generative Agents to 8 Billion Digital Twins — Joon Sung Park, Simile AI",
-      "videoId": "KpOW9Pk4BUs",
-      "url": "https://youtube.com/watch?v=KpOW9Pk4BUs",
-      "publishedAt": "2026-08-21T19:50:24+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Why The OpenRouter Deal Actually Makes Sense",
-      "videoId": "Ut885HZy6e8",
-      "url": "https://youtube.com/watch?v=Ut885HZy6e8",
-      "publishedAt": "2026-08-21T17:31:32+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Khabib on the meaning of life and the nature of good and evil | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "iet3y5oZNmA",
-      "url": "https://youtube.com/watch?v=iet3y5oZNmA",
-      "publishedAt": "2026-08-21T16:00:30+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
-      "videoId": "Sij_v-mcZXQ",
-      "url": "https://youtube.com/watch?v=Sij_v-mcZXQ",
-      "publishedAt": "2026-08-21T14:26:38+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Does Khabib hate Conor McGregor? | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "5Rt5_hEFnTw",
-      "url": "https://youtube.com/watch?v=5Rt5_hEFnTw",
-      "publishedAt": "2026-08-21T12:00:31+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Acquired",
-      "title": "Disney Paid $4 Billion for Marvel. What Did It Get?",
-      "videoId": "Zdg8rzp4u_o",
-      "url": "https://youtube.com/watch?v=Zdg8rzp4u_o",
-      "publishedAt": "2026-08-20T22:34:21+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "This Tiny Chip Can Cure Blindness",
-      "videoId": "DFJadiJhZhc",
-      "url": "https://youtube.com/watch?v=DFJadiJhZhc",
-      "publishedAt": "2026-08-20T18:40:49+00:00"
+      "title": "Debt is a huge part of AI",
+      "videoId": "nJaSdVY4xpY",
+      "url": "https://youtube.com/watch?v=nJaSdVY4xpY",
+      "publishedAt": "2026-08-23T17:00:26+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 13
+    "podcastEpisodes": 2
   }
 }
