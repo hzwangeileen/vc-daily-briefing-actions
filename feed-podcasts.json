@@ -1,25 +1,21 @@
 {
-  "generatedAt": "2026-08-24T07:05:49.125Z",
+  "generatedAt": "2026-08-25T06:55:03.083Z",
   "lookbackHours": 72,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Sacks Calls Out Dario’s Contradictions on AI &amp; Data Centers",
-      "videoId": "PLt-eu9kEbI",
-      "url": "https://youtube.com/watch?v=PLt-eu9kEbI",
-      "publishedAt": "2026-08-23T20:30:25+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Debt is a huge part of AI",
-      "videoId": "nJaSdVY4xpY",
-      "url": "https://youtube.com/watch?v=nJaSdVY4xpY",
-      "publishedAt": "2026-08-23T17:00:26+00:00"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 2
-  }
+    "podcastEpisodes": 0
+  },
+  "errors": [
+    "RSS: Failed to fetch Latent Space: HTTP 404",
+    "RSS: Failed to fetch Training Data: HTTP 404",
+    "RSS: Failed to fetch No Priors: HTTP 404",
+    "RSS: Failed to fetch Unsupervised Learning: HTTP 404",
+    "RSS: Failed to fetch Data Driven NYC: HTTP 404",
+    "RSS: Failed to fetch Lex Fridman Podcast: HTTP 404",
+    "RSS: Failed to fetch All-In Podcast: HTTP 404",
+    "RSS: Failed to fetch BG2Pod: HTTP 404",
+    "RSS: Failed to fetch 20VC: HTTP 404",
+    "RSS: Failed to fetch Acquired: HTTP 404",
+    "RSS: Failed to fetch Invest Like the Best: HTTP 404"
+  ]
 }
