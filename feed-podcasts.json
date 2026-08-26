@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-08-25T06:55:03.083Z",
+  "generatedAt": "2026-08-26T06:55:49.258Z",
   "lookbackHours": 72,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Can We Build New Senses?",
+      "videoId": "DWOekbnWISA",
+      "url": "https://youtube.com/watch?v=DWOekbnWISA",
+      "publishedAt": "2026-08-25T16:17:37+00:00"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
   "errors": [
     "RSS: Failed to fetch Latent Space: HTTP 404",
     "RSS: Failed to fetch Training Data: HTTP 404",
-    "RSS: Failed to fetch No Priors: HTTP 404",
     "RSS: Failed to fetch Unsupervised Learning: HTTP 404",
     "RSS: Failed to fetch Data Driven NYC: HTTP 404",
-    "RSS: Failed to fetch Lex Fridman Podcast: HTTP 404",
+    "RSS: Failed to fetch Lex Fridman Podcast: HTTP 500",
     "RSS: Failed to fetch All-In Podcast: HTTP 404",
-    "RSS: Failed to fetch BG2Pod: HTTP 404",
+    "RSS: Failed to fetch BG2Pod: HTTP 500",
     "RSS: Failed to fetch 20VC: HTTP 404",
     "RSS: Failed to fetch Acquired: HTTP 404",
     "RSS: Failed to fetch Invest Like the Best: HTTP 404"
