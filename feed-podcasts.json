@@ -1,129 +1,49 @@
 {
-  "generatedAt": "2026-08-27T17:29:24.250Z",
+  "generatedAt": "2026-08-28T18:24:16.489Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Social media is breaking your brain | DHH and Lex Fridman",
-      "videoId": "e_KgPTnuxhM",
-      "url": "https://youtube.com/watch?v=e_KgPTnuxhM",
-      "publishedAt": "2026-08-27T16:00:09+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "20VC",
-      "title": "NVIDIA Bonanza, Anthropic's $30T Revenue &amp; Is robotics overhyped?",
-      "videoId": "YiCjYIh7j4c",
-      "url": "https://youtube.com/watch?v=YiCjYIh7j4c",
-      "publishedAt": "2026-08-27T14:00:28+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Anthropic's $30T Assumption &amp; OpenAI Confirms IPO | Why Customer Service &amp; Robotics are Overinflated",
-      "videoId": "j_JlQm8DB80",
-      "url": "https://youtube.com/watch?v=j_JlQm8DB80",
-      "publishedAt": "2026-08-27T14:00:17+00:00"
+      "title": "The Biggest Risk In Buying Hugging Face",
+      "videoId": "2dFfC7ouYsE",
+      "url": "https://youtube.com/watch?v=2dFfC7ouYsE",
+      "publishedAt": "2026-08-28T17:25:31+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The genius of Linus Torvalds | DHH and Lex Fridman",
-      "videoId": "tzGLLFFhqeU",
-      "url": "https://youtube.com/watch?v=tzGLLFFhqeU",
-      "publishedAt": "2026-08-27T10:22:36+00:00"
+      "title": "DHH on AI psychosis | Lex Fridman Podcast Clips",
+      "videoId": "66XR8e7pC9Y",
+      "url": "https://youtube.com/watch?v=66XR8e7pC9Y",
+      "publishedAt": "2026-08-28T16:00:30+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Cases where AI can write 100% of the code | DHH and Lex Fridman",
+      "videoId": "JUBfT_ASYyg",
+      "url": "https://youtube.com/watch?v=JUBfT_ASYyg",
+      "publishedAt": "2026-08-28T12:00:37+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
-      "videoId": "YscDZpVF4CQ",
-      "url": "https://youtube.com/watch?v=YscDZpVF4CQ",
-      "publishedAt": "2026-08-27T10:00:04+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Uber President on Travis Kalanick’s Greatest Strength",
-      "videoId": "hpkg8tHHbxA",
-      "url": "https://youtube.com/watch?v=hpkg8tHHbxA",
-      "publishedAt": "2026-08-27T05:00:34+00:00"
+      "title": "The Rise of Shadow AI",
+      "videoId": "VGPs7mBr8xk",
+      "url": "https://youtube.com/watch?v=VGPs7mBr8xk",
+      "publishedAt": "2026-08-28T10:29:59+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "PewDiePie's Linux arc is truly inspiring | DHH and Lex Fridman",
-      "videoId": "vEe60Plxz5o",
-      "url": "https://youtube.com/watch?v=vEe60Plxz5o",
-      "publishedAt": "2026-08-27T04:00:31+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
-      "videoId": "y84ypzELP_s",
-      "url": "https://youtube.com/watch?v=y84ypzELP_s",
-      "publishedAt": "2026-08-27T03:00:52+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Acquired",
-      "title": "The connection between Ichiro Suzuki and Disney+",
-      "videoId": "6tlDEpIrfBc",
-      "url": "https://youtube.com/watch?v=6tlDEpIrfBc",
-      "publishedAt": "2026-08-26T20:20:53+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "🔬 The Physical World Is More Forgiving Than You Think — Anima Anandkumar, Caltech",
-      "videoId": "79mIutht1f4",
-      "url": "https://youtube.com/watch?v=79mIutht1f4",
-      "publishedAt": "2026-08-26T16:37:33+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Gavin Baker: If you're a patriot, you should be pro-open source AI",
-      "videoId": "hTLXWbfVi8w",
-      "url": "https://youtube.com/watch?v=hTLXWbfVi8w",
-      "publishedAt": "2026-08-26T15:00:24+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "&quot;Fauci hurt science than anyone in modern history.&quot;",
-      "videoId": "2GTgVP81G2M",
-      "url": "https://youtube.com/watch?v=2GTgVP81G2M",
-      "publishedAt": "2026-08-25T20:11:54+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "⏭️ Forward Deployed: Voice AI on what works in 2026",
-      "videoId": "MwNvowwcZOo",
-      "url": "https://youtube.com/watch?v=MwNvowwcZOo",
-      "publishedAt": "2026-08-25T18:45:32+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Acquired",
-      "title": "Why Steve Jobs Bought Pixar",
-      "videoId": "mROkxmZ4fvw",
-      "url": "https://youtube.com/watch?v=mROkxmZ4fvw",
-      "publishedAt": "2026-08-25T13:26:05+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Parallel’s Parag Agrawal: Building a New Web for AI Agents",
-      "videoId": "fUcnE6pjq5w",
-      "url": "https://youtube.com/watch?v=fUcnE6pjq5w",
-      "publishedAt": "2026-08-25T12:00:23+00:00"
+      "title": "Secret to 10x productivity with AI agents: Why most companies fail | DHH and Lex Fridman",
+      "videoId": "GQjVGFYei9M",
+      "url": "https://youtube.com/watch?v=GQjVGFYei9M",
+      "publishedAt": "2026-08-28T04:00:14+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 15
+    "podcastEpisodes": 5
   }
 }
