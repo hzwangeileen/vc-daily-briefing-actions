@@ -1,49 +1,25 @@
 {
-  "generatedAt": "2026-08-28T18:24:16.489Z",
+  "generatedAt": "2026-08-29T12:31:25.779Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "The Biggest Risk In Buying Hugging Face",
-      "videoId": "2dFfC7ouYsE",
-      "url": "https://youtube.com/watch?v=2dFfC7ouYsE",
-      "publishedAt": "2026-08-28T17:25:31+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "DHH on AI psychosis | Lex Fridman Podcast Clips",
-      "videoId": "66XR8e7pC9Y",
-      "url": "https://youtube.com/watch?v=66XR8e7pC9Y",
-      "publishedAt": "2026-08-28T16:00:30+00:00"
+      "title": "How AI changed programming | DHH and Lex Fridman",
+      "videoId": "uUWTeEvqiQI",
+      "url": "https://youtube.com/watch?v=uUWTeEvqiQI",
+      "publishedAt": "2026-08-29T11:39:05+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Cases where AI can write 100% of the code | DHH and Lex Fridman",
-      "videoId": "JUBfT_ASYyg",
-      "url": "https://youtube.com/watch?v=JUBfT_ASYyg",
-      "publishedAt": "2026-08-28T12:00:37+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "The Rise of Shadow AI",
-      "videoId": "VGPs7mBr8xk",
-      "url": "https://youtube.com/watch?v=VGPs7mBr8xk",
-      "publishedAt": "2026-08-28T10:29:59+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Secret to 10x productivity with AI agents: Why most companies fail | DHH and Lex Fridman",
-      "videoId": "GQjVGFYei9M",
-      "url": "https://youtube.com/watch?v=GQjVGFYei9M",
-      "publishedAt": "2026-08-28T04:00:14+00:00"
+      "name": "All-In Podcast",
+      "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+      "videoId": "1u5dMAKl_ks",
+      "url": "https://youtube.com/watch?v=1u5dMAKl_ks",
+      "publishedAt": "2026-08-29T01:37:17+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 2
   }
 }
