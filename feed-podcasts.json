@@ -1,49 +1,41 @@
 {
-  "generatedAt": "2026-08-30T11:35:53.942Z",
+  "generatedAt": "2026-08-31T13:11:24.417Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Chamath: “This could be the beginning of a death spiral.”",
-      "videoId": "WkTC8Hn60Gs",
-      "url": "https://youtube.com/watch?v=WkTC8Hn60Gs",
-      "publishedAt": "2026-08-29T19:00:03+00:00"
+      "name": "20VC",
+      "title": "Why You Need $500K to Live in San Francisco",
+      "videoId": "Qth3xYdn7Eg",
+      "url": "https://youtube.com/watch?v=Qth3xYdn7Eg",
+      "publishedAt": "2026-08-31T05:00:28+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Sacks: China’s Biggest AI Advantage Over America Is Optimism",
-      "videoId": "heZBlRiD_sM",
-      "url": "https://youtube.com/watch?v=heZBlRiD_sM",
-      "publishedAt": "2026-08-29T15:00:38+00:00"
+      "title": "Jason Calacanis: “Elon's Optimus will be the best-selling product of all time.”",
+      "videoId": "Fg24nRvNoS4",
+      "url": "https://youtube.com/watch?v=Fg24nRvNoS4",
+      "publishedAt": "2026-08-30T19:00:15+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Should American Enterprises Work With Open-Source Chinese Models? | Only 10% of Neo-labs survive",
-      "videoId": "h9VNB9TA2Hk",
-      "url": "https://youtube.com/watch?v=h9VNB9TA2Hk",
-      "publishedAt": "2026-08-29T14:00:28+00:00"
+      "title": "OpenAI &amp; Anthropic Could Be AI’s Netscape",
+      "videoId": "a0A-V2YWmRI",
+      "url": "https://youtube.com/watch?v=a0A-V2YWmRI",
+      "publishedAt": "2026-08-30T17:00:34+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Can US Enterprises Trust Chinese Open Models? | Eno Reyes",
-      "videoId": "6QX8jmK-CU4",
-      "url": "https://youtube.com/watch?v=6QX8jmK-CU4",
-      "publishedAt": "2026-08-29T14:00:15+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Acquired",
-      "title": "How Big Was Frozen?",
-      "videoId": "OODrOctjEZU",
-      "url": "https://youtube.com/watch?v=OODrOctjEZU",
-      "publishedAt": "2026-08-29T12:59:59+00:00"
+      "name": "All-In Podcast",
+      "title": "David Friedberg: Government Spending Ruins Everything it Touches",
+      "videoId": "m-HbN9IHF-A",
+      "url": "https://youtube.com/watch?v=m-HbN9IHF-A",
+      "publishedAt": "2026-08-30T15:30:05+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 4
   }
 }
