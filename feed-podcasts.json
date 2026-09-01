@@ -1,41 +1,65 @@
 {
-  "generatedAt": "2026-08-31T13:11:24.417Z",
+  "generatedAt": "2026-09-01T11:23:25.198Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Why You Need $500K to Live in San Francisco",
-      "videoId": "Qth3xYdn7Eg",
-      "url": "https://youtube.com/watch?v=Qth3xYdn7Eg",
-      "publishedAt": "2026-08-31T05:00:28+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "Most programmers suck - DHH explains | Lex Fridman Podcast Clips",
+      "videoId": "eRLjukcuxzo",
+      "url": "https://youtube.com/watch?v=eRLjukcuxzo",
+      "publishedAt": "2026-09-01T00:35:15+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Jason Calacanis: “Elon's Optimus will be the best-selling product of all time.”",
-      "videoId": "Fg24nRvNoS4",
-      "url": "https://youtube.com/watch?v=Fg24nRvNoS4",
-      "publishedAt": "2026-08-30T19:00:15+00:00"
+      "title": "Eric Weinstein's Theory on Aliens: Nukes May Have Alerted Something Else to Our Existence",
+      "videoId": "GkjviiG0Lt0",
+      "url": "https://youtube.com/watch?v=GkjviiG0Lt0",
+      "publishedAt": "2026-08-31T22:30:29+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "OpenAI &amp; Anthropic Could Be AI’s Netscape",
-      "videoId": "a0A-V2YWmRI",
-      "url": "https://youtube.com/watch?v=a0A-V2YWmRI",
-      "publishedAt": "2026-08-30T17:00:34+00:00"
+      "title": "Why ClickHouse Chose Fulham FC",
+      "videoId": "ehl0RE4Hi3I",
+      "url": "https://youtube.com/watch?v=ehl0RE4Hi3I",
+      "publishedAt": "2026-08-31T18:00:32+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "David Friedberg: Government Spending Ruins Everything it Touches",
-      "videoId": "m-HbN9IHF-A",
-      "url": "https://youtube.com/watch?v=m-HbN9IHF-A",
-      "publishedAt": "2026-08-30T15:30:05+00:00"
+      "title": "David Friedberg: America’s $40 Trillion Debt Problem Is About To Get Much Worse",
+      "videoId": "UZFH6h7IFaE",
+      "url": "https://youtube.com/watch?v=UZFH6h7IFaE",
+      "publishedAt": "2026-08-31T16:00:14+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "The #1 Problem in Cybersecurity",
+      "videoId": "a_tmPM-_Cfs",
+      "url": "https://youtube.com/watch?v=a_tmPM-_Cfs",
+      "publishedAt": "2026-08-31T14:43:08+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Are We Actually in an AI Bubble?",
+      "videoId": "JuCivR1NP2Y",
+      "url": "https://youtube.com/watch?v=JuCivR1NP2Y",
+      "publishedAt": "2026-08-31T14:00:26+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "ClickHouse CEO: AI Margins Need to Improve | Revenue Concentration Should be a Concern",
+      "videoId": "Wna2Ds4dt50",
+      "url": "https://youtube.com/watch?v=Wna2Ds4dt50",
+      "publishedAt": "2026-08-31T13:59:58+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 7
   }
 }
