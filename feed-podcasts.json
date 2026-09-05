@@ -1,65 +1,73 @@
 {
-  "generatedAt": "2026-09-04T11:03:13.119Z",
+  "generatedAt": "2026-09-05T10:17:04.678Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "DHH on future of human civilization | Lex Fridman Podcast Clips",
-      "videoId": "9nrZlRqCh1w",
-      "url": "https://youtube.com/watch?v=9nrZlRqCh1w",
-      "publishedAt": "2026-09-04T04:00:28+00:00"
+      "title": "DHH's new setup for programming with AI - terminal, 16 agents, Herdr, Tailscale | Lex Fridman",
+      "videoId": "4Xg1AE6Uu1k",
+      "url": "https://youtube.com/watch?v=4Xg1AE6Uu1k",
+      "publishedAt": "2026-09-05T04:00:10+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Opus 4.5 changed everything | DHH and Lex Fridman",
-      "videoId": "lHEl_xGXMvw",
-      "url": "https://youtube.com/watch?v=lHEl_xGXMvw",
-      "publishedAt": "2026-09-04T00:00:09+00:00"
+      "title": "The fastest Linux install ever | DHH and Lex Fridman",
+      "videoId": "c4Fst6Uq9nE",
+      "url": "https://youtube.com/watch?v=c4Fst6Uq9nE",
+      "publishedAt": "2026-09-05T00:00:12+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The best food in the world | DHH and Lex Fridman",
-      "videoId": "LWljpzCs2Gk",
-      "url": "https://youtube.com/watch?v=LWljpzCs2Gk",
-      "publishedAt": "2026-09-03T20:00:08+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "NVIDIA Crushes Quarter &amp; Buys Hugging Face | OpenAI Cuts Off Cursor",
-      "videoId": "qb1keGxlQqI",
-      "url": "https://youtube.com/watch?v=qb1keGxlQqI",
-      "publishedAt": "2026-09-03T14:00:45+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "NVIDIA Crushes Quarter | OpenAI Cuts Off Cursor | Instinct Hits $2.5B Valuation",
-      "videoId": "8skbt979n2o",
-      "url": "https://youtube.com/watch?v=8skbt979n2o",
-      "publishedAt": "2026-09-03T13:55:55+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Top Alignment Researcher on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds",
-      "videoId": "hdlq-JHpLSw",
-      "url": "https://youtube.com/watch?v=hdlq-JHpLSw",
-      "publishedAt": "2026-09-03T13:00:18+00:00"
+      "name": "All-In Podcast",
+      "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools &amp; Venezuela Oil Deal",
+      "videoId": "DvFe9bR2eHA",
+      "url": "https://youtube.com/watch?v=DvFe9bR2eHA",
+      "publishedAt": "2026-09-04T23:52:31+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Why Winning the AI Race Matters",
-      "videoId": "C0kCh12D7Mk",
-      "url": "https://youtube.com/watch?v=C0kCh12D7Mk",
-      "publishedAt": "2026-09-03T13:00:10+00:00"
+      "title": "Shutting Off AI Would Be Anarchy",
+      "videoId": "AOFLdJOCJSk",
+      "url": "https://youtube.com/watch?v=AOFLdJOCJSk",
+      "publishedAt": "2026-09-04T23:07:56+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "FOMO in the agentic AI era - advice from DHH | Lex Fridman Podcast Clips",
+      "videoId": "I1YJe4XWGH0",
+      "url": "https://youtube.com/watch?v=I1YJe4XWGH0",
+      "publishedAt": "2026-09-04T20:00:30+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "ESPN Funded the Disney You Love",
+      "videoId": "VwTAEwgLKqo",
+      "url": "https://youtube.com/watch?v=VwTAEwgLKqo",
+      "publishedAt": "2026-09-04T19:48:22+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Could Instinct Build The Next Big Moat in AI?",
+      "videoId": "sDwzPmwNpJM",
+      "url": "https://youtube.com/watch?v=sDwzPmwNpJM",
+      "publishedAt": "2026-09-04T17:35:23+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Faster Chips That Don't Melt — Anima Anandkumar &amp; Benedikt Jenik, Accelerated Understanding",
+      "videoId": "KS_IpnX7n9I",
+      "url": "https://youtube.com/watch?v=KS_IpnX7n9I",
+      "publishedAt": "2026-09-04T16:00:32+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 8
   }
 }
