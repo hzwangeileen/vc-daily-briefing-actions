@@ -1,57 +1,73 @@
 {
-  "generatedAt": "2026-09-07T12:02:22.232Z",
+  "generatedAt": "2026-09-08T10:56:32.393Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "DHH on Anthropic, AI safety, and censorship | Lex Fridman Podcast Clips",
+      "videoId": "t7sKriC3fQ0",
+      "url": "https://youtube.com/watch?v=t7sKriC3fQ0",
+      "publishedAt": "2026-09-08T08:00:10+00:00"
+    },
+    {
+      "source": "podcast",
       "name": "20VC",
-      "title": "Rent GPUs, Don't Buy Them",
-      "videoId": "fSBKMnliZus",
-      "url": "https://youtube.com/watch?v=fSBKMnliZus",
-      "publishedAt": "2026-09-07T04:55:20+00:00"
+      "title": "Why Has Apple Failed So Badly at AI?",
+      "videoId": "e-VkDmdu9eo",
+      "url": "https://youtube.com/watch?v=e-VkDmdu9eo",
+      "publishedAt": "2026-09-08T05:00:37+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Lex Fridman on programming with AI agents by recording long audio notes",
-      "videoId": "6AeppBojotE",
-      "url": "https://youtube.com/watch?v=6AeppBojotE",
-      "publishedAt": "2026-09-07T04:00:30+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Sacks: Trump’s Instincts on AI and Data Centers Are Right",
-      "videoId": "OLP4oVOZ9EM",
-      "url": "https://youtube.com/watch?v=OLP4oVOZ9EM",
-      "publishedAt": "2026-09-07T02:57:39+00:00"
+      "title": "Timeline for AGI - Have we built AGI already? | DHH and Lex Fridman",
+      "videoId": "Lw6kELm_Uq4",
+      "url": "https://youtube.com/watch?v=Lw6kELm_Uq4",
+      "publishedAt": "2026-09-08T04:00:10+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Burnout from programming with AI agents | DHH and Lex Fridman",
-      "videoId": "QDJulwStkzc",
-      "url": "https://youtube.com/watch?v=QDJulwStkzc",
-      "publishedAt": "2026-09-07T01:00:10+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Best AI model for coding: Fable vs Opus 5 vs Sol vs Grok vs DeepSeek | DHH and Lex Fridman",
-      "videoId": "76gS56Bnhjg",
-      "url": "https://youtube.com/watch?v=76gS56Bnhjg",
-      "publishedAt": "2026-09-06T23:00:29+00:00"
+      "title": "How to avoid AI psychosis | DHH and Lex Fridman",
+      "videoId": "tNrwtv8xMdM",
+      "url": "https://youtube.com/watch?v=tNrwtv8xMdM",
+      "publishedAt": "2026-09-08T01:00:30+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "AI Agents Are Wiping Databases",
-      "videoId": "jKImCHGNbrE",
-      "url": "https://youtube.com/watch?v=jKImCHGNbrE",
-      "publishedAt": "2026-09-06T15:49:36+00:00"
+      "title": "The Reality of Building Physical Chips",
+      "videoId": "MxM7Wr_NU9Q",
+      "url": "https://youtube.com/watch?v=MxM7Wr_NU9Q",
+      "publishedAt": "2026-09-07T15:25:14+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "The $100BN AI Assistant Race",
+      "videoId": "acj3yT3XMfI",
+      "url": "https://youtube.com/watch?v=acj3yT3XMfI",
+      "publishedAt": "2026-09-07T14:07:00+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Inside the Team That Killed Mandatory Code Review — Quinn Slack, AMP",
+      "videoId": "hvwtHZ5E27c",
+      "url": "https://youtube.com/watch?v=hvwtHZ5E27c",
+      "publishedAt": "2026-09-07T14:00:06+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Town vs Instinct vs GrokBot | Why the AI Assistant Market Is Not a Bubble",
+      "videoId": "9ISWVzQ85Po",
+      "url": "https://youtube.com/watch?v=9ISWVzQ85Po",
+      "publishedAt": "2026-09-07T13:59:48+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 6
+    "podcastEpisodes": 8
   }
 }
