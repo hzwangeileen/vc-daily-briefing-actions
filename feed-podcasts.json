@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-09T11:00:44.534Z",
+  "generatedAt": "2026-09-10T10:57:38.902Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Wrestling in Dagestan - competition level is extremely high | Khabib Nurmagomedov and Lex Fridman",
-      "videoId": "ldlvZeFqnVI",
-      "url": "https://youtube.com/watch?v=ldlvZeFqnVI",
-      "publishedAt": "2026-09-09T08:00:30+00:00"
+      "name": "No Priors",
+      "title": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins &amp; Tokenization with CEO Brian Armstrong",
+      "videoId": "uLDK4l_-gUE",
+      "url": "https://youtube.com/watch?v=uLDK4l_-gUE",
+      "publishedAt": "2026-09-10T10:00:16+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "DHH on immigration: Response to critics of his political comments | Lex Fridman Podcast Clips",
-      "videoId": "GYx4OBbswTw",
-      "url": "https://youtube.com/watch?v=GYx4OBbswTw",
-      "publishedAt": "2026-09-09T04:00:10+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "DHH on OpenClaw, Grok Bot, and personal AI agents | Lex Fridman Podcast Clips",
-      "videoId": "WLHnljpwnFw",
-      "url": "https://youtube.com/watch?v=WLHnljpwnFw",
-      "publishedAt": "2026-09-09T01:00:09+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Chamath: Your AI Data Is NOT SAFE",
-      "videoId": "vkAAAVtZwqc",
-      "url": "https://youtube.com/watch?v=vkAAAVtZwqc",
-      "publishedAt": "2026-09-08T20:53:15+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Jason Calacanis: OpenAI's “Sentient AI” Hype Is Really an IPO Sales Pitch",
-      "videoId": "ojVOeGL-Snc",
-      "url": "https://youtube.com/watch?v=ojVOeGL-Snc",
-      "publishedAt": "2026-09-08T18:18:28+00:00"
+      "title": "DHH on danger of over-optimizing life | Lex Fridman Podcast Clips",
+      "videoId": "zFsqzgyg14M",
+      "url": "https://youtube.com/watch?v=zFsqzgyg14M",
+      "publishedAt": "2026-09-10T08:00:11+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "This Company Spends 75k on AI tools",
-      "videoId": "AUcU9qSqHYs",
-      "url": "https://youtube.com/watch?v=AUcU9qSqHYs",
-      "publishedAt": "2026-09-08T17:57:21+00:00"
+      "title": "Speechify CEO: Why Great Leaders Go First",
+      "videoId": "h00GRw3M2Ls",
+      "url": "https://youtube.com/watch?v=h00GRw3M2Ls",
+      "publishedAt": "2026-09-10T05:00:23+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "DHH on William F Buckley interview with a Black Panther leader | Lex Fridman Podcast Clips",
+      "videoId": "y-GULo4j7gI",
+      "url": "https://youtube.com/watch?v=y-GULo4j7gI",
+      "publishedAt": "2026-09-10T01:00:10+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "DHH on disagreement with Bryan Johnson and longevity community | Lex Fridman Podcast Clips",
+      "videoId": "lp2Tt7ZBoQs",
+      "url": "https://youtube.com/watch?v=lp2Tt7ZBoQs",
+      "publishedAt": "2026-09-09T18:00:11+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Speechify CEO: Why Talking Will Replace Typing",
+      "videoId": "XR8iMlYLvHA",
+      "url": "https://youtube.com/watch?v=XR8iMlYLvHA",
+      "publishedAt": "2026-09-09T10:50:18+00:00"
     }
   ],
   "stats": {
