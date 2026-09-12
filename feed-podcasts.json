@@ -1,49 +1,25 @@
 {
-  "generatedAt": "2026-09-11T10:56:08.349Z",
+  "generatedAt": "2026-09-12T10:23:13.562Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Are we entering the age of doomworking?",
-      "videoId": "Qe4ktjq0Qe4",
-      "url": "https://youtube.com/watch?v=Qe4ktjq0Qe4",
-      "publishedAt": "2026-09-11T05:00:23+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Coinbase CEO: We Want to Bank AI Agents",
-      "videoId": "58EYC4j2qvU",
-      "url": "https://youtube.com/watch?v=58EYC4j2qvU",
-      "publishedAt": "2026-09-11T02:42:18+00:00"
+      "name": "All-In Podcast",
+      "title": "AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse",
+      "videoId": "cvxjqbfLVk0",
+      "url": "https://youtube.com/watch?v=cvxjqbfLVk0",
+      "publishedAt": "2026-09-12T00:26:25+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "AI AGENT BREAKS $100 SPENDING CAP",
-      "videoId": "RwH45L_XUfc",
-      "url": "https://youtube.com/watch?v=RwH45L_XUfc",
-      "publishedAt": "2026-09-10T18:10:21+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Most Neolabs WON'T be Great Investments",
-      "videoId": "p5eA-Aghkcc",
-      "url": "https://youtube.com/watch?v=p5eA-Aghkcc",
-      "publishedAt": "2026-09-10T14:22:34+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "DHH on drama with Theo | Lex Fridman Podcast Clips",
-      "videoId": "uJMjlKksSks",
-      "url": "https://youtube.com/watch?v=uJMjlKksSks",
-      "publishedAt": "2026-09-10T11:00:10+00:00"
+      "title": "BIG TECH CAN'T COMPETE WITH STARTUPS",
+      "videoId": "4FLePBLWkIY",
+      "url": "https://youtube.com/watch?v=4FLePBLWkIY",
+      "publishedAt": "2026-09-11T13:55:20+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 2
   }
 }
