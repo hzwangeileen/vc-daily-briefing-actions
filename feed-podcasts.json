@@ -1,25 +1,41 @@
 {
-  "generatedAt": "2026-09-12T10:23:13.562Z",
+  "generatedAt": "2026-09-13T11:25:36.923Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse",
-      "videoId": "cvxjqbfLVk0",
-      "url": "https://youtube.com/watch?v=cvxjqbfLVk0",
-      "publishedAt": "2026-09-12T00:26:25+00:00"
+      "title": "David Friedberg: AI Models are Training on YOUR DATA",
+      "videoId": "z9YHCR6VlLA",
+      "url": "https://youtube.com/watch?v=z9YHCR6VlLA",
+      "publishedAt": "2026-09-12T17:30:28+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Will We Still Need Money in the Future?",
+      "videoId": "U6fI1P8VuSs",
+      "url": "https://youtube.com/watch?v=U6fI1P8VuSs",
+      "publishedAt": "2026-09-12T15:49:21+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "BIG TECH CAN'T COMPETE WITH STARTUPS",
-      "videoId": "4FLePBLWkIY",
-      "url": "https://youtube.com/watch?v=4FLePBLWkIY",
-      "publishedAt": "2026-09-11T13:55:20+00:00"
+      "title": "Labour, Engineering, Social Media, GrokBots, Cybercabs: 7 Predictions for How AI Changes the World",
+      "videoId": "KHwaNKfiASw",
+      "url": "https://youtube.com/watch?v=KHwaNKfiASw",
+      "publishedAt": "2026-09-12T14:00:06+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "&quot;Our engineers stopped coding a year ago&quot;",
+      "videoId": "7iKhnS7h0jM",
+      "url": "https://youtube.com/watch?v=7iKhnS7h0jM",
+      "publishedAt": "2026-09-12T13:55:36+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 4
   }
 }
