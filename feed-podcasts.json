@@ -1,41 +1,25 @@
 {
-  "generatedAt": "2026-09-13T11:25:36.923Z",
+  "generatedAt": "2026-09-14T12:17:57.494Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Friedberg: AI Models are Training on YOUR DATA",
-      "videoId": "z9YHCR6VlLA",
-      "url": "https://youtube.com/watch?v=z9YHCR6VlLA",
-      "publishedAt": "2026-09-12T17:30:28+00:00"
+      "name": "Acquired",
+      "title": "Home Depot: The best-performing stock in the S&amp;P 500 since IPO (Audio)",
+      "videoId": "6Kq5e49MD6U",
+      "url": "https://youtube.com/watch?v=6Kq5e49MD6U",
+      "publishedAt": "2026-09-14T03:45:30+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Will We Still Need Money in the Future?",
-      "videoId": "U6fI1P8VuSs",
-      "url": "https://youtube.com/watch?v=U6fI1P8VuSs",
-      "publishedAt": "2026-09-12T15:49:21+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Labour, Engineering, Social Media, GrokBots, Cybercabs: 7 Predictions for How AI Changes the World",
-      "videoId": "KHwaNKfiASw",
-      "url": "https://youtube.com/watch?v=KHwaNKfiASw",
-      "publishedAt": "2026-09-12T14:00:06+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "&quot;Our engineers stopped coding a year ago&quot;",
-      "videoId": "7iKhnS7h0jM",
-      "url": "https://youtube.com/watch?v=7iKhnS7h0jM",
-      "publishedAt": "2026-09-12T13:55:36+00:00"
+      "title": "Why Most AI Chip Startups Will Fail",
+      "videoId": "Rnv7GLfU9Uc",
+      "url": "https://youtube.com/watch?v=Rnv7GLfU9Uc",
+      "publishedAt": "2026-09-13T15:12:18+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 2
   }
 }
