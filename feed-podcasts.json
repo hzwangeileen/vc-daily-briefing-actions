@@ -1,25 +1,73 @@
 {
-  "generatedAt": "2026-09-14T12:17:57.494Z",
+  "generatedAt": "2026-09-15T11:25:48.200Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Acquired",
-      "title": "Home Depot: The best-performing stock in the S&amp;P 500 since IPO (Audio)",
-      "videoId": "6Kq5e49MD6U",
-      "url": "https://youtube.com/watch?v=6Kq5e49MD6U",
-      "publishedAt": "2026-09-14T03:45:30+00:00"
+      "name": "20VC",
+      "title": "How The Best CIOs Build A Portfolio From Scratch",
+      "videoId": "aSsXuZ0g8rY",
+      "url": "https://youtube.com/watch?v=aSsXuZ0g8rY",
+      "publishedAt": "2026-09-15T05:00:29+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Elon Musk &amp; Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+      "videoId": "iwBOQeFPAwg",
+      "url": "https://youtube.com/watch?v=iwBOQeFPAwg",
+      "publishedAt": "2026-09-15T03:59:04+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "The Besties REACT to Trump and Jensen Calling Out the Doomer Hoax",
+      "videoId": "zXGso01RBIA",
+      "url": "https://youtube.com/watch?v=zXGso01RBIA",
+      "publishedAt": "2026-09-15T02:30:08+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "MUST SEE: Trump calls Nvidia CEO Jensen Huang live on stage!",
+      "videoId": "6tF4oYLQrJc",
+      "url": "https://youtube.com/watch?v=6tF4oYLQrJc",
+      "publishedAt": "2026-09-14T22:52:17+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Why Most AI Chip Startups Will Fail",
-      "videoId": "Rnv7GLfU9Uc",
-      "url": "https://youtube.com/watch?v=Rnv7GLfU9Uc",
-      "publishedAt": "2026-09-13T15:12:18+00:00"
+      "title": "Sending Money at the Speed of a WhatsApp Message 177 V 1",
+      "videoId": "5082Aonj6ns",
+      "url": "https://youtube.com/watch?v=5082Aonj6ns",
+      "publishedAt": "2026-09-14T22:25:29+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Is AI Destroying Our Ability to Think?",
+      "videoId": "fJfTGu6kABs",
+      "url": "https://youtube.com/watch?v=fJfTGu6kABs",
+      "publishedAt": "2026-09-14T18:00:22+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive",
+      "videoId": "eDFXtSg3zB8",
+      "url": "https://youtube.com/watch?v=eDFXtSg3zB8",
+      "publishedAt": "2026-09-14T15:45:28+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "How LPs Allocate to Venture in 2026: What They Want, What They Don’t | Baylor University CIO",
+      "videoId": "U_ManIWISzw",
+      "url": "https://youtube.com/watch?v=U_ManIWISzw",
+      "publishedAt": "2026-09-14T13:58:31+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 8
   }
 }
