@@ -1,73 +1,57 @@
 {
-  "generatedAt": "2026-09-15T11:25:48.200Z",
+  "generatedAt": "2026-09-16T11:11:00.674Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "How The Best CIOs Build A Portfolio From Scratch",
-      "videoId": "aSsXuZ0g8rY",
-      "url": "https://youtube.com/watch?v=aSsXuZ0g8rY",
-      "publishedAt": "2026-09-15T05:00:29+00:00"
+      "title": "The Story Behind Charles Leclerc and Eight Sleep",
+      "videoId": "uOsXPGRdH94",
+      "url": "https://youtube.com/watch?v=uOsXPGRdH94",
+      "publishedAt": "2026-09-16T05:00:29+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Elon Musk &amp; Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
-      "videoId": "iwBOQeFPAwg",
-      "url": "https://youtube.com/watch?v=iwBOQeFPAwg",
-      "publishedAt": "2026-09-15T03:59:04+00:00"
+      "title": "JD Vance to AI Labs: Don’t Build “Frankenstein” and Then Ask for Government Regulation",
+      "videoId": "QGKlOf_kThY",
+      "url": "https://youtube.com/watch?v=QGKlOf_kThY",
+      "publishedAt": "2026-09-15T22:10:26+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "The Besties REACT to Trump and Jensen Calling Out the Doomer Hoax",
-      "videoId": "zXGso01RBIA",
-      "url": "https://youtube.com/watch?v=zXGso01RBIA",
-      "publishedAt": "2026-09-15T02:30:08+00:00"
+      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse &amp; the Midterms",
+      "videoId": "PUcooQRy0PU",
+      "url": "https://youtube.com/watch?v=PUcooQRy0PU",
+      "publishedAt": "2026-09-15T21:13:22+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "MUST SEE: Trump calls Nvidia CEO Jensen Huang live on stage!",
-      "videoId": "6tF4oYLQrJc",
-      "url": "https://youtube.com/watch?v=6tF4oYLQrJc",
-      "publishedAt": "2026-09-14T22:52:17+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Sending Money at the Speed of a WhatsApp Message 177 V 1",
-      "videoId": "5082Aonj6ns",
-      "url": "https://youtube.com/watch?v=5082Aonj6ns",
-      "publishedAt": "2026-09-14T22:25:29+00:00"
+      "title": "Elon Musk: Terafab is a Hedge Against Taiwan AND a Necessity to Scale Tesla/SpaceX",
+      "videoId": "nOaaqYhBwcA",
+      "url": "https://youtube.com/watch?v=nOaaqYhBwcA",
+      "publishedAt": "2026-09-15T20:15:34+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Is AI Destroying Our Ability to Think?",
-      "videoId": "fJfTGu6kABs",
-      "url": "https://youtube.com/watch?v=fJfTGu6kABs",
-      "publishedAt": "2026-09-14T18:00:22+00:00"
+      "title": "How Eight Sleep Runs Email Marketing With Zero Employees",
+      "videoId": "daWDY-2RFtE",
+      "url": "https://youtube.com/watch?v=daWDY-2RFtE",
+      "publishedAt": "2026-09-15T14:00:39+00:00"
     },
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "Recursive Self-Improvement: from Auto Research to Superintelligence — Richard Socher, Recursive",
-      "videoId": "eDFXtSg3zB8",
-      "url": "https://youtube.com/watch?v=eDFXtSg3zB8",
-      "publishedAt": "2026-09-14T15:45:28+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "How LPs Allocate to Venture in 2026: What They Want, What They Don’t | Baylor University CIO",
-      "videoId": "U_ManIWISzw",
-      "url": "https://youtube.com/watch?v=U_ManIWISzw",
-      "publishedAt": "2026-09-14T13:58:31+00:00"
+      "name": "Training Data",
+      "title": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
+      "videoId": "NE4CLThMPGU",
+      "url": "https://youtube.com/watch?v=NE4CLThMPGU",
+      "publishedAt": "2026-09-15T12:00:34+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 6
   }
 }
