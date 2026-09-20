@@ -1,73 +1,49 @@
 {
-  "generatedAt": "2026-09-19T10:36:21.088Z",
+  "generatedAt": "2026-09-20T10:59:33.488Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "John Nash's schizophrenia (A Beautiful Mind) - failed horrific treatments | Andrew Scull",
-      "videoId": "WJL9jg_jQcw",
-      "url": "https://youtube.com/watch?v=WJL9jg_jQcw",
-      "publishedAt": "2026-09-19T04:00:29+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Bill Gurley: Searching for Feynman",
-      "videoId": "A4Q7zAayW20",
-      "url": "https://youtube.com/watch?v=A4Q7zAayW20",
-      "publishedAt": "2026-09-19T00:30:06+00:00"
+      "title": "Prison system is an insane asylum | Andrew Scull and Lex Fridman",
+      "videoId": "UyoA-r1sii8",
+      "url": "https://youtube.com/watch?v=UyoA-r1sii8",
+      "publishedAt": "2026-09-20T04:00:32+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Fraud in psychiatry - The Rosenhan Experiment | Andrew Scull and Lex Fridman",
-      "videoId": "qG89k9k71Fk",
-      "url": "https://youtube.com/watch?v=qG89k9k71Fk",
-      "publishedAt": "2026-09-19T00:00:13+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "A Worm With 302 Neurons Inspired Their Architecture — Ramin Hasani, Liquid AI",
-      "videoId": "V_9TCu_21SE",
-      "url": "https://youtube.com/watch?v=V_9TCu_21SE",
-      "publishedAt": "2026-09-18T20:17:04+00:00"
+      "title": "Sigmund Freud vs Carl Jung: Why Freud hated Jung | Andrew Scull and Lex Fridman",
+      "videoId": "7jJeTwAlpJI",
+      "url": "https://youtube.com/watch?v=7jJeTwAlpJI",
+      "publishedAt": "2026-09-20T00:00:14+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Does electroshock therapy (ECT) actually work? | Andrew Scull and Lex Fridman",
-      "videoId": "QnQf-uGgGgY",
-      "url": "https://youtube.com/watch?v=QnQf-uGgGgY",
-      "publishedAt": "2026-09-18T20:00:30+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "America's Next 250: Remember Who We Are",
-      "videoId": "Nvc6HWfoSoE",
-      "url": "https://youtube.com/watch?v=Nvc6HWfoSoE",
-      "publishedAt": "2026-09-18T19:29:11+00:00"
+      "title": "Mental illness in women vs men | Andrew Scull and Lex Fridman",
+      "videoId": "mwde-hEbn4I",
+      "url": "https://youtube.com/watch?v=mwde-hEbn4I",
+      "publishedAt": "2026-09-19T20:00:30+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Most positive use cases for AI have a corresponding dark version",
-      "videoId": "mDHwZzd8Aqw",
-      "url": "https://youtube.com/watch?v=mDHwZzd8Aqw",
-      "publishedAt": "2026-09-18T17:30:25+00:00"
+      "title": "How Many Will Actually Get Built &amp; Is Energy AI's BIGGEST Bottleneck? | Positron AI Co-founder",
+      "videoId": "6ohZuFkq-aU",
+      "url": "https://youtube.com/watch?v=6ohZuFkq-aU",
+      "publishedAt": "2026-09-19T14:00:34+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
-      "videoId": "VTF6p0U98ek",
-      "url": "https://youtube.com/watch?v=VTF6p0U98ek",
-      "publishedAt": "2026-09-18T16:27:52+00:00"
+      "name": "20VC",
+      "title": "Is “Anti Data Centers” a Chinese Psyop? How many will actually get built?",
+      "videoId": "cOChNu-o7QQ",
+      "url": "https://youtube.com/watch?v=cOChNu-o7QQ",
+      "publishedAt": "2026-09-19T13:55:26+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 5
   }
 }
