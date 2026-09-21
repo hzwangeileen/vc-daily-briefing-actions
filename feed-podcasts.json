@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-09-20T10:59:33.488Z",
+  "generatedAt": "2026-09-21T12:25:33.816Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Prison system is an insane asylum | Andrew Scull and Lex Fridman",
-      "videoId": "UyoA-r1sii8",
-      "url": "https://youtube.com/watch?v=UyoA-r1sii8",
-      "publishedAt": "2026-09-20T04:00:32+00:00"
+      "title": "Surprising origin of antipsychotic drugs | Andrew Scull and Lex Fridman",
+      "videoId": "KOj39rCS0WU",
+      "url": "https://youtube.com/watch?v=KOj39rCS0WU",
+      "publishedAt": "2026-09-21T12:00:29+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Sigmund Freud vs Carl Jung: Why Freud hated Jung | Andrew Scull and Lex Fridman",
-      "videoId": "7jJeTwAlpJI",
-      "url": "https://youtube.com/watch?v=7jJeTwAlpJI",
-      "publishedAt": "2026-09-20T00:00:14+00:00"
+      "title": "Cognitive Behavioral Therapy (CBT) vs Psychoanalysis | Andrew Scull and Lex Fridman",
+      "videoId": "GvQb2jgjerw",
+      "url": "https://youtube.com/watch?v=GvQb2jgjerw",
+      "publishedAt": "2026-09-21T04:00:30+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Mental illness in women vs men | Andrew Scull and Lex Fridman",
-      "videoId": "mwde-hEbn4I",
-      "url": "https://youtube.com/watch?v=mwde-hEbn4I",
-      "publishedAt": "2026-09-19T20:00:30+00:00"
+      "title": "Do anti-depressant drugs work? | Andrew Scull and Lex Fridman",
+      "videoId": "6nFfC3HHvPU",
+      "url": "https://youtube.com/watch?v=6nFfC3HHvPU",
+      "publishedAt": "2026-09-21T00:00:32+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "How Many Will Actually Get Built &amp; Is Energy AI's BIGGEST Bottleneck? | Positron AI Co-founder",
-      "videoId": "6ohZuFkq-aU",
-      "url": "https://youtube.com/watch?v=6ohZuFkq-aU",
-      "publishedAt": "2026-09-19T14:00:34+00:00"
+      "name": "All-In Podcast",
+      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 &amp; the $50B Game Ad Market",
+      "videoId": "JtomF4bGxHs",
+      "url": "https://youtube.com/watch?v=JtomF4bGxHs",
+      "publishedAt": "2026-09-20T21:06:04+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Is “Anti Data Centers” a Chinese Psyop? How many will actually get built?",
-      "videoId": "cOChNu-o7QQ",
-      "url": "https://youtube.com/watch?v=cOChNu-o7QQ",
-      "publishedAt": "2026-09-19T13:55:26+00:00"
+      "name": "No Priors",
+      "title": "Betting on Diffusion",
+      "videoId": "s2Fi0_qzaJ0",
+      "url": "https://youtube.com/watch?v=s2Fi0_qzaJ0",
+      "publishedAt": "2026-09-20T14:11:58+00:00"
     }
   ],
   "stats": {
