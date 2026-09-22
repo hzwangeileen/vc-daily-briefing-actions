@@ -1,49 +1,89 @@
 {
-  "generatedAt": "2026-09-21T12:25:33.816Z",
+  "generatedAt": "2026-09-22T11:15:41.406Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Surprising origin of antipsychotic drugs | Andrew Scull and Lex Fridman",
-      "videoId": "KOj39rCS0WU",
-      "url": "https://youtube.com/watch?v=KOj39rCS0WU",
-      "publishedAt": "2026-09-21T12:00:29+00:00"
+      "name": "All-In Podcast",
+      "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, &amp; Revolutionizing the Engine",
+      "videoId": "Gnb-CfNPcPE",
+      "url": "https://youtube.com/watch?v=Gnb-CfNPcPE",
+      "publishedAt": "2026-09-22T09:00:09+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "GPT-6 Astra = AGI?",
+      "videoId": "HQVk-lkLDrk",
+      "url": "https://youtube.com/watch?v=HQVk-lkLDrk",
+      "publishedAt": "2026-09-22T04:55:19+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Cognitive Behavioral Therapy (CBT) vs Psychoanalysis | Andrew Scull and Lex Fridman",
-      "videoId": "GvQb2jgjerw",
-      "url": "https://youtube.com/watch?v=GvQb2jgjerw",
-      "publishedAt": "2026-09-21T04:00:30+00:00"
+      "title": "Side-effects of SSRI antidepressant drugs: Sex-life plummets | Andrew Scull and Lex Fridman",
+      "videoId": "AAeUY9XeyzM",
+      "url": "https://youtube.com/watch?v=AAeUY9XeyzM",
+      "publishedAt": "2026-09-22T04:00:11+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Do anti-depressant drugs work? | Andrew Scull and Lex Fridman",
-      "videoId": "6nFfC3HHvPU",
-      "url": "https://youtube.com/watch?v=6nFfC3HHvPU",
-      "publishedAt": "2026-09-21T00:00:32+00:00"
+      "title": "Do antipsychotic drugs work? | Andrew Scull and Lex Fridman",
+      "videoId": "Vvjeay358RI",
+      "url": "https://youtube.com/watch?v=Vvjeay358RI",
+      "publishedAt": "2026-09-22T00:00:11+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Why I couldn't build Jev at OpenAI — Diogo Almeida, TypeSafe Co-founder &amp; CEO",
+      "videoId": "cFx9Z3ZXca0",
+      "url": "https://youtube.com/watch?v=cFx9Z3ZXca0",
+      "publishedAt": "2026-09-21T22:10:40+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 &amp; the $50B Game Ad Market",
-      "videoId": "JtomF4bGxHs",
-      "url": "https://youtube.com/watch?v=JtomF4bGxHs",
-      "publishedAt": "2026-09-20T21:06:04+00:00"
+      "title": "Naveen Rao: 4D Computing, AI's Energy Wall &amp; Beating Biology",
+      "videoId": "yAsrMA_ADPc",
+      "url": "https://youtube.com/watch?v=yAsrMA_ADPc",
+      "publishedAt": "2026-09-21T21:04:44+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "Betting on Diffusion",
-      "videoId": "s2Fi0_qzaJ0",
-      "url": "https://youtube.com/watch?v=s2Fi0_qzaJ0",
-      "publishedAt": "2026-09-20T14:11:58+00:00"
+      "name": "All-In Podcast",
+      "title": "“They Got a $50,000 Check”: Meta’s Data Center Windfall for Local Teachers",
+      "videoId": "yLnJpR8H2kY",
+      "url": "https://youtube.com/watch?v=yLnJpR8H2kY",
+      "publishedAt": "2026-09-21T20:47:35+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Can we cure mental illness? - The future of psychiatry | Andrew Scull and Lex Fridman",
+      "videoId": "1Js_al_Q8Y4",
+      "url": "https://youtube.com/watch?v=1Js_al_Q8Y4",
+      "publishedAt": "2026-09-21T20:00:32+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Europe Doesn’t Matter Anymore",
+      "videoId": "U-MuXh3KgeA",
+      "url": "https://youtube.com/watch?v=U-MuXh3KgeA",
+      "publishedAt": "2026-09-21T18:00:22+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "UiPath CEO: The Real AI Moat Isn’t the Model",
+      "videoId": "A2e-JKQpTCc",
+      "url": "https://youtube.com/watch?v=A2e-JKQpTCc",
+      "publishedAt": "2026-09-21T14:00:32+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 10
   }
 }
