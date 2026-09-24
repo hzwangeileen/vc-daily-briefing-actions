@@ -1,49 +1,57 @@
 {
-  "generatedAt": "2026-09-23T11:08:33.884Z",
+  "generatedAt": "2026-09-24T11:25:01.520Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Steve Hilton &amp; Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud &amp; CA Republicans",
-      "videoId": "VF90rBzl26E",
-      "url": "https://youtube.com/watch?v=VF90rBzl26E",
-      "publishedAt": "2026-09-23T01:51:07+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "No Priors",
-      "title": "AI Is Forcing Us to Evolve",
-      "videoId": "q69HLw2ZTM8",
-      "url": "https://youtube.com/watch?v=q69HLw2ZTM8",
-      "publishedAt": "2026-09-22T23:38:37+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow",
-      "videoId": "2xBSGluFkG0",
-      "url": "https://youtube.com/watch?v=2xBSGluFkG0",
-      "publishedAt": "2026-09-22T21:07:45+00:00"
+      "title": "Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee",
+      "videoId": "TCpRwJBQvW0",
+      "url": "https://youtube.com/watch?v=TCpRwJBQvW0",
+      "publishedAt": "2026-09-24T10:00:05+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The big problem with AI layoffs",
-      "videoId": "Us7tK3a_Qaw",
-      "url": "https://youtube.com/watch?v=Us7tK3a_Qaw",
-      "publishedAt": "2026-09-22T16:30:31+00:00"
+      "title": "Why Jason Lemkin Wouldn’t Invest in Instinct",
+      "videoId": "NER_yS3YZsw",
+      "url": "https://youtube.com/watch?v=NER_yS3YZsw",
+      "publishedAt": "2026-09-24T05:00:33+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "How Sigmund Freud revolutionized psychiatry | Andrew Scull and Lex Fridman",
-      "videoId": "ImNEHHLh6-U",
-      "url": "https://youtube.com/watch?v=ImNEHHLh6-U",
-      "publishedAt": "2026-09-22T12:00:12+00:00"
+      "name": "All-In Podcast",
+      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Start, Buying Product-Market Fit &amp; Beating Private Equity",
+      "videoId": "6t5yF8ansoQ",
+      "url": "https://youtube.com/watch?v=6t5yF8ansoQ",
+      "publishedAt": "2026-09-23T23:00:16+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Jensen Huang Calls Out AI Doomers: “All of These Predictions Have Been Wrong”",
+      "videoId": "FvA0ssAS--E",
+      "url": "https://youtube.com/watch?v=FvA0ssAS--E",
+      "publishedAt": "2026-09-23T18:11:50+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "The Truth About AI Replacing Humans",
+      "videoId": "lRUD3Icw7Qo",
+      "url": "https://youtube.com/watch?v=lRUD3Icw7Qo",
+      "publishedAt": "2026-09-23T14:00:29+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+      "videoId": "B7DdNj_VjcU",
+      "url": "https://youtube.com/watch?v=B7DdNj_VjcU",
+      "publishedAt": "2026-09-23T13:35:08+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 6
   }
 }
