@@ -1,49 +1,25 @@
 {
-  "generatedAt": "2026-09-27T11:44:17.847Z",
+  "generatedAt": "2026-09-28T13:23:08.529Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "The Persona Behind Every Company",
-      "videoId": "fI5Xa04T-Qc",
-      "url": "https://youtube.com/watch?v=fI5Xa04T-Qc",
-      "publishedAt": "2026-09-26T22:31:16+00:00"
+      "name": "Invest Like the Best",
+      "title": "Inside the Personal AI Assistant Growing 10% a Day | Instinct Founder",
+      "videoId": "Am7IWP8IpEc",
+      "url": "https://youtube.com/watch?v=Am7IWP8IpEc",
+      "publishedAt": "2026-09-28T12:00:10+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Chamath on Obama’s AI Warning: Follow the Money",
-      "videoId": "1fqXz8NOMuY",
-      "url": "https://youtube.com/watch?v=1fqXz8NOMuY",
-      "publishedAt": "2026-09-26T21:30:04+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Friedberg: Obama Doesn’t Understand AI and He’s Making Prosperity Political",
-      "videoId": "vwIj7vU1MHA",
-      "url": "https://youtube.com/watch?v=vwIj7vU1MHA",
-      "publishedAt": "2026-09-26T16:30:01+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "&quot;Agents will use the web 1000X more than humans&quot;",
-      "videoId": "CX25uUNFnVo",
-      "url": "https://youtube.com/watch?v=CX25uUNFnVo",
-      "publishedAt": "2026-09-26T14:20:28+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The Ads Business Model Will Die &amp; Lessons from Working with Elon at Twitter | Parag Agrawal",
-      "videoId": "wTxb_whJR00",
-      "url": "https://youtube.com/watch?v=wTxb_whJR00",
-      "publishedAt": "2026-09-26T14:15:53+00:00"
+      "title": "Jason Calacanis: Dario Seems to Be Sabotaging His Own IPO",
+      "videoId": "nI2vRlkSxiU",
+      "url": "https://youtube.com/watch?v=nI2vRlkSxiU",
+      "publishedAt": "2026-09-27T15:00:20+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 2
   }
 }
