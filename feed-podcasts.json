@@ -1,25 +1,65 @@
 {
-  "generatedAt": "2026-09-28T13:23:08.529Z",
+  "generatedAt": "2026-09-29T12:27:59.034Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "Inside the Personal AI Assistant Growing 10% a Day | Instinct Founder",
-      "videoId": "Am7IWP8IpEc",
-      "url": "https://youtube.com/watch?v=Am7IWP8IpEc",
-      "publishedAt": "2026-09-28T12:00:10+00:00"
+      "name": "20VC",
+      "title": "Higgsfield CEO: 90 Hours Working, 3 With My Wife",
+      "videoId": "IJ3J_u1k3m4",
+      "url": "https://youtube.com/watch?v=IJ3J_u1k3m4",
+      "publishedAt": "2026-09-29T08:40:25+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "The Future of Claude Code: Mods, Mutable Software, &amp; Multiplayer Agents — Thariq Shihipar, Anthropic",
+      "videoId": "IZAlq-V19U8",
+      "url": "https://youtube.com/watch?v=IZAlq-V19U8",
+      "publishedAt": "2026-09-29T01:17:41+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Jason Calacanis: Dario Seems to Be Sabotaging His Own IPO",
-      "videoId": "nI2vRlkSxiU",
-      "url": "https://youtube.com/watch?v=nI2vRlkSxiU",
-      "publishedAt": "2026-09-27T15:00:20+00:00"
+      "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early &amp; AI's Potential",
+      "videoId": "JEUboZzZGM4",
+      "url": "https://youtube.com/watch?v=JEUboZzZGM4",
+      "publishedAt": "2026-09-28T22:22:13+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "TypeSafe CEO on why he doesn't believe in public benchmarking for Jev",
+      "videoId": "xgT29UR6Joc",
+      "url": "https://youtube.com/watch?v=xgT29UR6Joc",
+      "publishedAt": "2026-09-28T22:18:52+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Jason Calacanis: AI Is About to “Blow People’s Minds”",
+      "videoId": "91d3fgcq3wo",
+      "url": "https://youtube.com/watch?v=91d3fgcq3wo",
+      "publishedAt": "2026-09-28T21:22:14+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Inside Higgsfield’s 150-Person Content Team",
+      "videoId": "Uk0Ey4-xVro",
+      "url": "https://youtube.com/watch?v=Uk0Ey4-xVro",
+      "publishedAt": "2026-09-28T18:10:29+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "$1B ARR in 18 Months | The Untold Story of Higgsfield",
+      "videoId": "ILyomXloLZg",
+      "url": "https://youtube.com/watch?v=ILyomXloLZg",
+      "publishedAt": "2026-09-28T14:15:36+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 7
   }
 }
