@@ -1,65 +1,33 @@
 {
-  "generatedAt": "2026-09-29T12:27:59.034Z",
+  "generatedAt": "2026-09-30T12:13:21.509Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Higgsfield CEO: 90 Hours Working, 3 With My Wife",
-      "videoId": "IJ3J_u1k3m4",
-      "url": "https://youtube.com/watch?v=IJ3J_u1k3m4",
-      "publishedAt": "2026-09-29T08:40:25+00:00"
+      "title": "- From Programming Competitions to Building Higgsfield",
+      "videoId": "jsfnRY92y-8",
+      "url": "https://youtube.com/watch?v=jsfnRY92y-8",
+      "publishedAt": "2026-09-30T05:00:40+00:00"
     },
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "The Future of Claude Code: Mods, Mutable Software, &amp; Multiplayer Agents — Thariq Shihipar, Anthropic",
-      "videoId": "IZAlq-V19U8",
-      "url": "https://youtube.com/watch?v=IZAlq-V19U8",
-      "publishedAt": "2026-09-29T01:17:41+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early &amp; AI's Potential",
-      "videoId": "JEUboZzZGM4",
-      "url": "https://youtube.com/watch?v=JEUboZzZGM4",
-      "publishedAt": "2026-09-28T22:22:13+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "TypeSafe CEO on why he doesn't believe in public benchmarking for Jev",
-      "videoId": "xgT29UR6Joc",
-      "url": "https://youtube.com/watch?v=xgT29UR6Joc",
-      "publishedAt": "2026-09-28T22:18:52+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Jason Calacanis: AI Is About to “Blow People’s Minds”",
-      "videoId": "91d3fgcq3wo",
-      "url": "https://youtube.com/watch?v=91d3fgcq3wo",
-      "publishedAt": "2026-09-28T21:22:14+00:00"
+      "name": "No Priors",
+      "title": "The Services Industry's Incentive Problem",
+      "videoId": "2KVocXYuZN0",
+      "url": "https://youtube.com/watch?v=2KVocXYuZN0",
+      "publishedAt": "2026-09-29T18:24:37+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Inside Higgsfield’s 150-Person Content Team",
-      "videoId": "Uk0Ey4-xVro",
-      "url": "https://youtube.com/watch?v=Uk0Ey4-xVro",
-      "publishedAt": "2026-09-28T18:10:29+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "$1B ARR in 18 Months | The Untold Story of Higgsfield",
-      "videoId": "ILyomXloLZg",
-      "url": "https://youtube.com/watch?v=ILyomXloLZg",
-      "publishedAt": "2026-09-28T14:15:36+00:00"
+      "title": "Are AI Labs Manipulating Their Own Benchmarks?",
+      "videoId": "3fMq-HBLEXs",
+      "url": "https://youtube.com/watch?v=3fMq-HBLEXs",
+      "publishedAt": "2026-09-29T14:00:28+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 3
   }
 }
