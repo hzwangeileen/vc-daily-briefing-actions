@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-09-30T12:13:21.509Z",
+  "generatedAt": "2026-10-01T12:47:33.689Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "- From Programming Competitions to Building Higgsfield",
-      "videoId": "jsfnRY92y-8",
-      "url": "https://youtube.com/watch?v=jsfnRY92y-8",
-      "publishedAt": "2026-09-30T05:00:40+00:00"
+      "name": "All-In Podcast",
+      "title": "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs",
+      "videoId": "uzV45QvPKtU",
+      "url": "https://youtube.com/watch?v=uzV45QvPKtU",
+      "publishedAt": "2026-09-30T21:00:36+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "The Services Industry's Incentive Problem",
-      "videoId": "2KVocXYuZN0",
-      "url": "https://youtube.com/watch?v=2KVocXYuZN0",
-      "publishedAt": "2026-09-29T18:24:37+00:00"
+      "name": "Latent Space",
+      "title": "OpenAI’s New Agent Stack: Computer Use, Decisions API, UltraFast, Dots—Ari Weinstein &amp; Nikunj Handa",
+      "videoId": "z9OkBD2-MDU",
+      "url": "https://youtube.com/watch?v=z9OkBD2-MDU",
+      "publishedAt": "2026-09-30T21:00:31+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Are AI Labs Manipulating Their Own Benchmarks?",
-      "videoId": "3fMq-HBLEXs",
-      "url": "https://youtube.com/watch?v=3fMq-HBLEXs",
-      "publishedAt": "2026-09-29T14:00:28+00:00"
+      "title": "What will a creative director’s job look like in five years?",
+      "videoId": "U4_Q_FHUzGw",
+      "url": "https://youtube.com/watch?v=U4_Q_FHUzGw",
+      "publishedAt": "2026-09-30T14:00:33+00:00"
     }
   ],
   "stats": {
