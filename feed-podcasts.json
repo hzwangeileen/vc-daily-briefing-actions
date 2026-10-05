@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-04T12:03:08.731Z",
+  "generatedAt": "2026-10-05T14:06:24.783Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
+      "name": "20VC",
+      "title": "Can You Still Win in Venture Without a $1BN Fund? Menlo’s Venky Ganesan on the New Rules of VC",
+      "videoId": "EZWsOxpVWwU",
+      "url": "https://youtube.com/watch?v=EZWsOxpVWwU",
+      "publishedAt": "2026-10-05T14:00:34+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "&quot;We are going for BROKE&quot;",
+      "videoId": "60w4oi2F88M",
+      "url": "https://youtube.com/watch?v=60w4oi2F88M",
+      "publishedAt": "2026-10-05T13:55:49+00:00"
+    },
+    {
+      "source": "podcast",
       "name": "No Priors",
-      "title": "Only One Deal a Year",
-      "videoId": "yiA9qT7jVb4",
-      "url": "https://youtube.com/watch?v=yiA9qT7jVb4",
-      "publishedAt": "2026-10-03T17:18:27+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Chamath: 3 Things Every Company Needs in the Age of Superintelligence",
-      "videoId": "-YjBgywbkpM",
-      "url": "https://youtube.com/watch?v=-YjBgywbkpM",
-      "publishedAt": "2026-10-03T16:30:14+00:00"
+      "title": "How AI Models Learn",
+      "videoId": "lnd920WC8Yk",
+      "url": "https://youtube.com/watch?v=lnd920WC8Yk",
+      "publishedAt": "2026-10-05T12:23:53+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Crusoe CEO: Why Everyone Gets GPU Depreciation &amp; AI Energy Costs Wrong",
-      "videoId": "Ko7nU1Img40",
-      "url": "https://youtube.com/watch?v=Ko7nU1Img40",
-      "publishedAt": "2026-10-03T14:00:13+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "&quot;Most moats are an illusion&quot;",
-      "videoId": "QNFyeWb_4T8",
-      "url": "https://youtube.com/watch?v=QNFyeWb_4T8",
-      "publishedAt": "2026-10-03T13:55:26+00:00"
+      "title": "AI ISN'T KILLING JOBS",
+      "videoId": "dOsnqQVZLO8",
+      "url": "https://youtube.com/watch?v=dOsnqQVZLO8",
+      "publishedAt": "2026-10-04T17:00:34+00:00"
     }
   ],
   "stats": {
