@@ -1,49 +1,25 @@
 {
-  "generatedAt": "2026-10-06T13:04:18.412Z",
+  "generatedAt": "2026-10-07T12:58:38.467Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Applied Compute CEO on the Limits of RL, the New AI Hyperscaler &amp; Why Post-Training Wins Inference",
-      "videoId": "QeiYSLBCwD4",
-      "url": "https://youtube.com/watch?v=QeiYSLBCwD4",
-      "publishedAt": "2026-10-06T13:00:07+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI",
-      "videoId": "bGph8GwB3Sk",
-      "url": "https://youtube.com/watch?v=bGph8GwB3Sk",
-      "publishedAt": "2026-10-06T12:00:27+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "Why Every AI Lab Will Become a Biotech Company | Andrew Huberman",
-      "videoId": "_QSX3BF9UX0",
-      "url": "https://youtube.com/watch?v=_QSX3BF9UX0",
-      "publishedAt": "2026-10-06T12:00:06+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "All-In Podcast",
-      "title": "David Friedberg: Rising Rates Could Trigger a Banking Shock Right Before the Midterms",
-      "videoId": "XUPMdaFYe1s",
-      "url": "https://youtube.com/watch?v=XUPMdaFYe1s",
-      "publishedAt": "2026-10-05T19:44:56+00:00"
+      "title": "David Friedberg: The AI Wars Are Already Here",
+      "videoId": "FUAgCBG54pA",
+      "url": "https://youtube.com/watch?v=FUAgCBG54pA",
+      "publishedAt": "2026-10-06T15:46:04+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Venky Ganesan: The $50K Facebook Investment I Passed On",
-      "videoId": "sNYwRrfK4S4",
-      "url": "https://youtube.com/watch?v=sNYwRrfK4S4",
-      "publishedAt": "2026-10-05T18:00:30+00:00"
+      "title": "Why Venture Capital Has to Beat the Mag 7",
+      "videoId": "Bfl0JKpWipE",
+      "url": "https://youtube.com/watch?v=Bfl0JKpWipE",
+      "publishedAt": "2026-10-06T14:00:31+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 2
   }
 }
