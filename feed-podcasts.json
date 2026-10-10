@@ -1,57 +1,49 @@
 {
-  "generatedAt": "2026-10-09T12:53:06.024Z",
+  "generatedAt": "2026-10-10T12:11:08.593Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "CROs should NEVER do this",
-      "videoId": "mep_WTApFzI",
-      "url": "https://youtube.com/watch?v=mep_WTApFzI",
-      "publishedAt": "2026-10-09T11:00:35+00:00"
+      "name": "All-In Podcast",
+      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
+      "videoId": "TBLHdXABwAg",
+      "url": "https://youtube.com/watch?v=TBLHdXABwAg",
+      "publishedAt": "2026-10-10T02:28:10+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind &amp; Sal Candido, Biohub",
+      "videoId": "NufiHZfMwaw",
+      "url": "https://youtube.com/watch?v=NufiHZfMwaw",
+      "publishedAt": "2026-10-10T00:30:41+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Why Open Models Can Make Us Safer",
+      "videoId": "z2z1iF2qVK0",
+      "url": "https://youtube.com/watch?v=z2z1iF2qVK0",
+      "publishedAt": "2026-10-10T00:19:04+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
       "title": "Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha Laskin",
-      "videoId": "lx9RjE0GekI",
-      "url": "https://youtube.com/watch?v=lx9RjE0GekI",
-      "publishedAt": "2026-10-09T10:00:17+00:00"
+      "videoId": "up4sG9RM20M",
+      "url": "https://youtube.com/watch?v=up4sG9RM20M",
+      "publishedAt": "2026-10-09T17:28:41+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Daniel Ek: How AI Can Catch What Your Doctor Misses",
-      "videoId": "LVxAKXnyPQw",
-      "url": "https://youtube.com/watch?v=LVxAKXnyPQw",
-      "publishedAt": "2026-10-08T17:00:07+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The Most In Demand Companies Right Now",
-      "videoId": "ffJzj2laYgY",
-      "url": "https://youtube.com/watch?v=ffJzj2laYgY",
-      "publishedAt": "2026-10-08T16:31:06+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Vinod Khosla Tweet Chaos | Cognition vs Factory",
-      "videoId": "aZc9CQeZnn0",
-      "url": "https://youtube.com/watch?v=aZc9CQeZnn0",
-      "publishedAt": "2026-10-08T14:41:10+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Jason Calacanis: Everyday Americans Need to Benefit From the AI Boom",
-      "videoId": "tQgc985d9uw",
-      "url": "https://youtube.com/watch?v=tQgc985d9uw",
-      "publishedAt": "2026-10-08T14:24:57+00:00"
+      "title": "David Sacks: The Economy Is Stronger Than You Think",
+      "videoId": "oF8aDmU_8nE",
+      "url": "https://youtube.com/watch?v=oF8aDmU_8nE",
+      "publishedAt": "2026-10-09T14:00:36+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 6
+    "podcastEpisodes": 5
   }
 }
