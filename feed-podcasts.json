@@ -1,49 +1,25 @@
 {
-  "generatedAt": "2026-10-10T12:11:08.593Z",
+  "generatedAt": "2026-10-11T12:25:20.384Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
-      "videoId": "TBLHdXABwAg",
-      "url": "https://youtube.com/watch?v=TBLHdXABwAg",
-      "publishedAt": "2026-10-10T02:28:10+00:00"
+      "name": "20VC",
+      "title": "How to Build a Sales Machine | Max Freeman, Ramp",
+      "videoId": "vxdMU4x2CIU",
+      "url": "https://youtube.com/watch?v=vxdMU4x2CIU",
+      "publishedAt": "2026-10-10T14:00:24+00:00"
     },
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind &amp; Sal Candido, Biohub",
-      "videoId": "NufiHZfMwaw",
-      "url": "https://youtube.com/watch?v=NufiHZfMwaw",
-      "publishedAt": "2026-10-10T00:30:41+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Why Open Models Can Make Us Safer",
-      "videoId": "z2z1iF2qVK0",
-      "url": "https://youtube.com/watch?v=z2z1iF2qVK0",
-      "publishedAt": "2026-10-10T00:19:04+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha Laskin",
-      "videoId": "up4sG9RM20M",
-      "url": "https://youtube.com/watch?v=up4sG9RM20M",
-      "publishedAt": "2026-10-09T17:28:41+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Sacks: The Economy Is Stronger Than You Think",
-      "videoId": "oF8aDmU_8nE",
-      "url": "https://youtube.com/watch?v=oF8aDmU_8nE",
-      "publishedAt": "2026-10-09T14:00:36+00:00"
+      "name": "20VC",
+      "title": "Inside Ramp's Sales Playbook",
+      "videoId": "2ilJuCW6j0g",
+      "url": "https://youtube.com/watch?v=2ilJuCW6j0g",
+      "publishedAt": "2026-10-10T14:00:07+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 2
   }
 }
