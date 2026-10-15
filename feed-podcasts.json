@@ -1,65 +1,89 @@
 {
-  "generatedAt": "2026-10-14T11:30:03.712Z",
+  "generatedAt": "2026-10-15T11:07:37.646Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
+      "name": "BG2Pod",
+      "title": "Jensen Huang | Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed &amp; more",
+      "videoId": "eS7qQ3WJSrw",
+      "url": "https://youtube.com/watch?v=eS7qQ3WJSrw",
+      "publishedAt": "2026-10-15T10:00:25+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Revolutionizing Cybersecurity and AI-Driven Science with OpenAI President Greg Brockman",
+      "videoId": "AwuTTOJGEi0",
+      "url": "https://youtube.com/watch?v=AwuTTOJGEi0",
+      "publishedAt": "2026-10-15T10:00:05+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison &amp; Nathan Fielder’s Documentary",
+      "videoId": "2tAywoHiIpo",
+      "url": "https://youtube.com/watch?v=2tAywoHiIpo",
+      "publishedAt": "2026-10-15T02:41:18+00:00"
+    },
+    {
+      "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Eating everything at a Taiwanese Night Market with Jensen Huang | Lex Fridman",
-      "videoId": "DZ4bXbFmtxk",
-      "url": "https://youtube.com/watch?v=DZ4bXbFmtxk",
-      "publishedAt": "2026-10-14T11:00:17+00:00"
+      "title": "Trying the world's smelliest fruit (Durian) in Taiwan | Lex Fridman and Jensen Huang",
+      "videoId": "hDZgd6q76IE",
+      "url": "https://youtube.com/watch?v=hDZgd6q76IE",
+      "publishedAt": "2026-10-15T02:20:59+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Sacks Calls Out the &quot;Rotating Hoaxes&quot; Around AI",
-      "videoId": "_7Lw3kh8wPc",
-      "url": "https://youtube.com/watch?v=_7Lw3kh8wPc",
-      "publishedAt": "2026-10-13T19:30:20+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Robots That Predict the Future: Dyna-2 &amp; Physical AI — Jason Ma, Dyna Robotics",
-      "videoId": "BHiYomkfoGQ",
-      "url": "https://youtube.com/watch?v=BHiYomkfoGQ",
-      "publishedAt": "2026-10-13T17:42:33+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "Jensen Huang hypes Lex to everyone",
+      "videoId": "z5jQKEX_wuY",
+      "url": "https://youtube.com/watch?v=z5jQKEX_wuY",
+      "publishedAt": "2026-10-14T21:15:03+00:00"
     },
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents",
-      "videoId": "zlD-CkLVKtU",
-      "url": "https://youtube.com/watch?v=zlD-CkLVKtU",
-      "publishedAt": "2026-10-13T17:31:32+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Jason Calacanis: AI is the End of Coding as We Know It",
-      "videoId": "028rinLZcC4",
-      "url": "https://youtube.com/watch?v=028rinLZcC4",
-      "publishedAt": "2026-10-13T14:30:10+00:00"
+      "title": "From Wet Lab to RL Env: 10,000 Drug-Discovery Campaigns in a Weekend — Ian Quigley, Leash Bio",
+      "videoId": "hQSBJVreLms",
+      "url": "https://youtube.com/watch?v=hQSBJVreLms",
+      "publishedAt": "2026-10-14T20:34:51+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why “Annoying” Sales Hires Perform Best",
-      "videoId": "pvsKhB6C3SA",
-      "url": "https://youtube.com/watch?v=pvsKhB6C3SA",
-      "publishedAt": "2026-10-13T14:00:39+00:00"
+      "title": "Does It Matter If AI Made It? Atlassian CEO Weighs In",
+      "videoId": "nR-_9VzBCUM",
+      "url": "https://youtube.com/watch?v=nR-_9VzBCUM",
+      "publishedAt": "2026-10-14T17:00:29+00:00"
     },
     {
       "source": "podcast",
-      "name": "Training Data",
-      "title": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
-      "videoId": "L4SWQebqhek",
-      "url": "https://youtube.com/watch?v=L4SWQebqhek",
-      "publishedAt": "2026-10-13T12:00:32+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "Lex Fridman drinking Taiwanese beer with Jensen Huang (in Taiwan)",
+      "videoId": "NZLx_XntJds",
+      "url": "https://youtube.com/watch?v=NZLx_XntJds",
+      "publishedAt": "2026-10-14T17:00:24+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "The Slow Part of Chip Design",
+      "videoId": "1ME4s5TqX0c",
+      "url": "https://youtube.com/watch?v=1ME4s5TqX0c",
+      "publishedAt": "2026-10-14T12:18:05+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "We Built Our Own Salesforce",
+      "videoId": "14tWIJfUBpA",
+      "url": "https://youtube.com/watch?v=14tWIJfUBpA",
+      "publishedAt": "2026-10-14T11:24:13+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 10
   }
 }
