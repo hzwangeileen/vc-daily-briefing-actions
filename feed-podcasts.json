@@ -1,65 +1,57 @@
 {
-  "generatedAt": "2026-10-16T11:02:51.727Z",
+  "generatedAt": "2026-10-17T10:23:19.691Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "OpenAI President: Security Spend Should Exceed Software Spend",
-      "videoId": "lWCPbC35iYY",
-      "url": "https://youtube.com/watch?v=lWCPbC35iYY",
-      "publishedAt": "2026-10-15T22:42:57+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "China's approach to AI and robotics | Lex Fridman and Jensen Huang in Taiwan",
+      "videoId": "pSopii-RTJg",
+      "url": "https://youtube.com/watch?v=pSopii-RTJg",
+      "publishedAt": "2026-10-17T04:00:21+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+      "videoId": "_b3LfMflIGs",
+      "url": "https://youtube.com/watch?v=_b3LfMflIGs",
+      "publishedAt": "2026-10-17T01:59:19+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "NVIDIA party with Jensen Huang in Taiwan | Lex Fridman",
-      "videoId": "PGsfYxNi_c0",
-      "url": "https://youtube.com/watch?v=PGsfYxNi_c0",
-      "publishedAt": "2026-10-15T22:03:21+00:00"
+      "title": "Jensen Huang explains why Taiwan is so good at semiconductor engineering | Lex Fridman",
+      "videoId": "gkFkIP2gKgY",
+      "url": "https://youtube.com/watch?v=gkFkIP2gKgY",
+      "publishedAt": "2026-10-17T00:00:21+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "High Taste Testers: OpenAI Shipped Everything. What Actually Works?",
+      "videoId": "ZOH8Q401vt0",
+      "url": "https://youtube.com/watch?v=ZOH8Q401vt0",
+      "publishedAt": "2026-10-16T23:45:02+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Jensen Huang gets mobbed by engineers in Taiwan | Lex Fridman",
-      "videoId": "Xi_ehEsKAvI",
-      "url": "https://youtube.com/watch?v=Xi_ehEsKAvI",
-      "publishedAt": "2026-10-15T16:00:20+00:00"
+      "title": "Trillion dollars of compute: Secret to NVIDIA success | Lex Fridman and Jensen Huang in Taiwan",
+      "videoId": "3Y4amw0KI8A",
+      "url": "https://youtube.com/watch?v=3Y4amw0KI8A",
+      "publishedAt": "2026-10-16T21:00:22+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "&quot;We shouldn't be breathing any sighs of relief&quot;",
-      "videoId": "KVmmUKzGHjc",
-      "url": "https://youtube.com/watch?v=KVmmUKzGHjc",
-      "publishedAt": "2026-10-15T14:30:24+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Valar Atomics Sues Day One Ventures | Meta's Back to the AI Frontier | NVIDIA's $30B Reflection Deal",
-      "videoId": "B-QeGihxbFE",
-      "url": "https://youtube.com/watch?v=B-QeGihxbFE",
-      "publishedAt": "2026-10-15T14:00:04+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Trying the famous Taiwanese oyster pancake | Lex Fridman and Jensen Huang in Taiwan",
-      "videoId": "W5BK-w6KJl8",
-      "url": "https://youtube.com/watch?v=W5BK-w6KJl8",
-      "publishedAt": "2026-10-15T12:00:17+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Why AI Will Get So Much Cheaper | Atlassian CEO",
-      "videoId": "PKOV9wg_gCM",
-      "url": "https://youtube.com/watch?v=PKOV9wg_gCM",
-      "publishedAt": "2026-10-15T11:00:32+00:00"
+      "title": "What is the greatest potential for AI?",
+      "videoId": "jySRZdBBsdM",
+      "url": "https://youtube.com/watch?v=jySRZdBBsdM",
+      "publishedAt": "2026-10-16T17:20:29+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 6
   }
 }
