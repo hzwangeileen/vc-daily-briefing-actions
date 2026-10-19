@@ -1,73 +1,41 @@
 {
-  "generatedAt": "2026-10-18T10:41:00.284Z",
+  "generatedAt": "2026-10-19T12:39:36.619Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Jensen Huang on China's AI labs | Lex Fridman in Taiwan",
-      "videoId": "9rH1ChuVAe0",
-      "url": "https://youtube.com/watch?v=9rH1ChuVAe0",
-      "publishedAt": "2026-10-18T04:00:19+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Jensen Huang reflects on huge crowds greeting him in Taiwan | Lex Fridman",
-      "videoId": "-AS5aIJc1-c",
-      "url": "https://youtube.com/watch?v=-AS5aIJc1-c",
-      "publishedAt": "2026-10-18T00:00:24+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "No Priors",
-      "title": "First Party Chips and the NVIDIA Price",
-      "videoId": "Bwxm3NQAE5M",
-      "url": "https://youtube.com/watch?v=Bwxm3NQAE5M",
-      "publishedAt": "2026-10-17T22:52:48+00:00"
+      "title": "How OpenAI Secures Its Systems with AI",
+      "videoId": "zt6dSvcJZC8",
+      "url": "https://youtube.com/watch?v=zt6dSvcJZC8",
+      "publishedAt": "2026-10-19T12:10:17+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Acquired",
+      "title": "Seinfeld - Full Episode (Audio)",
+      "videoId": "Wm53dMsn5dk",
+      "url": "https://youtube.com/watch?v=Wm53dMsn5dk",
+      "publishedAt": "2026-10-19T04:22:04+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Ben Horowitz: Anthropic has the most negligent security",
-      "videoId": "zvdiToD9dus",
-      "url": "https://youtube.com/watch?v=zvdiToD9dus",
-      "publishedAt": "2026-10-17T22:30:26+00:00"
+      "title": "Ben Horowitz: “The most dangerous thing in AI is Anthropic and Bill Gates”",
+      "videoId": "Xl0aXY0Uwk4",
+      "url": "https://youtube.com/watch?v=Xl0aXY0Uwk4",
+      "publishedAt": "2026-10-18T16:30:05+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The best street food in Taiwan with Jensen Huang | Lex Fridman",
-      "videoId": "LpH9BnXDEf0",
-      "url": "https://youtube.com/watch?v=LpH9BnXDEf0",
-      "publishedAt": "2026-10-17T20:00:19+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Chamath Explains the AI Boom’s Achilles Heel",
-      "videoId": "i7-t8e42WkM",
-      "url": "https://youtube.com/watch?v=i7-t8e42WkM",
-      "publishedAt": "2026-10-17T15:30:12+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "&quot;We spend 30% of engineering salary on coding tools&quot;",
-      "videoId": "uqAjMOkrx9A",
-      "url": "https://youtube.com/watch?v=uqAjMOkrx9A",
-      "publishedAt": "2026-10-17T14:20:29+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The Future of Inference Market &amp; Model Routing: Commodity or Increasing in Value? | LangChain CEO",
-      "videoId": "1jDCPEHwQfI",
-      "url": "https://youtube.com/watch?v=1jDCPEHwQfI",
-      "publishedAt": "2026-10-17T13:59:22+00:00"
+      "title": "Jensen Huang on growing up in Taiwan | Lex Fridman",
+      "videoId": "E5ujpnDuLeM",
+      "url": "https://youtube.com/watch?v=E5ujpnDuLeM",
+      "publishedAt": "2026-10-18T12:00:18+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 4
   }
 }
