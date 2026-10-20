@@ -1,41 +1,65 @@
 {
-  "generatedAt": "2026-10-19T12:39:36.619Z",
+  "generatedAt": "2026-10-20T11:11:36.276Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "How OpenAI Secures Its Systems with AI",
-      "videoId": "zt6dSvcJZC8",
-      "url": "https://youtube.com/watch?v=zt6dSvcJZC8",
-      "publishedAt": "2026-10-19T12:10:17+00:00"
+      "name": "Latent Space",
+      "title": "The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi",
+      "videoId": "DWHyPWnzGAI",
+      "url": "https://youtube.com/watch?v=DWHyPWnzGAI",
+      "publishedAt": "2026-10-20T03:56:03+00:00"
     },
     {
       "source": "podcast",
-      "name": "Acquired",
-      "title": "Seinfeld - Full Episode (Audio)",
-      "videoId": "Wm53dMsn5dk",
-      "url": "https://youtube.com/watch?v=Wm53dMsn5dk",
-      "publishedAt": "2026-10-19T04:22:04+00:00"
+      "name": "Latent Space",
+      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
+      "videoId": "EAtLq9_vrE0",
+      "url": "https://youtube.com/watch?v=EAtLq9_vrE0",
+      "publishedAt": "2026-10-20T03:49:21+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Ben Horowitz: “The most dangerous thing in AI is Anthropic and Bill Gates”",
-      "videoId": "Xl0aXY0Uwk4",
-      "url": "https://youtube.com/watch?v=Xl0aXY0Uwk4",
-      "publishedAt": "2026-10-18T16:30:05+00:00"
+      "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code &amp; Democratizing Creativity",
+      "videoId": "2Zj6uMv3kTA",
+      "url": "https://youtube.com/watch?v=2Zj6uMv3kTA",
+      "publishedAt": "2026-10-19T22:06:05+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Jensen Huang on growing up in Taiwan | Lex Fridman",
-      "videoId": "E5ujpnDuLeM",
-      "url": "https://youtube.com/watch?v=E5ujpnDuLeM",
-      "publishedAt": "2026-10-18T12:00:18+00:00"
+      "name": "BG2Pod",
+      "title": "Jensen Huang on America’s AI Safety Framework: “It’s Happening Right Now”",
+      "videoId": "MmFpWg39rvg",
+      "url": "https://youtube.com/watch?v=MmFpWg39rvg",
+      "publishedAt": "2026-10-19T18:26:48+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Could Waymo Become a $1 Trillion Business?",
+      "videoId": "ieEa8jKsh2U",
+      "url": "https://youtube.com/watch?v=ieEa8jKsh2U",
+      "publishedAt": "2026-10-19T18:02:04+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Who Wins in the Next Decade of VC | Margin and Price Matter Less in a World of AI | Sameer Dholakia",
+      "videoId": "-r2_5LboWL8",
+      "url": "https://youtube.com/watch?v=-r2_5LboWL8",
+      "publishedAt": "2026-10-19T14:00:03+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Intelligence is gonna be bigger than oil",
+      "videoId": "l4FFlGDPL78",
+      "url": "https://youtube.com/watch?v=l4FFlGDPL78",
+      "publishedAt": "2026-10-19T13:55:27+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 7
   }
 }
