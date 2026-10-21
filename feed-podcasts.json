@@ -1,65 +1,73 @@
 {
-  "generatedAt": "2026-10-20T11:11:36.276Z",
+  "generatedAt": "2026-10-21T11:27:18.320Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi",
-      "videoId": "DWHyPWnzGAI",
-      "url": "https://youtube.com/watch?v=DWHyPWnzGAI",
-      "publishedAt": "2026-10-20T03:56:03+00:00"
+      "name": "20VC",
+      "title": "The Real Cost of AI Coding Agents",
+      "videoId": "TIN2TLd-YfU",
+      "url": "https://youtube.com/watch?v=TIN2TLd-YfU",
+      "publishedAt": "2026-10-21T11:00:36+00:00"
     },
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "videoId": "EAtLq9_vrE0",
-      "url": "https://youtube.com/watch?v=EAtLq9_vrE0",
-      "publishedAt": "2026-10-20T03:49:21+00:00"
+      "title": "AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman &amp; CJ Hess",
+      "videoId": "Vki6cklFqxo",
+      "url": "https://youtube.com/watch?v=Vki6cklFqxo",
+      "publishedAt": "2026-10-21T04:52:14+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code &amp; Democratizing Creativity",
-      "videoId": "2Zj6uMv3kTA",
-      "url": "https://youtube.com/watch?v=2Zj6uMv3kTA",
-      "publishedAt": "2026-10-19T22:06:05+00:00"
+      "title": "Figma CEO Dylan Field: AI Is Creating a Trust Problem at Work",
+      "videoId": "FiD_3GKKdUc",
+      "url": "https://youtube.com/watch?v=FiD_3GKKdUc",
+      "publishedAt": "2026-10-20T22:00:16+00:00"
     },
     {
       "source": "podcast",
       "name": "BG2Pod",
-      "title": "Jensen Huang on America’s AI Safety Framework: “It’s Happening Right Now”",
-      "videoId": "MmFpWg39rvg",
-      "url": "https://youtube.com/watch?v=MmFpWg39rvg",
-      "publishedAt": "2026-10-19T18:26:48+00:00"
+      "title": "Jensen Huang: “For Them, It’s Their American Dream” 🇺🇸",
+      "videoId": "thZV4E8BpnA",
+      "url": "https://youtube.com/watch?v=thZV4E8BpnA",
+      "publishedAt": "2026-10-20T20:09:40+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Figma CEO speaks out on Claude Design: “It's easy to mistake model progress for product progress.”",
+      "videoId": "j6WZE9Q5u3Y",
+      "url": "https://youtube.com/watch?v=j6WZE9Q5u3Y",
+      "publishedAt": "2026-10-20T19:36:08+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Could Waymo Become a $1 Trillion Business?",
-      "videoId": "ieEa8jKsh2U",
-      "url": "https://youtube.com/watch?v=ieEa8jKsh2U",
-      "publishedAt": "2026-10-19T18:02:04+00:00"
+      "title": "Why Intelligence Will Be Bigger Than Oil",
+      "videoId": "HOUbtGholcI",
+      "url": "https://youtube.com/watch?v=HOUbtGholcI",
+      "publishedAt": "2026-10-20T14:00:28+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Who Wins in the Next Decade of VC | Margin and Price Matter Less in a World of AI | Sameer Dholakia",
-      "videoId": "-r2_5LboWL8",
-      "url": "https://youtube.com/watch?v=-r2_5LboWL8",
-      "publishedAt": "2026-10-19T14:00:03+00:00"
+      "name": "Invest Like the Best",
+      "title": "How AI Is Repricing Every Software Company",
+      "videoId": "sQaM5oPlUYs",
+      "url": "https://youtube.com/watch?v=sQaM5oPlUYs",
+      "publishedAt": "2026-10-20T12:00:26+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Intelligence is gonna be bigger than oil",
-      "videoId": "l4FFlGDPL78",
-      "url": "https://youtube.com/watch?v=l4FFlGDPL78",
-      "publishedAt": "2026-10-19T13:55:27+00:00"
+      "name": "Training Data",
+      "title": "Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots",
+      "videoId": "0idrTKCDhuE",
+      "url": "https://youtube.com/watch?v=0idrTKCDhuE",
+      "publishedAt": "2026-10-20T12:00:07+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 8
   }
 }
