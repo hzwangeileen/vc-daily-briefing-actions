@@ -1,73 +1,41 @@
 {
-  "generatedAt": "2026-10-21T11:27:18.320Z",
+  "generatedAt": "2026-10-22T11:27:37.654Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "The Real Cost of AI Coding Agents",
-      "videoId": "TIN2TLd-YfU",
-      "url": "https://youtube.com/watch?v=TIN2TLd-YfU",
-      "publishedAt": "2026-10-21T11:00:36+00:00"
+      "name": "No Priors",
+      "title": "The New Apex Predator: CrowdStrike CEO George Kurtz on Adversaries Armed With AI Agents",
+      "videoId": "PST8yesYOSo",
+      "url": "https://youtube.com/watch?v=PST8yesYOSo",
+      "publishedAt": "2026-10-22T10:00:04+00:00"
     },
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman &amp; CJ Hess",
-      "videoId": "Vki6cklFqxo",
-      "url": "https://youtube.com/watch?v=Vki6cklFqxo",
-      "publishedAt": "2026-10-21T04:52:14+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Figma CEO Dylan Field: AI Is Creating a Trust Problem at Work",
-      "videoId": "FiD_3GKKdUc",
-      "url": "https://youtube.com/watch?v=FiD_3GKKdUc",
-      "publishedAt": "2026-10-20T22:00:16+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "BG2Pod",
-      "title": "Jensen Huang: “For Them, It’s Their American Dream” 🇺🇸",
-      "videoId": "thZV4E8BpnA",
-      "url": "https://youtube.com/watch?v=thZV4E8BpnA",
-      "publishedAt": "2026-10-20T20:09:40+00:00"
+      "name": "No Priors",
+      "title": "How to Stay Ahead in Chips",
+      "videoId": "6-vxPi4KiJM",
+      "url": "https://youtube.com/watch?v=6-vxPi4KiJM",
+      "publishedAt": "2026-10-22T00:21:19+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Figma CEO speaks out on Claude Design: “It's easy to mistake model progress for product progress.”",
-      "videoId": "j6WZE9Q5u3Y",
-      "url": "https://youtube.com/watch?v=j6WZE9Q5u3Y",
-      "publishedAt": "2026-10-20T19:36:08+00:00"
+      "title": "Arvind Krishna &amp; Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare &amp; SaaS Collapse",
+      "videoId": "yzk44lz-RGI",
+      "url": "https://youtube.com/watch?v=yzk44lz-RGI",
+      "publishedAt": "2026-10-21T23:42:50+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why Intelligence Will Be Bigger Than Oil",
-      "videoId": "HOUbtGholcI",
-      "url": "https://youtube.com/watch?v=HOUbtGholcI",
-      "publishedAt": "2026-10-20T14:00:28+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "How AI Is Repricing Every Software Company",
-      "videoId": "sQaM5oPlUYs",
-      "url": "https://youtube.com/watch?v=sQaM5oPlUYs",
-      "publishedAt": "2026-10-20T12:00:26+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots",
-      "videoId": "0idrTKCDhuE",
-      "url": "https://youtube.com/watch?v=0idrTKCDhuE",
-      "publishedAt": "2026-10-20T12:00:07+00:00"
+      "title": "The Metric That Actually Matters in AI",
+      "videoId": "kDdmruhKRdE",
+      "url": "https://youtube.com/watch?v=kDdmruhKRdE",
+      "publishedAt": "2026-10-21T17:00:36+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 4
   }
 }
