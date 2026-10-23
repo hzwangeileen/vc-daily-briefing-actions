@@ -1,41 +1,49 @@
 {
-  "generatedAt": "2026-10-22T11:27:37.654Z",
+  "generatedAt": "2026-10-23T11:17:32.698Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "The New Apex Predator: CrowdStrike CEO George Kurtz on Adversaries Armed With AI Agents",
-      "videoId": "PST8yesYOSo",
-      "url": "https://youtube.com/watch?v=PST8yesYOSo",
-      "publishedAt": "2026-10-22T10:00:04+00:00"
+      "title": "Democratizing Security for the Agentic Web with CloudFlare CTO Dane Knecht",
+      "videoId": "6VprwfSc4Xk",
+      "url": "https://youtube.com/watch?v=6VprwfSc4Xk",
+      "publishedAt": "2026-10-23T10:00:05+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "How to Stay Ahead in Chips",
-      "videoId": "6-vxPi4KiJM",
-      "url": "https://youtube.com/watch?v=6-vxPi4KiJM",
-      "publishedAt": "2026-10-22T00:21:19+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Arvind Krishna &amp; Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare &amp; SaaS Collapse",
-      "videoId": "yzk44lz-RGI",
-      "url": "https://youtube.com/watch?v=yzk44lz-RGI",
-      "publishedAt": "2026-10-21T23:42:50+00:00"
+      "name": "Latent Space",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal",
+      "videoId": "IiZ9yd2Do8I",
+      "url": "https://youtube.com/watch?v=IiZ9yd2Do8I",
+      "publishedAt": "2026-10-22T16:31:33+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "The Metric That Actually Matters in AI",
-      "videoId": "kDdmruhKRdE",
-      "url": "https://youtube.com/watch?v=kDdmruhKRdE",
-      "publishedAt": "2026-10-21T17:00:36+00:00"
+      "title": "Trillion or Bust: The New VC Game",
+      "videoId": "iV9ZN4apCgA",
+      "url": "https://youtube.com/watch?v=iV9ZN4apCgA",
+      "publishedAt": "2026-10-22T14:07:46+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "The New VC Game | CoreWeave Sell-Off Creates Panic | Revenue Multiples Out of Control",
+      "videoId": "OJX2L21e4fA",
+      "url": "https://youtube.com/watch?v=OJX2L21e4fA",
+      "publishedAt": "2026-10-22T14:03:03+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "BG2Pod",
+      "title": "Why NVIDIA Can’t Ship Fast Enough 🚀",
+      "videoId": "K2yit6npVOI",
+      "url": "https://youtube.com/watch?v=K2yit6npVOI",
+      "publishedAt": "2026-10-22T12:00:39+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 5
   }
 }
