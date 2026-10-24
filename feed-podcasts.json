@@ -1,49 +1,33 @@
 {
-  "generatedAt": "2026-10-23T11:17:32.698Z",
+  "generatedAt": "2026-10-24T10:36:52.843Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "AI Cyber Panic, Ken Griffin’s Bubble Warning, The Fall of France?",
+      "videoId": "6czo-C3FU7I",
+      "url": "https://youtube.com/watch?v=6czo-C3FU7I",
+      "publishedAt": "2026-10-23T23:52:56+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Code Review Is More Important Than AI Coding",
+      "videoId": "zxM8PxYllXs",
+      "url": "https://youtube.com/watch?v=zxM8PxYllXs",
+      "publishedAt": "2026-10-23T17:00:29+00:00"
+    },
+    {
+      "source": "podcast",
       "name": "No Priors",
-      "title": "Democratizing Security for the Agentic Web with CloudFlare CTO Dane Knecht",
-      "videoId": "6VprwfSc4Xk",
-      "url": "https://youtube.com/watch?v=6VprwfSc4Xk",
-      "publishedAt": "2026-10-23T10:00:05+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal",
-      "videoId": "IiZ9yd2Do8I",
-      "url": "https://youtube.com/watch?v=IiZ9yd2Do8I",
-      "publishedAt": "2026-10-22T16:31:33+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Trillion or Bust: The New VC Game",
-      "videoId": "iV9ZN4apCgA",
-      "url": "https://youtube.com/watch?v=iV9ZN4apCgA",
-      "publishedAt": "2026-10-22T14:07:46+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The New VC Game | CoreWeave Sell-Off Creates Panic | Revenue Multiples Out of Control",
-      "videoId": "OJX2L21e4fA",
-      "url": "https://youtube.com/watch?v=OJX2L21e4fA",
-      "publishedAt": "2026-10-22T14:03:03+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "BG2Pod",
-      "title": "Why NVIDIA Can’t Ship Fast Enough 🚀",
-      "videoId": "K2yit6npVOI",
-      "url": "https://youtube.com/watch?v=K2yit6npVOI",
-      "publishedAt": "2026-10-22T12:00:39+00:00"
+      "title": "How Fast Can Hackers Move Inside Your Network?",
+      "videoId": "AB3cXbwaevA",
+      "url": "https://youtube.com/watch?v=AB3cXbwaevA",
+      "publishedAt": "2026-10-23T14:17:54+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 3
   }
 }
