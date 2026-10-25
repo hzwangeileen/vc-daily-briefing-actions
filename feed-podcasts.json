@@ -1,33 +1,49 @@
 {
-  "generatedAt": "2026-10-24T10:36:52.843Z",
+  "generatedAt": "2026-10-25T11:01:07.322Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "AI Cyber Panic, Ken Griffin’s Bubble Warning, The Fall of France?",
-      "videoId": "6czo-C3FU7I",
-      "url": "https://youtube.com/watch?v=6czo-C3FU7I",
-      "publishedAt": "2026-10-23T23:52:56+00:00"
+      "title": "David Friedberg: France’s Crisis Is a Warning for America",
+      "videoId": "wO4BLBzNEFs",
+      "url": "https://youtube.com/watch?v=wO4BLBzNEFs",
+      "publishedAt": "2026-10-25T00:00:35+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "David Friedberg: We’ve Lost the Plot on Immigration",
+      "videoId": "4fsDNvYz6g8",
+      "url": "https://youtube.com/watch?v=4fsDNvYz6g8",
+      "publishedAt": "2026-10-24T20:30:06+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Palo Alto Networks CEO: The Cyber Panic Is Just Getting Started",
+      "videoId": "vjSLv5vCMto",
+      "url": "https://youtube.com/watch?v=vjSLv5vCMto",
+      "publishedAt": "2026-10-24T16:00:20+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Code Review Is More Important Than AI Coding",
-      "videoId": "zxM8PxYllXs",
-      "url": "https://youtube.com/watch?v=zxM8PxYllXs",
-      "publishedAt": "2026-10-23T17:00:29+00:00"
+      "title": "The Future of AI with Naveen Rao",
+      "videoId": "c5WyBGfs130",
+      "url": "https://youtube.com/watch?v=c5WyBGfs130",
+      "publishedAt": "2026-10-24T14:00:33+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "How Fast Can Hackers Move Inside Your Network?",
-      "videoId": "AB3cXbwaevA",
-      "url": "https://youtube.com/watch?v=AB3cXbwaevA",
-      "publishedAt": "2026-10-23T14:17:54+00:00"
+      "name": "20VC",
+      "title": "Inference Will Be $10TRN Market: What No One Sees | Software Investors are F***ed | Naveen Rao",
+      "videoId": "4UmFfI8CWuA",
+      "url": "https://youtube.com/watch?v=4UmFfI8CWuA",
+      "publishedAt": "2026-10-24T14:00:32+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 3
+    "podcastEpisodes": 5
   }
 }
