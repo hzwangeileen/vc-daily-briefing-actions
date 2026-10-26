@@ -1,49 +1,25 @@
 {
-  "generatedAt": "2026-10-25T11:01:07.322Z",
+  "generatedAt": "2026-10-26T12:33:55.888Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Friedberg: France’s Crisis Is a Warning for America",
-      "videoId": "wO4BLBzNEFs",
-      "url": "https://youtube.com/watch?v=wO4BLBzNEFs",
-      "publishedAt": "2026-10-25T00:00:35+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Friedberg: We’ve Lost the Plot on Immigration",
-      "videoId": "4fsDNvYz6g8",
-      "url": "https://youtube.com/watch?v=4fsDNvYz6g8",
-      "publishedAt": "2026-10-24T20:30:06+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Palo Alto Networks CEO: The Cyber Panic Is Just Getting Started",
-      "videoId": "vjSLv5vCMto",
-      "url": "https://youtube.com/watch?v=vjSLv5vCMto",
-      "publishedAt": "2026-10-24T16:00:20+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "20VC",
-      "title": "The Future of AI with Naveen Rao",
-      "videoId": "c5WyBGfs130",
-      "url": "https://youtube.com/watch?v=c5WyBGfs130",
-      "publishedAt": "2026-10-24T14:00:33+00:00"
+      "title": "Microsoft CEO, Satya Nadella | OUT TOMORROW 👀⏳",
+      "videoId": "o5VcI4oN_iQ",
+      "url": "https://youtube.com/watch?v=o5VcI4oN_iQ",
+      "publishedAt": "2026-10-25T16:30:32+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Inference Will Be $10TRN Market: What No One Sees | Software Investors are F***ed | Naveen Rao",
-      "videoId": "4UmFfI8CWuA",
-      "url": "https://youtube.com/watch?v=4UmFfI8CWuA",
-      "publishedAt": "2026-10-24T14:00:32+00:00"
+      "name": "All-In Podcast",
+      "title": "Chamath: France Won’t Fix Itself. The Bond Market Must Force Its Hand.",
+      "videoId": "nIN6zuLgxVs",
+      "url": "https://youtube.com/watch?v=nIN6zuLgxVs",
+      "publishedAt": "2026-10-25T16:15:27+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 2
   }
 }
