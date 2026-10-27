@@ -1,25 +1,57 @@
 {
-  "generatedAt": "2026-10-26T12:33:55.888Z",
+  "generatedAt": "2026-10-27T11:51:18.377Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Microsoft CEO, Satya Nadella | OUT TOMORROW 👀⏳",
-      "videoId": "o5VcI4oN_iQ",
-      "url": "https://youtube.com/watch?v=o5VcI4oN_iQ",
-      "publishedAt": "2026-10-25T16:30:32+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "Role of humans in the age of AI in mathematics | Lex Fridman",
+      "videoId": "8873on73O-E",
+      "url": "https://youtube.com/watch?v=8873on73O-E",
+      "publishedAt": "2026-10-27T04:00:19+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Chamath: France Won’t Fix Itself. The Bond Market Must Force Its Hand.",
-      "videoId": "nIN6zuLgxVs",
-      "url": "https://youtube.com/watch?v=nIN6zuLgxVs",
-      "publishedAt": "2026-10-25T16:15:27+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "A crisis moment in math explained by mathematicians | Lex Fridman",
+      "videoId": "1gu4aem0EPQ",
+      "url": "https://youtube.com/watch?v=1gu4aem0EPQ",
+      "publishedAt": "2026-10-27T02:04:04+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Satya Nadella: Smarter AI Doesn’t Mean Safer AI",
+      "videoId": "2SMnaVtwAk0",
+      "url": "https://youtube.com/watch?v=2SMnaVtwAk0",
+      "publishedAt": "2026-10-26T18:40:39+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Satya Nadella on Open vs Closed Models: Who Wins | Why Companies Need to Own Their Own Intelligence",
+      "videoId": "24XUcWhqY_4",
+      "url": "https://youtube.com/watch?v=24XUcWhqY_4",
+      "publishedAt": "2026-10-26T15:01:48+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Microsoft CEO's Prediction for AI in 5 Years",
+      "videoId": "c1ff-PQPwec",
+      "url": "https://youtube.com/watch?v=c1ff-PQPwec",
+      "publishedAt": "2026-10-26T15:00:31+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio",
+      "videoId": "vhPCo-8K78U",
+      "url": "https://youtube.com/watch?v=vhPCo-8K78U",
+      "publishedAt": "2026-10-26T15:00:07+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 6
   }
 }
