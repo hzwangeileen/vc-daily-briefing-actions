@@ -1,57 +1,73 @@
 {
-  "generatedAt": "2026-10-27T11:51:18.377Z",
+  "generatedAt": "2026-10-28T12:26:51.568Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Role of humans in the age of AI in mathematics | Lex Fridman",
-      "videoId": "8873on73O-E",
-      "url": "https://youtube.com/watch?v=8873on73O-E",
-      "publishedAt": "2026-10-27T04:00:19+00:00"
+      "title": "Mathematician explains Navier-Stokes equations | Lex Fridman",
+      "videoId": "37Kha_joYiY",
+      "url": "https://youtube.com/watch?v=37Kha_joYiY",
+      "publishedAt": "2026-10-28T12:00:24+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Where AI Can Help Most | Satya Nadella",
+      "videoId": "tGq75iuKq8Y",
+      "url": "https://youtube.com/watch?v=tGq75iuKq8Y",
+      "publishedAt": "2026-10-28T10:50:30+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "A crisis moment in math explained by mathematicians | Lex Fridman",
-      "videoId": "1gu4aem0EPQ",
-      "url": "https://youtube.com/watch?v=1gu4aem0EPQ",
-      "publishedAt": "2026-10-27T02:04:04+00:00"
+      "title": "Did AI kill math? - Mathematicians respond | Lex Fridman",
+      "videoId": "Q7OQBC5z9vk",
+      "url": "https://youtube.com/watch?v=Q7OQBC5z9vk",
+      "publishedAt": "2026-10-28T04:00:24+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Satya Nadella: Smarter AI Doesn’t Mean Safer AI",
-      "videoId": "2SMnaVtwAk0",
-      "url": "https://youtube.com/watch?v=2SMnaVtwAk0",
-      "publishedAt": "2026-10-26T18:40:39+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Satya Nadella on Open vs Closed Models: Who Wins | Why Companies Need to Own Their Own Intelligence",
-      "videoId": "24XUcWhqY_4",
-      "url": "https://youtube.com/watch?v=24XUcWhqY_4",
-      "publishedAt": "2026-10-26T15:01:48+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Microsoft CEO's Prediction for AI in 5 Years",
-      "videoId": "c1ff-PQPwec",
-      "url": "https://youtube.com/watch?v=c1ff-PQPwec",
-      "publishedAt": "2026-10-26T15:00:31+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "Fermat's Last Theorem proved by AI | Lex Fridman",
+      "videoId": "eSNsQ6lvOf0",
+      "url": "https://youtube.com/watch?v=eSNsQ6lvOf0",
+      "publishedAt": "2026-10-28T00:00:21+00:00"
     },
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio",
-      "videoId": "vhPCo-8K78U",
-      "url": "https://youtube.com/watch?v=vhPCo-8K78U",
-      "publishedAt": "2026-10-26T15:00:07+00:00"
+      "title": "How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang",
+      "videoId": "MRQTlwcW-aQ",
+      "url": "https://youtube.com/watch?v=MRQTlwcW-aQ",
+      "publishedAt": "2026-10-27T18:37:32+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "21 Investors Said &quot;NO&quot; to Anthropic",
+      "videoId": "6OzNl-2Z3k8",
+      "url": "https://youtube.com/watch?v=6OzNl-2Z3k8",
+      "publishedAt": "2026-10-27T17:55:27+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Why AI Attacks Will Get Harder to Spot",
+      "videoId": "2FN80GTzhSI",
+      "url": "https://youtube.com/watch?v=2FN80GTzhSI",
+      "publishedAt": "2026-10-27T12:50:09+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Will Software Still Be a Huge Market in 20 Years?",
+      "videoId": "Hf1E0o3pZ_w",
+      "url": "https://youtube.com/watch?v=Hf1E0o3pZ_w",
+      "publishedAt": "2026-10-27T12:00:37+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 6
+    "podcastEpisodes": 8
   }
 }
