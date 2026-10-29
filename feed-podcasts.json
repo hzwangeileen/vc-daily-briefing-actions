@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-10-28T12:26:51.568Z",
+  "generatedAt": "2026-10-29T12:36:21.736Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Mathematician explains Navier-Stokes equations | Lex Fridman",
-      "videoId": "37Kha_joYiY",
-      "url": "https://youtube.com/watch?v=37Kha_joYiY",
-      "publishedAt": "2026-10-28T12:00:24+00:00"
+      "name": "No Priors",
+      "title": "Taking on ServiceNow: Coding Agents for the Rest of Us with Serval Co-Founder and CEO Jake Stauch",
+      "videoId": "EZcWEsMuLb4",
+      "url": "https://youtube.com/watch?v=EZcWEsMuLb4",
+      "publishedAt": "2026-10-29T10:00:20+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Where AI Can Help Most | Satya Nadella",
-      "videoId": "tGq75iuKq8Y",
-      "url": "https://youtube.com/watch?v=tGq75iuKq8Y",
-      "publishedAt": "2026-10-28T10:50:30+00:00"
+      "title": "AI Could Run Out of Power Within Years",
+      "videoId": "fhqisVFX214",
+      "url": "https://youtube.com/watch?v=fhqisVFX214",
+      "publishedAt": "2026-10-29T06:00:32+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Did AI kill math? - Mathematicians respond | Lex Fridman",
-      "videoId": "Q7OQBC5z9vk",
-      "url": "https://youtube.com/watch?v=Q7OQBC5z9vk",
-      "publishedAt": "2026-10-28T04:00:24+00:00"
+      "title": "Hard math problems that OpenAI couldn't solve | Lex Fridman",
+      "videoId": "6QJ97-dL-FU",
+      "url": "https://youtube.com/watch?v=6QJ97-dL-FU",
+      "publishedAt": "2026-10-29T04:00:22+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Fermat's Last Theorem proved by AI | Lex Fridman",
-      "videoId": "eSNsQ6lvOf0",
-      "url": "https://youtube.com/watch?v=eSNsQ6lvOf0",
-      "publishedAt": "2026-10-28T00:00:21+00:00"
+      "title": "Prime Numbers explained by Mathematician | Lex Fridman",
+      "videoId": "LCyaC9ETmVo",
+      "url": "https://youtube.com/watch?v=LCyaC9ETmVo",
+      "publishedAt": "2026-10-29T00:00:20+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The breakdown of physics: Does a singularity reveal that we need new physics | Lex Fridman",
+      "videoId": "cBD3iP1aPWs",
+      "url": "https://youtube.com/watch?v=cBD3iP1aPWs",
+      "publishedAt": "2026-10-28T20:00:22+00:00"
     },
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang",
-      "videoId": "MRQTlwcW-aQ",
-      "url": "https://youtube.com/watch?v=MRQTlwcW-aQ",
-      "publishedAt": "2026-10-27T18:37:32+00:00"
+      "title": "Why Agents Love Supabase — with Paul Copplestone and Ant Wilson",
+      "videoId": "zHG6sAss_kE",
+      "url": "https://youtube.com/watch?v=zHG6sAss_kE",
+      "publishedAt": "2026-10-28T19:34:35+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "21 Investors Said &quot;NO&quot; to Anthropic",
-      "videoId": "6OzNl-2Z3k8",
-      "url": "https://youtube.com/watch?v=6OzNl-2Z3k8",
-      "publishedAt": "2026-10-27T17:55:27+00:00"
+      "name": "Unsupervised Learning",
+      "title": "Modal CEO on Agent Maxxing, the Future of Inference &amp; Unpacking the Chaos of the GPU Market",
+      "videoId": "HJDekXH-h5c",
+      "url": "https://youtube.com/watch?v=HJDekXH-h5c",
+      "publishedAt": "2026-10-28T13:06:41+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "Why AI Attacks Will Get Harder to Spot",
-      "videoId": "2FN80GTzhSI",
-      "url": "https://youtube.com/watch?v=2FN80GTzhSI",
-      "publishedAt": "2026-10-27T12:50:09+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Will Software Still Be a Huge Market in 20 Years?",
-      "videoId": "Hf1E0o3pZ_w",
-      "url": "https://youtube.com/watch?v=Hf1E0o3pZ_w",
-      "publishedAt": "2026-10-27T12:00:37+00:00"
+      "name": "Training Data",
+      "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
+      "videoId": "qhIabMKHJlA",
+      "url": "https://youtube.com/watch?v=qhIabMKHJlA",
+      "publishedAt": "2026-10-28T12:00:20+00:00"
     }
   ],
   "stats": {
