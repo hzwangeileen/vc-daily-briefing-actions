@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-10-29T12:36:21.736Z",
+  "generatedAt": "2026-10-30T12:27:25.553Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
+      "name": "20VC",
+      "title": "OpenAI at $1.25 Trillion Is a Bargain?",
+      "videoId": "u8pjHRnbPpk",
+      "url": "https://youtube.com/watch?v=u8pjHRnbPpk",
+      "publishedAt": "2026-10-30T12:00:35+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The death of GitHub: Why open source maintainers are burning out | Lex Fridman",
+      "videoId": "cEFedW2j1QM",
+      "url": "https://youtube.com/watch?v=cEFedW2j1QM",
+      "publishedAt": "2026-10-30T12:00:10+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Limits of AI - explained by mathematicians | Lex Fridman",
+      "videoId": "r5-N6ns7e4Q",
+      "url": "https://youtube.com/watch?v=r5-N6ns7e4Q",
+      "publishedAt": "2026-10-30T03:54:27+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The $1 trillion dollar problem - Navier Stokes expert explains | Lex Fridman",
+      "videoId": "BkxiZgoW2B4",
+      "url": "https://youtube.com/watch?v=BkxiZgoW2B4",
+      "publishedAt": "2026-10-29T22:09:59+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, &amp; the FDA Fight",
+      "videoId": "Uc6xXNBWjfc",
+      "url": "https://youtube.com/watch?v=Uc6xXNBWjfc",
+      "publishedAt": "2026-10-29T21:26:56+00:00"
+    },
+    {
+      "source": "podcast",
       "name": "No Priors",
-      "title": "Taking on ServiceNow: Coding Agents for the Rest of Us with Serval Co-Founder and CEO Jake Stauch",
-      "videoId": "EZcWEsMuLb4",
-      "url": "https://youtube.com/watch?v=EZcWEsMuLb4",
-      "publishedAt": "2026-10-29T10:00:20+00:00"
+      "title": "Can You Trust Agents With Company Data?",
+      "videoId": "OErjgF_8zVU",
+      "url": "https://youtube.com/watch?v=OErjgF_8zVU",
+      "publishedAt": "2026-10-29T18:41:25+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "AI Could Run Out of Power Within Years",
-      "videoId": "fhqisVFX214",
-      "url": "https://youtube.com/watch?v=fhqisVFX214",
-      "publishedAt": "2026-10-29T06:00:32+00:00"
+      "title": "Anthropic Files S1: What You Need To Know",
+      "videoId": "oEk8BV3AcCo",
+      "url": "https://youtube.com/watch?v=oEk8BV3AcCo",
+      "publishedAt": "2026-10-29T15:40:19+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Hard math problems that OpenAI couldn't solve | Lex Fridman",
-      "videoId": "6QJ97-dL-FU",
-      "url": "https://youtube.com/watch?v=6QJ97-dL-FU",
-      "publishedAt": "2026-10-29T04:00:22+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Prime Numbers explained by Mathematician | Lex Fridman",
-      "videoId": "LCyaC9ETmVo",
-      "url": "https://youtube.com/watch?v=LCyaC9ETmVo",
-      "publishedAt": "2026-10-29T00:00:20+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The breakdown of physics: Does a singularity reveal that we need new physics | Lex Fridman",
-      "videoId": "cBD3iP1aPWs",
-      "url": "https://youtube.com/watch?v=cBD3iP1aPWs",
-      "publishedAt": "2026-10-28T20:00:22+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Why Agents Love Supabase — with Paul Copplestone and Ant Wilson",
-      "videoId": "zHG6sAss_kE",
-      "url": "https://youtube.com/watch?v=zHG6sAss_kE",
-      "publishedAt": "2026-10-28T19:34:35+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Modal CEO on Agent Maxxing, the Future of Inference &amp; Unpacking the Chaos of the GPU Market",
-      "videoId": "HJDekXH-h5c",
-      "url": "https://youtube.com/watch?v=HJDekXH-h5c",
-      "publishedAt": "2026-10-28T13:06:41+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
-      "videoId": "qhIabMKHJlA",
-      "url": "https://youtube.com/watch?v=qhIabMKHJlA",
-      "publishedAt": "2026-10-28T12:00:20+00:00"
+      "name": "20VC",
+      "title": "Instinct Worth 30BN? | Microsoft Cuts 27,000 Jobs While Meta Taps Equity Markets for $95B CapEx",
+      "videoId": "2-aUmDMZgLE",
+      "url": "https://youtube.com/watch?v=2-aUmDMZgLE",
+      "publishedAt": "2026-10-29T14:59:13+00:00"
     }
   ],
   "stats": {
