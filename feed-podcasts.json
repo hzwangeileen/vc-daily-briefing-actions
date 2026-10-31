@@ -1,73 +1,49 @@
 {
-  "generatedAt": "2026-10-30T12:27:25.553Z",
+  "generatedAt": "2026-10-31T11:56:33.284Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "OpenAI at $1.25 Trillion Is a Bargain?",
-      "videoId": "u8pjHRnbPpk",
-      "url": "https://youtube.com/watch?v=u8pjHRnbPpk",
-      "publishedAt": "2026-10-30T12:00:35+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "Is AI discovering new math or just remixing human ideas? | Lex Fridman",
+      "videoId": "Q9jIqE78y4M",
+      "url": "https://youtube.com/watch?v=Q9jIqE78y4M",
+      "publishedAt": "2026-10-31T04:00:09+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services",
+      "videoId": "v-d1WTqIULs",
+      "url": "https://youtube.com/watch?v=v-d1WTqIULs",
+      "publishedAt": "2026-10-31T03:41:20+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The death of GitHub: Why open source maintainers are burning out | Lex Fridman",
-      "videoId": "cEFedW2j1QM",
-      "url": "https://youtube.com/watch?v=cEFedW2j1QM",
-      "publishedAt": "2026-10-30T12:00:10+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Limits of AI - explained by mathematicians | Lex Fridman",
-      "videoId": "r5-N6ns7e4Q",
-      "url": "https://youtube.com/watch?v=r5-N6ns7e4Q",
-      "publishedAt": "2026-10-30T03:54:27+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The $1 trillion dollar problem - Navier Stokes expert explains | Lex Fridman",
-      "videoId": "BkxiZgoW2B4",
-      "url": "https://youtube.com/watch?v=BkxiZgoW2B4",
-      "publishedAt": "2026-10-29T22:09:59+00:00"
+      "title": "The moment Andrew Wiles proved Fermat's Last Theorem | Lex Fridman",
+      "videoId": "X-TZxzYC1M4",
+      "url": "https://youtube.com/watch?v=X-TZxzYC1M4",
+      "publishedAt": "2026-10-31T00:00:11+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, &amp; the FDA Fight",
-      "videoId": "Uc6xXNBWjfc",
-      "url": "https://youtube.com/watch?v=Uc6xXNBWjfc",
-      "publishedAt": "2026-10-29T21:26:56+00:00"
+      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google’s $500B Wipeout, Midterm Predictions",
+      "videoId": "p1Dy4e4ff0s",
+      "url": "https://youtube.com/watch?v=p1Dy4e4ff0s",
+      "publishedAt": "2026-10-30T22:03:41+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "Can You Trust Agents With Company Data?",
-      "videoId": "OErjgF_8zVU",
-      "url": "https://youtube.com/watch?v=OErjgF_8zVU",
-      "publishedAt": "2026-10-29T18:41:25+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Anthropic Files S1: What You Need To Know",
-      "videoId": "oEk8BV3AcCo",
-      "url": "https://youtube.com/watch?v=oEk8BV3AcCo",
-      "publishedAt": "2026-10-29T15:40:19+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Instinct Worth 30BN? | Microsoft Cuts 27,000 Jobs While Meta Taps Equity Markets for $95B CapEx",
-      "videoId": "2-aUmDMZgLE",
-      "url": "https://youtube.com/watch?v=2-aUmDMZgLE",
-      "publishedAt": "2026-10-29T14:59:13+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "Computation in nature: Slime mold, fruit flies, and turbulence | Lex Fridman",
+      "videoId": "pwMVSUXk_7Q",
+      "url": "https://youtube.com/watch?v=pwMVSUXk_7Q",
+      "publishedAt": "2026-10-30T20:00:11+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 5
   }
 }
