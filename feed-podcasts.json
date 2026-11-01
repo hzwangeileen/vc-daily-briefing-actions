@@ -1,49 +1,65 @@
 {
-  "generatedAt": "2026-10-31T11:56:33.284Z",
+  "generatedAt": "2026-11-01T12:56:14.465Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Is AI discovering new math or just remixing human ideas? | Lex Fridman",
-      "videoId": "Q9jIqE78y4M",
-      "url": "https://youtube.com/watch?v=Q9jIqE78y4M",
-      "publishedAt": "2026-10-31T04:00:09+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services",
-      "videoId": "v-d1WTqIULs",
-      "url": "https://youtube.com/watch?v=v-d1WTqIULs",
-      "publishedAt": "2026-10-31T03:41:20+00:00"
+      "title": "How to solve hard problems - mathematicians explain | Lex Fridman",
+      "videoId": "FkdD7c8Xjzo",
+      "url": "https://youtube.com/watch?v=FkdD7c8Xjzo",
+      "publishedAt": "2026-11-01T04:00:10+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The moment Andrew Wiles proved Fermat's Last Theorem | Lex Fridman",
-      "videoId": "X-TZxzYC1M4",
-      "url": "https://youtube.com/watch?v=X-TZxzYC1M4",
-      "publishedAt": "2026-10-31T00:00:11+00:00"
+      "title": "AI solves the Unique Games Conjecture - computer scientist responds | Lex Fridman",
+      "videoId": "rFRYRSJ95O0",
+      "url": "https://youtube.com/watch?v=rFRYRSJ95O0",
+      "publishedAt": "2026-11-01T00:00:12+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The Game of Life: Complexity of nature explained by mathematician | Lex Fridman",
+      "videoId": "1PgQkCMk46I",
+      "url": "https://youtube.com/watch?v=1PgQkCMk46I",
+      "publishedAt": "2026-10-31T20:00:09+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google’s $500B Wipeout, Midterm Predictions",
-      "videoId": "p1Dy4e4ff0s",
-      "url": "https://youtube.com/watch?v=p1Dy4e4ff0s",
-      "publishedAt": "2026-10-30T22:03:41+00:00"
+      "title": "AI’s Biggest Opportunity: Adoption Is Still Nascent At Work",
+      "videoId": "8mjEGI_6q8Y",
+      "url": "https://youtube.com/watch?v=8mjEGI_6q8Y",
+      "publishedAt": "2026-10-31T19:00:06+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Computation in nature: Slime mold, fruit flies, and turbulence | Lex Fridman",
-      "videoId": "pwMVSUXk_7Q",
-      "url": "https://youtube.com/watch?v=pwMVSUXk_7Q",
-      "publishedAt": "2026-10-30T20:00:11+00:00"
+      "name": "Latent Space",
+      "title": "Using Agents for Long-Horizon Financial Work — Aman Singh, Arca",
+      "videoId": "KM3VQZKjpiY",
+      "url": "https://youtube.com/watch?v=KM3VQZKjpiY",
+      "publishedAt": "2026-10-31T16:00:03+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "David Tisch: Why No Manager Wants to Stay Small &amp; Why Competing with Mega Platforms is a Losing Game",
+      "videoId": "BsvXF-0_G-Y",
+      "url": "https://youtube.com/watch?v=BsvXF-0_G-Y",
+      "publishedAt": "2026-10-31T14:58:16+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Chamath: The AI Boom Has a Borrowing Problem",
+      "videoId": "FPrbxcVbEx4",
+      "url": "https://youtube.com/watch?v=FPrbxcVbEx4",
+      "publishedAt": "2026-10-31T14:30:15+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 7
   }
 }
