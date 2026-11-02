@@ -1,65 +1,49 @@
 {
-  "generatedAt": "2026-11-01T12:56:14.465Z",
+  "generatedAt": "2026-11-02T15:13:20.701Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "How to solve hard problems - mathematicians explain | Lex Fridman",
-      "videoId": "FkdD7c8Xjzo",
-      "url": "https://youtube.com/watch?v=FkdD7c8Xjzo",
-      "publishedAt": "2026-11-01T04:00:10+00:00"
+      "name": "Unsupervised Learning",
+      "title": "The Window Before AWS Wakes Up: Nebius CTO on Racing the Hyperscalers",
+      "videoId": "qJkcjURcAe8",
+      "url": "https://youtube.com/watch?v=qJkcjURcAe8",
+      "publishedAt": "2026-11-02T14:00:00+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "AI solves the Unique Games Conjecture - computer scientist responds | Lex Fridman",
-      "videoId": "rFRYRSJ95O0",
-      "url": "https://youtube.com/watch?v=rFRYRSJ95O0",
-      "publishedAt": "2026-11-01T00:00:12+00:00"
+      "title": "Can AI solve P vs NP? | Lex Fridman",
+      "videoId": "a692S06z_rs",
+      "url": "https://youtube.com/watch?v=a692S06z_rs",
+      "publishedAt": "2026-11-02T13:00:10+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The Game of Life: Complexity of nature explained by mathematician | Lex Fridman",
-      "videoId": "1PgQkCMk46I",
-      "url": "https://youtube.com/watch?v=1PgQkCMk46I",
-      "publishedAt": "2026-10-31T20:00:09+00:00"
+      "title": "Is math invented or discovered? - mathematicians explain | Lex Fridman",
+      "videoId": "W--Rr-ExhYY",
+      "url": "https://youtube.com/watch?v=W--Rr-ExhYY",
+      "publishedAt": "2026-11-02T05:00:09+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "AI’s Biggest Opportunity: Adoption Is Still Nascent At Work",
-      "videoId": "8mjEGI_6q8Y",
-      "url": "https://youtube.com/watch?v=8mjEGI_6q8Y",
-      "publishedAt": "2026-10-31T19:00:06+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "Why baseball outfielders don't run in a straight line | Lex Fridman",
+      "videoId": "hlwBFbA_-yM",
+      "url": "https://youtube.com/watch?v=hlwBFbA_-yM",
+      "publishedAt": "2026-11-02T01:00:10+00:00"
     },
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "Using Agents for Long-Horizon Financial Work — Aman Singh, Arca",
-      "videoId": "KM3VQZKjpiY",
-      "url": "https://youtube.com/watch?v=KM3VQZKjpiY",
-      "publishedAt": "2026-10-31T16:00:03+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "David Tisch: Why No Manager Wants to Stay Small &amp; Why Competing with Mega Platforms is a Losing Game",
-      "videoId": "BsvXF-0_G-Y",
-      "url": "https://youtube.com/watch?v=BsvXF-0_G-Y",
-      "publishedAt": "2026-10-31T14:58:16+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Chamath: The AI Boom Has a Borrowing Problem",
-      "videoId": "FPrbxcVbEx4",
-      "url": "https://youtube.com/watch?v=FPrbxcVbEx4",
-      "publishedAt": "2026-10-31T14:30:15+00:00"
+      "name": "No Priors",
+      "title": "How Defenders Can Use AI to Fix Security Flaws",
+      "videoId": "79M2vFJ1JiQ",
+      "url": "https://youtube.com/watch?v=79M2vFJ1JiQ",
+      "publishedAt": "2026-11-01T16:14:16+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 5
   }
 }
