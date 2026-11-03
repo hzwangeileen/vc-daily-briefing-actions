@@ -1,49 +1,73 @@
 {
-  "generatedAt": "2026-11-02T15:13:20.701Z",
+  "generatedAt": "2026-11-03T13:53:24.836Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "The Window Before AWS Wakes Up: Nebius CTO on Racing the Hyperscalers",
-      "videoId": "qJkcjURcAe8",
-      "url": "https://youtube.com/watch?v=qJkcjURcAe8",
-      "publishedAt": "2026-11-02T14:00:00+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "Infinity explained: It broke mathematics | Lex Fridman",
+      "videoId": "3YaE5e4PXOk",
+      "url": "https://youtube.com/watch?v=3YaE5e4PXOk",
+      "publishedAt": "2026-11-03T13:00:12+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Will AI Replace Software Engineers?",
+      "videoId": "N8pMSBteR18",
+      "url": "https://youtube.com/watch?v=N8pMSBteR18",
+      "publishedAt": "2026-11-03T06:00:30+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Can AI solve P vs NP? | Lex Fridman",
-      "videoId": "a692S06z_rs",
-      "url": "https://youtube.com/watch?v=a692S06z_rs",
-      "publishedAt": "2026-11-02T13:00:10+00:00"
+      "title": "The hardest problems AI can't solve yet - mathematicians explain | Lex Fridman",
+      "videoId": "dDc2tnHd04Q",
+      "url": "https://youtube.com/watch?v=dDc2tnHd04Q",
+      "publishedAt": "2026-11-03T05:00:11+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Is math invented or discovered? - mathematicians explain | Lex Fridman",
-      "videoId": "W--Rr-ExhYY",
-      "url": "https://youtube.com/watch?v=W--Rr-ExhYY",
-      "publishedAt": "2026-11-02T05:00:09+00:00"
+      "title": "Optimal dating strategy - mathematician explains | Lex Fridman",
+      "videoId": "5OxYhugDgls",
+      "url": "https://youtube.com/watch?v=5OxYhugDgls",
+      "publishedAt": "2026-11-03T01:00:10+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Why baseball outfielders don't run in a straight line | Lex Fridman",
-      "videoId": "hlwBFbA_-yM",
-      "url": "https://youtube.com/watch?v=hlwBFbA_-yM",
-      "publishedAt": "2026-11-02T01:00:10+00:00"
+      "name": "Latent Space",
+      "title": "Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora",
+      "videoId": "bJBEFzlKPoQ",
+      "url": "https://youtube.com/watch?v=bJBEFzlKPoQ",
+      "publishedAt": "2026-11-02T20:50:24+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "How Defenders Can Use AI to Fix Security Flaws",
-      "videoId": "79M2vFJ1JiQ",
-      "url": "https://youtube.com/watch?v=79M2vFJ1JiQ",
-      "publishedAt": "2026-11-01T16:14:16+00:00"
+      "name": "All-In Podcast",
+      "title": "Jason Calacanis on Midterms: Easy sweep for the Democrats",
+      "videoId": "n3yxJ8FWYS4",
+      "url": "https://youtube.com/watch?v=n3yxJ8FWYS4",
+      "publishedAt": "2026-11-02T20:00:21+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Friedberg’s Bull Case: Everyone is Making Money in AI",
+      "videoId": "5wa4inzF0J8",
+      "url": "https://youtube.com/watch?v=5wa4inzF0J8",
+      "publishedAt": "2026-11-02T15:43:26+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Modal CEO: Has Open-Source LLM Inference Peaked? | What Happens to the Cost of Compute",
+      "videoId": "1dwyL6Iz_PU",
+      "url": "https://youtube.com/watch?v=1dwyL6Iz_PU",
+      "publishedAt": "2026-11-02T15:03:54+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 8
   }
 }
