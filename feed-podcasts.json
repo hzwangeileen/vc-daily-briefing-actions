@@ -1,73 +1,89 @@
 {
-  "generatedAt": "2026-11-03T13:53:24.836Z",
+  "generatedAt": "2026-11-04T14:01:59.828Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Infinity explained: It broke mathematics | Lex Fridman",
-      "videoId": "3YaE5e4PXOk",
-      "url": "https://youtube.com/watch?v=3YaE5e4PXOk",
-      "publishedAt": "2026-11-03T13:00:12+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Will AI Replace Software Engineers?",
-      "videoId": "N8pMSBteR18",
-      "url": "https://youtube.com/watch?v=N8pMSBteR18",
-      "publishedAt": "2026-11-03T06:00:30+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The hardest problems AI can't solve yet - mathematicians explain | Lex Fridman",
-      "videoId": "dDc2tnHd04Q",
-      "url": "https://youtube.com/watch?v=dDc2tnHd04Q",
-      "publishedAt": "2026-11-03T05:00:11+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Optimal dating strategy - mathematician explains | Lex Fridman",
-      "videoId": "5OxYhugDgls",
-      "url": "https://youtube.com/watch?v=5OxYhugDgls",
-      "publishedAt": "2026-11-03T01:00:10+00:00"
+      "title": "How AI changes education: Should kids still do homework? | Lex Fridman",
+      "videoId": "QsUeQ7DRS1M",
+      "url": "https://youtube.com/watch?v=QsUeQ7DRS1M",
+      "publishedAt": "2026-11-04T13:00:12+00:00"
     },
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora",
-      "videoId": "bJBEFzlKPoQ",
-      "url": "https://youtube.com/watch?v=bJBEFzlKPoQ",
-      "publishedAt": "2026-11-02T20:50:24+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Jason Calacanis on Midterms: Easy sweep for the Democrats",
-      "videoId": "n3yxJ8FWYS4",
-      "url": "https://youtube.com/watch?v=n3yxJ8FWYS4",
-      "publishedAt": "2026-11-02T20:00:21+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Friedberg’s Bull Case: Everyone is Making Money in AI",
-      "videoId": "5wa4inzF0J8",
-      "url": "https://youtube.com/watch?v=5wa4inzF0J8",
-      "publishedAt": "2026-11-02T15:43:26+00:00"
+      "title": "Behind Latent Space, ft AIEi Shanghai preview — with swyx and Galen Gao",
+      "videoId": "QmDLDy3ZSNE",
+      "url": "https://youtube.com/watch?v=QmDLDy3ZSNE",
+      "publishedAt": "2026-11-04T10:32:51+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Modal CEO: Has Open-Source LLM Inference Peaked? | What Happens to the Cost of Compute",
-      "videoId": "1dwyL6Iz_PU",
-      "url": "https://youtube.com/watch?v=1dwyL6Iz_PU",
-      "publishedAt": "2026-11-02T15:03:54+00:00"
+      "title": "The $15B Founder Who's Never Made a Pitch Deck",
+      "videoId": "fGMcovlSE1A",
+      "url": "https://youtube.com/watch?v=fGMcovlSE1A",
+      "publishedAt": "2026-11-04T05:55:26+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The threat of AI to human civilization | Lex Fridman",
+      "videoId": "GvY4x4LOfFU",
+      "url": "https://youtube.com/watch?v=GvY4x4LOfFU",
+      "publishedAt": "2026-11-04T05:00:10+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "2026 Election Night Livestream with the Besties!",
+      "videoId": "9Asgxtk_kkI",
+      "url": "https://youtube.com/watch?v=9Asgxtk_kkI",
+      "publishedAt": "2026-11-04T03:04:52+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Advice for young people in the age of AI | Lex Fridman",
+      "videoId": "Kw7THrfbA5U",
+      "url": "https://youtube.com/watch?v=Kw7THrfbA5U",
+      "publishedAt": "2026-11-04T01:00:10+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev",
+      "videoId": "LL0YmIyBKSU",
+      "url": "https://youtube.com/watch?v=LL0YmIyBKSU",
+      "publishedAt": "2026-11-03T20:16:25+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Great brands are built by being different",
+      "videoId": "v09tFtuA8vM",
+      "url": "https://youtube.com/watch?v=v09tFtuA8vM",
+      "publishedAt": "2026-11-03T19:55:28+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "SaaSpocalypse: What Actually Goes Away?",
+      "videoId": "Bw_G0dfyx9M",
+      "url": "https://youtube.com/watch?v=Bw_G0dfyx9M",
+      "publishedAt": "2026-11-03T15:17:30+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "CEO of Modal on AI Inference",
+      "videoId": "HCnKt6UG-Ww",
+      "url": "https://youtube.com/watch?v=HCnKt6UG-Ww",
+      "publishedAt": "2026-11-03T15:00:29+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 10
   }
 }
