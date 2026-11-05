@@ -1,89 +1,65 @@
 {
-  "generatedAt": "2026-11-04T14:01:59.828Z",
+  "generatedAt": "2026-11-05T14:23:17.962Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "How AI changes education: Should kids still do homework? | Lex Fridman",
-      "videoId": "QsUeQ7DRS1M",
-      "url": "https://youtube.com/watch?v=QsUeQ7DRS1M",
-      "publishedAt": "2026-11-04T13:00:12+00:00"
+      "name": "No Priors",
+      "title": "AI Agents for Traders",
+      "videoId": "vKCbFpy3cIQ",
+      "url": "https://youtube.com/watch?v=vKCbFpy3cIQ",
+      "publishedAt": "2026-11-05T13:55:11+00:00"
     },
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "Behind Latent Space, ft AIEi Shanghai preview — with swyx and Galen Gao",
-      "videoId": "QmDLDy3ZSNE",
-      "url": "https://youtube.com/watch?v=QmDLDy3ZSNE",
-      "publishedAt": "2026-11-04T10:32:51+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "The $15B Founder Who's Never Made a Pitch Deck",
-      "videoId": "fGMcovlSE1A",
-      "url": "https://youtube.com/watch?v=fGMcovlSE1A",
-      "publishedAt": "2026-11-04T05:55:26+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The threat of AI to human civilization | Lex Fridman",
-      "videoId": "GvY4x4LOfFU",
-      "url": "https://youtube.com/watch?v=GvY4x4LOfFU",
-      "publishedAt": "2026-11-04T05:00:10+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "2026 Election Night Livestream with the Besties!",
-      "videoId": "9Asgxtk_kkI",
-      "url": "https://youtube.com/watch?v=9Asgxtk_kkI",
-      "publishedAt": "2026-11-04T03:04:52+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Advice for young people in the age of AI | Lex Fridman",
-      "videoId": "Kw7THrfbA5U",
-      "url": "https://youtube.com/watch?v=Kw7THrfbA5U",
-      "publishedAt": "2026-11-04T01:00:10+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev",
-      "videoId": "LL0YmIyBKSU",
-      "url": "https://youtube.com/watch?v=LL0YmIyBKSU",
-      "publishedAt": "2026-11-03T20:16:25+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Great brands are built by being different",
-      "videoId": "v09tFtuA8vM",
-      "url": "https://youtube.com/watch?v=v09tFtuA8vM",
-      "publishedAt": "2026-11-03T19:55:28+00:00"
+      "name": "Training Data",
+      "title": "Bringing Continual Learning to Every Company: Trajectory’s Ronak Malde",
+      "videoId": "32vxW6GMeLY",
+      "url": "https://youtube.com/watch?v=32vxW6GMeLY",
+      "publishedAt": "2026-11-05T13:00:07+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "SaaSpocalypse: What Actually Goes Away?",
-      "videoId": "Bw_G0dfyx9M",
-      "url": "https://youtube.com/watch?v=Bw_G0dfyx9M",
-      "publishedAt": "2026-11-03T15:17:30+00:00"
+      "title": "Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev",
+      "videoId": "yULk8eNa2mg",
+      "url": "https://youtube.com/watch?v=yULk8eNa2mg",
+      "publishedAt": "2026-11-05T11:00:22+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Bringing AI Coding Agents to the Whole Enterprise",
+      "videoId": "gmBvFy9YPeY",
+      "url": "https://youtube.com/watch?v=gmBvFy9YPeY",
+      "publishedAt": "2026-11-05T01:51:21+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Tim Dillon Explains the Democrat Sweep",
+      "videoId": "tnUaop420_8",
+      "url": "https://youtube.com/watch?v=tnUaop420_8",
+      "publishedAt": "2026-11-04T19:09:36+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Navier-Stokes explained by Mathematician | Lex Fridman",
+      "videoId": "2O6wJnCGNdI",
+      "url": "https://youtube.com/watch?v=2O6wJnCGNdI",
+      "publishedAt": "2026-11-04T17:00:13+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "CEO of Modal on AI Inference",
-      "videoId": "HCnKt6UG-Ww",
-      "url": "https://youtube.com/watch?v=HCnKt6UG-Ww",
-      "publishedAt": "2026-11-03T15:00:29+00:00"
+      "title": "Why He Waited Until 37 to Build a $15.7BN Company",
+      "videoId": "t-KZDGWjWjQ",
+      "url": "https://youtube.com/watch?v=t-KZDGWjWjQ",
+      "publishedAt": "2026-11-04T15:00:40+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 10
+    "podcastEpisodes": 7
   }
 }
