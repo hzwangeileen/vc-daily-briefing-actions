@@ -1,65 +1,73 @@
 {
-  "generatedAt": "2026-11-05T14:23:17.962Z",
+  "generatedAt": "2026-11-06T13:59:00.945Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "AI Agents for Traders",
-      "videoId": "vKCbFpy3cIQ",
-      "url": "https://youtube.com/watch?v=vKCbFpy3cIQ",
-      "publishedAt": "2026-11-05T13:55:11+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Bringing Continual Learning to Every Company: Trajectory’s Ronak Malde",
-      "videoId": "32vxW6GMeLY",
-      "url": "https://youtube.com/watch?v=32vxW6GMeLY",
-      "publishedAt": "2026-11-05T13:00:07+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev",
-      "videoId": "yULk8eNa2mg",
-      "url": "https://youtube.com/watch?v=yULk8eNa2mg",
-      "publishedAt": "2026-11-05T11:00:22+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Bringing AI Coding Agents to the Whole Enterprise",
-      "videoId": "gmBvFy9YPeY",
-      "url": "https://youtube.com/watch?v=gmBvFy9YPeY",
-      "publishedAt": "2026-11-05T01:51:21+00:00"
+      "name": "Invest Like the Best",
+      "title": "The Hidden Capital Crunch Behind Silicon Valley’s AI Boom",
+      "videoId": "r95bEutZUN4",
+      "url": "https://youtube.com/watch?v=r95bEutZUN4",
+      "publishedAt": "2026-11-06T13:00:08+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Tim Dillon Explains the Democrat Sweep",
-      "videoId": "tnUaop420_8",
-      "url": "https://youtube.com/watch?v=tnUaop420_8",
-      "publishedAt": "2026-11-04T19:09:36+00:00"
+      "title": "Tim Dillon Predicts Jon Ossoff Will Be the Next President",
+      "videoId": "TKmb9Ze8Bpw",
+      "url": "https://youtube.com/watch?v=TKmb9Ze8Bpw",
+      "publishedAt": "2026-11-05T22:12:17+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Navier-Stokes explained by Mathematician | Lex Fridman",
-      "videoId": "2O6wJnCGNdI",
-      "url": "https://youtube.com/watch?v=2O6wJnCGNdI",
-      "publishedAt": "2026-11-04T17:00:13+00:00"
+      "name": "Invest Like the Best",
+      "title": "AI lets you throw money at the problem",
+      "videoId": "04ZBFM-cc64",
+      "url": "https://youtube.com/watch?v=04ZBFM-cc64",
+      "publishedAt": "2026-11-05T21:14:01+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Jason Calacanis Was Warning Trump About the Midterms: The Signs Were There",
+      "videoId": "FlJOGhTgGAQ",
+      "url": "https://youtube.com/watch?v=FlJOGhTgGAQ",
+      "publishedAt": "2026-11-05T21:13:49+00:00"
     },
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why He Waited Until 37 to Build a $15.7BN Company",
-      "videoId": "t-KZDGWjWjQ",
-      "url": "https://youtube.com/watch?v=t-KZDGWjWjQ",
-      "publishedAt": "2026-11-04T15:00:40+00:00"
+      "title": "Google Loses $500B in 12 Hours | DoorDash Buys Instacart for $17B | Kalshi Raises $1B",
+      "videoId": "4nKt18AZDsQ",
+      "url": "https://youtube.com/watch?v=4nKt18AZDsQ",
+      "publishedAt": "2026-11-05T15:14:25+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Multicellular Systems - Fabian Theis, Helmholtz Munich",
+      "videoId": "DLKg78H1wSI",
+      "url": "https://youtube.com/watch?v=DLKg78H1wSI",
+      "publishedAt": "2026-11-05T15:10:45+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Unsupervised Learning",
+      "title": "A Month After Going Viral: Jev’s Creator on Coding Agents, Benchmarks &amp; AI’s Reliability Gap",
+      "videoId": "ham8dROHCrc",
+      "url": "https://youtube.com/watch?v=ham8dROHCrc",
+      "publishedAt": "2026-11-05T14:30:01+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "title": "What Happens When the AI Boom Slows Down",
+      "videoId": "XZxDawMm4lU",
+      "url": "https://youtube.com/watch?v=XZxDawMm4lU",
+      "publishedAt": "2026-11-04T13:00:02+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 8
   }
 }
