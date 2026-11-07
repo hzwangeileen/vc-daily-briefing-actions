@@ -1,73 +1,41 @@
 {
-  "generatedAt": "2026-11-06T13:59:00.945Z",
+  "generatedAt": "2026-11-07T12:43:09.518Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "The Hidden Capital Crunch Behind Silicon Valley’s AI Boom",
-      "videoId": "r95bEutZUN4",
-      "url": "https://youtube.com/watch?v=r95bEutZUN4",
-      "publishedAt": "2026-11-06T13:00:08+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Tim Dillon Predicts Jon Ossoff Will Be the Next President",
-      "videoId": "TKmb9Ze8Bpw",
-      "url": "https://youtube.com/watch?v=TKmb9Ze8Bpw",
-      "publishedAt": "2026-11-05T22:12:17+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "AI lets you throw money at the problem",
-      "videoId": "04ZBFM-cc64",
-      "url": "https://youtube.com/watch?v=04ZBFM-cc64",
-      "publishedAt": "2026-11-05T21:14:01+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Jason Calacanis Was Warning Trump About the Midterms: The Signs Were There",
-      "videoId": "FlJOGhTgGAQ",
-      "url": "https://youtube.com/watch?v=FlJOGhTgGAQ",
-      "publishedAt": "2026-11-05T21:13:49+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Google Loses $500B in 12 Hours | DoorDash Buys Instacart for $17B | Kalshi Raises $1B",
-      "videoId": "4nKt18AZDsQ",
-      "url": "https://youtube.com/watch?v=4nKt18AZDsQ",
-      "publishedAt": "2026-11-05T15:14:25+00:00"
+      "name": "Latent Space",
+      "title": "Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter",
+      "videoId": "P735f1xlpL0",
+      "url": "https://youtube.com/watch?v=P735f1xlpL0",
+      "publishedAt": "2026-11-07T02:49:28+00:00"
     },
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "Multicellular Systems - Fabian Theis, Helmholtz Munich",
-      "videoId": "DLKg78H1wSI",
-      "url": "https://youtube.com/watch?v=DLKg78H1wSI",
-      "publishedAt": "2026-11-05T15:10:45+00:00"
+      "title": "Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham",
+      "videoId": "KgqWyVVH4Oc",
+      "url": "https://youtube.com/watch?v=KgqWyVVH4Oc",
+      "publishedAt": "2026-11-06T16:30:28+00:00"
     },
     {
       "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "A Month After Going Viral: Jev’s Creator on Coding Agents, Benchmarks &amp; AI’s Reliability Gap",
-      "videoId": "ham8dROHCrc",
-      "url": "https://youtube.com/watch?v=ham8dROHCrc",
-      "publishedAt": "2026-11-05T14:30:01+00:00"
+      "name": "20VC",
+      "title": "Who's REALLY at risk in the AI boom?",
+      "videoId": "NP23KKl9rqE",
+      "url": "https://youtube.com/watch?v=NP23KKl9rqE",
+      "publishedAt": "2026-11-06T15:55:44+00:00"
     },
     {
       "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "What Happens When the AI Boom Slows Down",
-      "videoId": "XZxDawMm4lU",
-      "url": "https://youtube.com/watch?v=XZxDawMm4lU",
-      "publishedAt": "2026-11-04T13:00:02+00:00"
+      "name": "Latent Space",
+      "title": "Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich",
+      "videoId": "3nAV2s4GYbs",
+      "url": "https://youtube.com/watch?v=3nAV2s4GYbs",
+      "publishedAt": "2026-11-06T15:06:02+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 8
+    "podcastEpisodes": 4
   }
 }
