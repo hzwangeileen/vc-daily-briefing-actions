@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-09T15:42:45.019Z",
+  "generatedAt": "2026-11-10T14:36:47.624Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Mistral CEO: Why OpenAI &amp; Anthropic Will Come for Your Business | Are Chinese Models Truly Safe?",
-      "videoId": "KotQbLX8pOw",
-      "url": "https://youtube.com/watch?v=KotQbLX8pOw",
-      "publishedAt": "2026-11-09T15:00:02+00:00"
+      "title": "Mistral CEO on Why AI Inference Is Becoming a Commodity",
+      "videoId": "7TTx9P-6alk",
+      "url": "https://youtube.com/watch?v=7TTx9P-6alk",
+      "publishedAt": "2026-11-10T06:00:40+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Will AI Agents Break the Internet?",
-      "videoId": "Z1FxJ7jAxWM",
-      "url": "https://youtube.com/watch?v=Z1FxJ7jAxWM",
-      "publishedAt": "2026-11-09T01:07:45+00:00"
+      "title": "Personal AI Agents vs. Enterprise Security",
+      "videoId": "0sUu1fC73pQ",
+      "url": "https://youtube.com/watch?v=0sUu1fC73pQ",
+      "publishedAt": "2026-11-09T20:58:55+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Mistral CEO Explains Why AI Models Are Becoming Defence Systems",
+      "videoId": "-sC-pOysEpA",
+      "url": "https://youtube.com/watch?v=-sC-pOysEpA",
+      "publishedAt": "2026-11-09T19:00:45+00:00"
     },
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "videoId": "dpY7YzZo4kE",
-      "url": "https://youtube.com/watch?v=dpY7YzZo4kE",
-      "publishedAt": "2026-11-08T21:23:23+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Chamath: I was wrong. The economy is broken.",
-      "videoId": "PD-FlgD_ILw",
-      "url": "https://youtube.com/watch?v=PD-FlgD_ILw",
-      "publishedAt": "2026-11-08T15:30:28+00:00"
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team",
+      "videoId": "v5IJwVnTxzg",
+      "url": "https://youtube.com/watch?v=v5IJwVnTxzg",
+      "publishedAt": "2026-11-09T16:18:21+00:00"
     }
   ],
   "stats": {
