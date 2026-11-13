@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-11-12T14:53:18.524Z",
+  "generatedAt": "2026-11-13T14:18:04.525Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The most brutal battles of Ukraine War - explained by military analyst | Lex Fridman Podcast",
-      "videoId": "XjwFl1FTCeM",
-      "url": "https://youtube.com/watch?v=XjwFl1FTCeM",
-      "publishedAt": "2026-11-12T13:00:12+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
-      "videoId": "IiKf3BgBezE",
-      "url": "https://youtube.com/watch?v=IiKf3BgBezE",
-      "publishedAt": "2026-11-12T11:00:17+00:00"
+      "title": "The turning points in Ukraine War explained by military analyst | Lex Fridman Podcast",
+      "videoId": "_LCEtkloiwI",
+      "url": "https://youtube.com/watch?v=_LCEtkloiwI",
+      "publishedAt": "2026-11-13T13:00:10+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The nature of war: Why we fight | Russia-Ukraine War - Military Analysis",
-      "videoId": "fMpYUonIIJM",
-      "url": "https://youtube.com/watch?v=fMpYUonIIJM",
-      "publishedAt": "2026-11-12T05:00:10+00:00"
+      "title": "The shocking reality of drone warfare | Russia-Ukraine War - Military Analysis",
+      "videoId": "DfFKbb1lcJA",
+      "url": "https://youtube.com/watch?v=DfFKbb1lcJA",
+      "publishedAt": "2026-11-13T05:00:09+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The future of modern warfare | Russia-Ukraine War - Military Analysis",
-      "videoId": "o5XUwJ7uI6U",
-      "url": "https://youtube.com/watch?v=o5XUwJ7uI6U",
-      "publishedAt": "2026-11-12T01:00:10+00:00"
+      "title": "Russia vs Ukraine: Who is winning? | Russia-Ukraine War - Military Analysis",
+      "videoId": "59DwSu3UbPo",
+      "url": "https://youtube.com/watch?v=59DwSu3UbPo",
+      "publishedAt": "2026-11-13T01:00:12+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Why Closed Systems Can Be More Dangerous",
-      "videoId": "jfTYHFoyUb0",
-      "url": "https://youtube.com/watch?v=jfTYHFoyUb0",
-      "publishedAt": "2026-11-11T15:58:32+00:00"
+      "title": "Why Drug Approvals Haven’t Grown",
+      "videoId": "B5uVBqVxc20",
+      "url": "https://youtube.com/watch?v=B5uVBqVxc20",
+      "publishedAt": "2026-11-12T17:15:23+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Sequoia Leaves London, Close Scout Program &amp; End Evergreen Fund | NASDAQ Loses $2.5T in 24 hours",
+      "videoId": "ffh7fdwfrWU",
+      "url": "https://youtube.com/watch?v=ffh7fdwfrWU",
+      "publishedAt": "2026-11-12T15:03:44+00:00"
     }
   ],
   "stats": {
