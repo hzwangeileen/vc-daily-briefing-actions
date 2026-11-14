@@ -1,49 +1,57 @@
 {
-  "generatedAt": "2026-11-13T14:18:04.525Z",
+  "generatedAt": "2026-11-14T13:14:37.481Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The turning points in Ukraine War explained by military analyst | Lex Fridman Podcast",
-      "videoId": "_LCEtkloiwI",
-      "url": "https://youtube.com/watch?v=_LCEtkloiwI",
-      "publishedAt": "2026-11-13T13:00:10+00:00"
+      "title": "Seeing what a drone sees | Russia-Ukraine War - Military Analysis",
+      "videoId": "Wckn2iznQY4",
+      "url": "https://youtube.com/watch?v=Wckn2iznQY4",
+      "publishedAt": "2026-11-14T05:00:09+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Jensen OUT as Nvidia CEO: &quot;Spy&quot; Scandal, Export Restrictions, Market Impact",
+      "videoId": "Uv2w4VTU-iQ",
+      "url": "https://youtube.com/watch?v=Uv2w4VTU-iQ",
+      "publishedAt": "2026-11-14T02:50:18+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The shocking reality of drone warfare | Russia-Ukraine War - Military Analysis",
-      "videoId": "DfFKbb1lcJA",
-      "url": "https://youtube.com/watch?v=DfFKbb1lcJA",
-      "publishedAt": "2026-11-13T05:00:09+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Russia vs Ukraine: Who is winning? | Russia-Ukraine War - Military Analysis",
-      "videoId": "59DwSu3UbPo",
-      "url": "https://youtube.com/watch?v=59DwSu3UbPo",
-      "publishedAt": "2026-11-13T01:00:12+00:00"
+      "title": "Putin's miscalculation in Ukraine | Russia-Ukraine War - Military Analysis",
+      "videoId": "gYDp6gn9MS4",
+      "url": "https://youtube.com/watch?v=gYDp6gn9MS4",
+      "publishedAt": "2026-11-14T01:00:10+00:00"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "Why Drug Approvals Haven’t Grown",
-      "videoId": "B5uVBqVxc20",
-      "url": "https://youtube.com/watch?v=B5uVBqVxc20",
-      "publishedAt": "2026-11-12T17:15:23+00:00"
+      "title": "Rethinking Drug Development With Computing",
+      "videoId": "mydXxjJ6ppY",
+      "url": "https://youtube.com/watch?v=mydXxjJ6ppY",
+      "publishedAt": "2026-11-14T00:48:39+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Sequoia Leaves London, Close Scout Program &amp; End Evergreen Fund | NASDAQ Loses $2.5T in 24 hours",
-      "videoId": "ffh7fdwfrWU",
-      "url": "https://youtube.com/watch?v=ffh7fdwfrWU",
-      "publishedAt": "2026-11-12T15:03:44+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "AI is overhyped: The reality of autonomy in drone warfare | Russia-Ukraine War - Military Analysis",
+      "videoId": "ncz5aYl385k",
+      "url": "https://youtube.com/watch?v=ncz5aYl385k",
+      "publishedAt": "2026-11-13T21:00:10+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "title": "Why healthcare GDP should be higher, not lower",
+      "videoId": "SNnbpKAOHps",
+      "url": "https://youtube.com/watch?v=SNnbpKAOHps",
+      "publishedAt": "2026-11-13T19:21:43+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 6
   }
 }
