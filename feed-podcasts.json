@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-11-15T13:42:55.195Z",
+  "generatedAt": "2026-11-16T15:18:17.295Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The brutal error of sunk cost fallacy in war | Russia-Ukraine War - Military Analysis",
-      "videoId": "uGsxo8clQX4",
-      "url": "https://youtube.com/watch?v=uGsxo8clQX4",
-      "publishedAt": "2026-11-15T13:00:12+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "War optimism: The crucial error made by political leaders | Lex Fridman Podcast",
-      "videoId": "gcTov7iXxPM",
-      "url": "https://youtube.com/watch?v=gcTov7iXxPM",
-      "publishedAt": "2026-11-15T05:00:15+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Inside the drone &quot;kill zone&quot;: Over 10,000 drones a day | Russia-Ukraine War - Military Analysis",
-      "videoId": "U_suR3_TcsY",
-      "url": "https://youtube.com/watch?v=U_suR3_TcsY",
-      "publishedAt": "2026-11-15T01:00:13+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "How Cloudflare Thinks About AI Token Usage",
-      "videoId": "no6lv6pTJeU",
-      "url": "https://youtube.com/watch?v=no6lv6pTJeU",
-      "publishedAt": "2026-11-14T23:51:00+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Sacks on Jensen’s Exit: China Wins, America Loses",
-      "videoId": "3zW2X9OXxC0",
-      "url": "https://youtube.com/watch?v=3zW2X9OXxC0",
-      "publishedAt": "2026-11-14T22:00:11+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Friedberg: Was Jensen Taken Out So the Deep State Could Control AI?",
-      "videoId": "ONVWLa2LOzk",
-      "url": "https://youtube.com/watch?v=ONVWLa2LOzk",
-      "publishedAt": "2026-11-14T17:00:16+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "20VC",
-      "title": "The AI Compute Crisis: Why We Need Thousands of Times More Computing Power | Fractile Founder",
-      "videoId": "UZ8eYaAf08M",
-      "url": "https://youtube.com/watch?v=UZ8eYaAf08M",
-      "publishedAt": "2026-11-14T15:00:14+00:00"
+      "title": "Jev Creator on Will US Open Models Catch Chinese | The Cost of Intelligence &amp; Tokens | Diogo Almeida",
+      "videoId": "BE2JqjsN4aY",
+      "url": "https://youtube.com/watch?v=BE2JqjsN4aY",
+      "publishedAt": "2026-11-16T14:59:42+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "North Korea's role in Ukraine war | Military Analysis - Lex Fridman Podcast",
+      "videoId": "HiFbEMEkI0s",
+      "url": "https://youtube.com/watch?v=HiFbEMEkI0s",
+      "publishedAt": "2026-11-16T13:00:12+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Prigozhin's march on Moscow: What really happened | Russia-Ukraine War",
+      "videoId": "D_3x8rc8se8",
+      "url": "https://youtube.com/watch?v=D_3x8rc8se8",
+      "publishedAt": "2026-11-16T05:00:11+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "Jason: &quot;The leak came from inside the White House.&quot;",
+      "videoId": "JF5W20NVLL4",
+      "url": "https://youtube.com/watch?v=JF5W20NVLL4",
+      "publishedAt": "2026-11-16T01:30:09+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The deadly effectiveness of fiber-optic drones | Russia-Ukraine War - Military Analysis",
+      "videoId": "WNqQERktOow",
+      "url": "https://youtube.com/watch?v=WNqQERktOow",
+      "publishedAt": "2026-11-16T01:00:08+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "David Sacks: Who Risked Jail to Take Down Jensen Huang?",
+      "videoId": "q8miqVUyh7w",
+      "url": "https://youtube.com/watch?v=q8miqVUyh7w",
+      "publishedAt": "2026-11-15T22:30:16+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "All-In Podcast",
+      "title": "David Friedberg: Bring Back Jensen If He's Innocent",
+      "videoId": "w_QLUF4nSb4",
+      "url": "https://youtube.com/watch?v=w_QLUF4nSb4",
+      "publishedAt": "2026-11-15T15:30:02+00:00"
     }
   ],
   "stats": {
