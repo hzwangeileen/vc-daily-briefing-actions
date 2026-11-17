@@ -1,65 +1,89 @@
 {
-  "generatedAt": "2026-11-16T15:18:17.295Z",
+  "generatedAt": "2026-11-17T15:43:52.600Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Jev Creator on Will US Open Models Catch Chinese | The Cost of Intelligence &amp; Tokens | Diogo Almeida",
-      "videoId": "BE2JqjsN4aY",
-      "url": "https://youtube.com/watch?v=BE2JqjsN4aY",
-      "publishedAt": "2026-11-16T14:59:42+00:00"
+      "title": "Why This AI Founder Won't Hire From OpenAI",
+      "videoId": "Qopc3Q6LuV0",
+      "url": "https://youtube.com/watch?v=Qopc3Q6LuV0",
+      "publishedAt": "2026-11-17T15:00:40+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "North Korea's role in Ukraine war | Military Analysis - Lex Fridman Podcast",
-      "videoId": "HiFbEMEkI0s",
-      "url": "https://youtube.com/watch?v=HiFbEMEkI0s",
-      "publishedAt": "2026-11-16T13:00:12+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Prigozhin's march on Moscow: What really happened | Russia-Ukraine War",
-      "videoId": "D_3x8rc8se8",
-      "url": "https://youtube.com/watch?v=D_3x8rc8se8",
-      "publishedAt": "2026-11-16T05:00:11+00:00"
+      "name": "Invest Like the Best",
+      "title": "Giving Every Kid a Stake in Capitalism | Brad Gerstner &amp; Geoffrey Canada",
+      "videoId": "u6pCmQd0Wrg",
+      "url": "https://youtube.com/watch?v=u6pCmQd0Wrg",
+      "publishedAt": "2026-11-17T13:00:02+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Jason: &quot;The leak came from inside the White House.&quot;",
-      "videoId": "JF5W20NVLL4",
-      "url": "https://youtube.com/watch?v=JF5W20NVLL4",
-      "publishedAt": "2026-11-16T01:30:09+00:00"
+      "title": "&quot;Cops need body cams to DEFEND themselves!&quot;",
+      "videoId": "MUtgp2ixLyk",
+      "url": "https://youtube.com/watch?v=MUtgp2ixLyk",
+      "publishedAt": "2026-11-16T23:30:11+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Who Should Own AI’s Discoveries?",
+      "videoId": "H0Eb08kxYuY",
+      "url": "https://youtube.com/watch?v=H0Eb08kxYuY",
+      "publishedAt": "2026-11-16T21:29:48+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs",
+      "videoId": "8cGfJOU3AlQ",
+      "url": "https://youtube.com/watch?v=8cGfJOU3AlQ",
+      "publishedAt": "2026-11-16T21:26:27+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The deadly effectiveness of fiber-optic drones | Russia-Ukraine War - Military Analysis",
-      "videoId": "WNqQERktOow",
-      "url": "https://youtube.com/watch?v=WNqQERktOow",
-      "publishedAt": "2026-11-16T01:00:08+00:00"
+      "title": "US war against China or Russia: Why military experts are wrong | Lex Fridman Podcast",
+      "videoId": "uixy3VTzYok",
+      "url": "https://youtube.com/watch?v=uixy3VTzYok",
+      "publishedAt": "2026-11-16T21:00:13+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Could the AI Bubble Burst Sooner Than You Think? | TypeSafe AI CEO",
+      "videoId": "5iSYPTFOeiU",
+      "url": "https://youtube.com/watch?v=5iSYPTFOeiU",
+      "publishedAt": "2026-11-16T19:00:40+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "title": "Driverless cars and cancer",
+      "videoId": "mxxnPjriIyU",
+      "url": "https://youtube.com/watch?v=mxxnPjriIyU",
+      "publishedAt": "2026-11-16T18:48:23+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "David Sacks: Who Risked Jail to Take Down Jensen Huang?",
-      "videoId": "q8miqVUyh7w",
-      "url": "https://youtube.com/watch?v=q8miqVUyh7w",
-      "publishedAt": "2026-11-15T22:30:16+00:00"
+      "title": "“My personal assistant was leaking to short sellers.” 🤯",
+      "videoId": "zIsl7Q6nhFs",
+      "url": "https://youtube.com/watch?v=zIsl7Q6nhFs",
+      "publishedAt": "2026-11-16T18:32:44+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "David Friedberg: Bring Back Jensen If He's Innocent",
-      "videoId": "w_QLUF4nSb4",
-      "url": "https://youtube.com/watch?v=w_QLUF4nSb4",
-      "publishedAt": "2026-11-15T15:30:02+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "Is Putin being lied to? - The distortion of information in Ukraine war | Military Analysis",
+      "videoId": "xVqZhiJtFsM",
+      "url": "https://youtube.com/watch?v=xVqZhiJtFsM",
+      "publishedAt": "2026-11-16T17:00:11+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 10
   }
 }
