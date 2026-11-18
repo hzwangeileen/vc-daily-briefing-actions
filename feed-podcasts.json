@@ -1,89 +1,33 @@
 {
-  "generatedAt": "2026-11-17T15:43:52.600Z",
+  "generatedAt": "2026-11-18T15:23:59.659Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Why This AI Founder Won't Hire From OpenAI",
-      "videoId": "Qopc3Q6LuV0",
-      "url": "https://youtube.com/watch?v=Qopc3Q6LuV0",
-      "publishedAt": "2026-11-17T15:00:40+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "Giving Every Kid a Stake in Capitalism | Brad Gerstner &amp; Geoffrey Canada",
-      "videoId": "u6pCmQd0Wrg",
-      "url": "https://youtube.com/watch?v=u6pCmQd0Wrg",
-      "publishedAt": "2026-11-17T13:00:02+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "&quot;Cops need body cams to DEFEND themselves!&quot;",
-      "videoId": "MUtgp2ixLyk",
-      "url": "https://youtube.com/watch?v=MUtgp2ixLyk",
-      "publishedAt": "2026-11-16T23:30:11+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "No Priors",
-      "title": "Who Should Own AI’s Discoveries?",
-      "videoId": "H0Eb08kxYuY",
-      "url": "https://youtube.com/watch?v=H0Eb08kxYuY",
-      "publishedAt": "2026-11-16T21:29:48+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs",
-      "videoId": "8cGfJOU3AlQ",
-      "url": "https://youtube.com/watch?v=8cGfJOU3AlQ",
-      "publishedAt": "2026-11-16T21:26:27+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "US war against China or Russia: Why military experts are wrong | Lex Fridman Podcast",
-      "videoId": "uixy3VTzYok",
-      "url": "https://youtube.com/watch?v=uixy3VTzYok",
-      "publishedAt": "2026-11-16T21:00:13+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Could the AI Bubble Burst Sooner Than You Think? | TypeSafe AI CEO",
-      "videoId": "5iSYPTFOeiU",
-      "url": "https://youtube.com/watch?v=5iSYPTFOeiU",
-      "publishedAt": "2026-11-16T19:00:40+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "Driverless cars and cancer",
-      "videoId": "mxxnPjriIyU",
-      "url": "https://youtube.com/watch?v=mxxnPjriIyU",
-      "publishedAt": "2026-11-16T18:48:23+00:00"
+      "title": "How Close Are We to Treating Cancer and Heart Disease?",
+      "videoId": "KBdrDLKsW5w",
+      "url": "https://youtube.com/watch?v=KBdrDLKsW5w",
+      "publishedAt": "2026-11-18T14:37:46+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "“My personal assistant was leaking to short sellers.” 🤯",
-      "videoId": "zIsl7Q6nhFs",
-      "url": "https://youtube.com/watch?v=zIsl7Q6nhFs",
-      "publishedAt": "2026-11-16T18:32:44+00:00"
+      "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+      "videoId": "1bR0gtecoHU",
+      "url": "https://youtube.com/watch?v=1bR0gtecoHU",
+      "publishedAt": "2026-11-17T22:19:53+00:00"
     },
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Is Putin being lied to? - The distortion of information in Ukraine war | Military Analysis",
-      "videoId": "xVqZhiJtFsM",
-      "url": "https://youtube.com/watch?v=xVqZhiJtFsM",
-      "publishedAt": "2026-11-16T17:00:11+00:00"
+      "name": "All-In Podcast",
+      "title": "Anthropic IPO Breakdown: Most Valuable Company?",
+      "videoId": "wpRf6pd37fc",
+      "url": "https://youtube.com/watch?v=wpRf6pd37fc",
+      "publishedAt": "2026-11-17T19:09:32+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 10
+    "podcastEpisodes": 3
   }
 }
