@@ -1,33 +1,49 @@
 {
-  "generatedAt": "2026-11-18T15:23:59.659Z",
+  "generatedAt": "2026-11-19T15:29:34.597Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
+      "name": "20VC",
+      "title": "Will Jensen Return to NVIDIA | Kalshi, Mercor, Fractile: Mega-Rounds Continue",
+      "videoId": "RZ4BBkSZ3io",
+      "url": "https://youtube.com/watch?v=RZ4BBkSZ3io",
+      "publishedAt": "2026-11-19T15:00:34+00:00"
+    },
+    {
+      "source": "podcast",
       "name": "No Priors",
-      "title": "How Close Are We to Treating Cancer and Heart Disease?",
-      "videoId": "KBdrDLKsW5w",
-      "url": "https://youtube.com/watch?v=KBdrDLKsW5w",
-      "publishedAt": "2026-11-18T14:37:46+00:00"
+      "title": "Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew",
+      "videoId": "_wLzJINt9iQ",
+      "url": "https://youtube.com/watch?v=_wLzJINt9iQ",
+      "publishedAt": "2026-11-19T12:00:19+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
-      "videoId": "1bR0gtecoHU",
-      "url": "https://youtube.com/watch?v=1bR0gtecoHU",
-      "publishedAt": "2026-11-17T22:19:53+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "GTA 6 breakdown by former criminal | Larry Lawton and Lex Fridman",
+      "videoId": "PaxT5MpTR54",
+      "url": "https://youtube.com/watch?v=PaxT5MpTR54",
+      "publishedAt": "2026-11-19T05:53:07+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Anthropic IPO Breakdown: Most Valuable Company?",
-      "videoId": "wpRf6pd37fc",
-      "url": "https://youtube.com/watch?v=wpRf6pd37fc",
-      "publishedAt": "2026-11-17T19:09:32+00:00"
+      "name": "Latent Space",
+      "title": "⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC",
+      "videoId": "wX8nDtGIfYA",
+      "url": "https://youtube.com/watch?v=wX8nDtGIfYA",
+      "publishedAt": "2026-11-18T20:00:20+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Unsupervised Learning",
+      "title": "Jev Creator on True AI Agency",
+      "videoId": "WHrbsGCFpdk",
+      "url": "https://youtube.com/watch?v=WHrbsGCFpdk",
+      "publishedAt": "2026-11-18T16:03:24+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 3
+    "podcastEpisodes": 5
   }
 }
