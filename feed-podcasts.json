@@ -1,49 +1,33 @@
 {
-  "generatedAt": "2026-11-19T15:29:34.597Z",
+  "generatedAt": "2026-11-20T15:07:23.403Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Will Jensen Return to NVIDIA | Kalshi, Mercor, Fractile: Mega-Rounds Continue",
-      "videoId": "RZ4BBkSZ3io",
-      "url": "https://youtube.com/watch?v=RZ4BBkSZ3io",
-      "publishedAt": "2026-11-19T15:00:34+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew",
-      "videoId": "_wLzJINt9iQ",
-      "url": "https://youtube.com/watch?v=_wLzJINt9iQ",
-      "publishedAt": "2026-11-19T12:00:19+00:00"
-    },
-    {
-      "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "GTA 6 breakdown by former criminal | Larry Lawton and Lex Fridman",
-      "videoId": "PaxT5MpTR54",
-      "url": "https://youtube.com/watch?v=PaxT5MpTR54",
-      "publishedAt": "2026-11-19T05:53:07+00:00"
+      "title": "Robberies in GTA 6 - jewelry thief explains | Larry Lawton and Lex Fridman",
+      "videoId": "13Ryd1dClGI",
+      "url": "https://youtube.com/watch?v=13Ryd1dClGI",
+      "publishedAt": "2026-11-19T22:59:07+00:00"
     },
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC",
-      "videoId": "wX8nDtGIfYA",
-      "url": "https://youtube.com/watch?v=wX8nDtGIfYA",
-      "publishedAt": "2026-11-18T20:00:20+00:00"
+      "title": "Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO",
+      "videoId": "x0VSm6IjcDQ",
+      "url": "https://youtube.com/watch?v=x0VSm6IjcDQ",
+      "publishedAt": "2026-11-19T20:01:37+00:00"
     },
     {
       "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Jev Creator on True AI Agency",
-      "videoId": "WHrbsGCFpdk",
-      "url": "https://youtube.com/watch?v=WHrbsGCFpdk",
-      "publishedAt": "2026-11-18T16:03:24+00:00"
+      "name": "20VC",
+      "title": "Anthropic is the biggest winner from Jensen's Exit",
+      "videoId": "7uqCc2gCf6Q",
+      "url": "https://youtube.com/watch?v=7uqCc2gCf6Q",
+      "publishedAt": "2026-11-19T19:00:39+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 3
   }
 }
