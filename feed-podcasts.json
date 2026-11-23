@@ -1,65 +1,57 @@
 {
-  "generatedAt": "2026-11-22T14:20:46.329Z",
+  "generatedAt": "2026-11-23T17:44:25.111Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The psychological torture of solitary confinement | Larry Lawton and Lex Fridman",
-      "videoId": "S7CgWY9MCmo",
-      "url": "https://youtube.com/watch?v=S7CgWY9MCmo",
-      "publishedAt": "2026-11-22T13:00:14+00:00"
+      "name": "20VC",
+      "title": "&quot;Fire the Bankers&quot;: Most VCs Won't Survive AI | Why the Inference Layer is Uninvestable | Anj Midha",
+      "videoId": "mg4yo5HUMuQ",
+      "url": "https://youtube.com/watch?v=mg4yo5HUMuQ",
+      "publishedAt": "2026-11-23T15:08:03+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "How realistic was Scarface? - former criminal explains | Larry Lawton and Lex Fridman",
-      "videoId": "OBsBdr1pTIs",
-      "url": "https://youtube.com/watch?v=OBsBdr1pTIs",
-      "publishedAt": "2026-11-22T05:00:09+00:00"
+      "title": "How money works in prison | Larry Lawton and Lex Fridman",
+      "videoId": "ayONpb6uW2E",
+      "url": "https://youtube.com/watch?v=ayONpb6uW2E",
+      "publishedAt": "2026-11-23T13:00:18+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Crooked cops in GTA 6 (in Miami) - former criminal explains | Larry Lawton and Lex Fridman",
-      "videoId": "zpfidRyTLes",
-      "url": "https://youtube.com/watch?v=zpfidRyTLes",
-      "publishedAt": "2026-11-22T01:00:12+00:00"
+      "title": "First jewel robbery explained by former jewel thief | Larry Lawton and Lex Fridman",
+      "videoId": "8pvlYr77zTE",
+      "url": "https://youtube.com/watch?v=8pvlYr77zTE",
+      "publishedAt": "2026-11-23T05:00:12+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "How many people are psychopaths? | Larry Lawton and Lex Fridman",
+      "videoId": "dHQC2Tn5fwU",
+      "url": "https://youtube.com/watch?v=dHQC2Tn5fwU",
+      "publishedAt": "2026-11-22T21:00:11+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "David Friedberg: The AI Job Loss Narrative is Bullsh*t",
-      "videoId": "QNCd8UHCpFQ",
-      "url": "https://youtube.com/watch?v=QNCd8UHCpFQ",
-      "publishedAt": "2026-11-21T21:00:39+00:00"
+      "title": "Chamath: The Market is BAD for Stocks Right Now",
+      "videoId": "jHOvCD1nGEQ",
+      "url": "https://youtube.com/watch?v=jHOvCD1nGEQ",
+      "publishedAt": "2026-11-22T19:30:19+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "David Friedberg: Restricting Open Source AI Is a Path to Tyranny",
-      "videoId": "QgN2bwiUh_U",
-      "url": "https://youtube.com/watch?v=QgN2bwiUh_U",
-      "publishedAt": "2026-11-21T16:00:04+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Who Really Makes Money From AI? | Kush Bavaria",
-      "videoId": "pWFpTDLY7bA",
-      "url": "https://youtube.com/watch?v=pWFpTDLY7bA",
-      "publishedAt": "2026-11-21T15:53:06+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Why Neo-Clouds are Great Businesses &amp; The State of Compute with Kush Bavaria, Co-Founder @ Ornn",
-      "videoId": "3ZkDiDrxDeY",
-      "url": "https://youtube.com/watch?v=3ZkDiDrxDeY",
-      "publishedAt": "2026-11-21T15:35:01+00:00"
+      "title": "Chamath Predicts the Rise of AI’s Magnificent 10: “Dirt to Application”",
+      "videoId": "QjDMSL4PpPE",
+      "url": "https://youtube.com/watch?v=QjDMSL4PpPE",
+      "publishedAt": "2026-11-22T15:00:18+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 6
   }
 }
