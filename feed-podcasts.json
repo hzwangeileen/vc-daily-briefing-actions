@@ -1,57 +1,81 @@
 {
-  "generatedAt": "2026-11-23T17:44:25.111Z",
+  "generatedAt": "2026-11-24T17:16:34.703Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "&quot;Fire the Bankers&quot;: Most VCs Won't Survive AI | Why the Inference Layer is Uninvestable | Anj Midha",
-      "videoId": "mg4yo5HUMuQ",
-      "url": "https://youtube.com/watch?v=mg4yo5HUMuQ",
-      "publishedAt": "2026-11-23T15:08:03+00:00"
+      "title": "Most VCs Are Just Glorified Bankers",
+      "videoId": "kbU6pc9nO_4",
+      "url": "https://youtube.com/watch?v=kbU6pc9nO_4",
+      "publishedAt": "2026-11-24T16:11:42+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "title": "This Is the Dark Age for Cybersecurity",
+      "videoId": "efoZj_7oVJs",
+      "url": "https://youtube.com/watch?v=efoZj_7oVJs",
+      "publishedAt": "2026-11-24T13:37:59+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Unsupervised Learning",
+      "title": "China Expert on Jensen’s Return",
+      "videoId": "gkd5eOQGASU",
+      "url": "https://youtube.com/watch?v=gkd5eOQGASU",
+      "publishedAt": "2026-11-24T13:10:18+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)",
+      "videoId": "tRaFbDFBl_A",
+      "url": "https://youtube.com/watch?v=tRaFbDFBl_A",
+      "publishedAt": "2026-11-24T13:00:22+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "How money works in prison | Larry Lawton and Lex Fridman",
-      "videoId": "ayONpb6uW2E",
-      "url": "https://youtube.com/watch?v=ayONpb6uW2E",
-      "publishedAt": "2026-11-23T13:00:18+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "First jewel robbery explained by former jewel thief | Larry Lawton and Lex Fridman",
-      "videoId": "8pvlYr77zTE",
-      "url": "https://youtube.com/watch?v=8pvlYr77zTE",
-      "publishedAt": "2026-11-23T05:00:12+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "How many people are psychopaths? | Larry Lawton and Lex Fridman",
-      "videoId": "dHQC2Tn5fwU",
-      "url": "https://youtube.com/watch?v=dHQC2Tn5fwU",
-      "publishedAt": "2026-11-22T21:00:11+00:00"
+      "title": "Jeffrey Epstein didn't k*ll himself - former criminal explains | Larry Lawton and Lex Fridman",
+      "videoId": "xYcIBrn-uhE",
+      "url": "https://youtube.com/watch?v=xYcIBrn-uhE",
+      "publishedAt": "2026-11-24T13:00:12+00:00"
     },
     {
       "source": "podcast",
       "name": "All-In Podcast",
-      "title": "Chamath: The Market is BAD for Stocks Right Now",
-      "videoId": "jHOvCD1nGEQ",
-      "url": "https://youtube.com/watch?v=jHOvCD1nGEQ",
-      "publishedAt": "2026-11-22T19:30:19+00:00"
+      "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, &amp; The Patching Problem",
+      "videoId": "o6KIjtkRdOI",
+      "url": "https://youtube.com/watch?v=o6KIjtkRdOI",
+      "publishedAt": "2026-11-24T12:16:21+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Chamath Predicts the Rise of AI’s Magnificent 10: “Dirt to Application”",
-      "videoId": "QjDMSL4PpPE",
-      "url": "https://youtube.com/watch?v=QjDMSL4PpPE",
-      "publishedAt": "2026-11-22T15:00:18+00:00"
+      "name": "Lex Fridman Podcast",
+      "title": "The price of diamonds explained by former diamond thief | Larry Lawton and Lex Fridman",
+      "videoId": "BmHFEGvbsNQ",
+      "url": "https://youtube.com/watch?v=BmHFEGvbsNQ",
+      "publishedAt": "2026-11-24T05:00:10+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "The brutality of prison explained by former criminal | Larry Lawton and Lex Fridman",
+      "videoId": "TdjtDZRIvhU",
+      "url": "https://youtube.com/watch?v=TdjtDZRIvhU",
+      "publishedAt": "2026-11-23T21:00:11+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "20VC",
+      "title": "Why American AI Labs Can’t Access Their Own Compute | Anjney Midha",
+      "videoId": "vFGrw-dfoSk",
+      "url": "https://youtube.com/watch?v=vFGrw-dfoSk",
+      "publishedAt": "2026-11-23T19:10:24+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 6
+    "podcastEpisodes": 9
   }
 }
