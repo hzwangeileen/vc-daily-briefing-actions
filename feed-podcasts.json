@@ -1,81 +1,57 @@
 {
-  "generatedAt": "2026-11-24T17:16:34.703Z",
+  "generatedAt": "2026-11-25T16:58:22.114Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Most VCs Are Just Glorified Bankers",
-      "videoId": "kbU6pc9nO_4",
-      "url": "https://youtube.com/watch?v=kbU6pc9nO_4",
-      "publishedAt": "2026-11-24T16:11:42+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "title": "This Is the Dark Age for Cybersecurity",
-      "videoId": "efoZj_7oVJs",
-      "url": "https://youtube.com/watch?v=efoZj_7oVJs",
-      "publishedAt": "2026-11-24T13:37:59+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "China Expert on Jensen’s Return",
-      "videoId": "gkd5eOQGASU",
-      "url": "https://youtube.com/watch?v=gkd5eOQGASU",
-      "publishedAt": "2026-11-24T13:10:18+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)",
-      "videoId": "tRaFbDFBl_A",
-      "url": "https://youtube.com/watch?v=tRaFbDFBl_A",
-      "publishedAt": "2026-11-24T13:00:22+00:00"
+      "title": "Why AI Agents Could Make the iPhone Duo Worth It",
+      "videoId": "N1f3LuNl514",
+      "url": "https://youtube.com/watch?v=N1f3LuNl514",
+      "publishedAt": "2026-11-25T15:00:39+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Jeffrey Epstein didn't k*ll himself - former criminal explains | Larry Lawton and Lex Fridman",
-      "videoId": "xYcIBrn-uhE",
-      "url": "https://youtube.com/watch?v=xYcIBrn-uhE",
-      "publishedAt": "2026-11-24T13:00:12+00:00"
+      "title": "How the mafia in New York made money | Larry Lawton and Lex Fridman",
+      "videoId": "ylBmaMIlBJM",
+      "url": "https://youtube.com/watch?v=ylBmaMIlBJM",
+      "publishedAt": "2026-11-25T13:00:14+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, &amp; The Patching Problem",
-      "videoId": "o6KIjtkRdOI",
-      "url": "https://youtube.com/watch?v=o6KIjtkRdOI",
-      "publishedAt": "2026-11-24T12:16:21+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The price of diamonds explained by former diamond thief | Larry Lawton and Lex Fridman",
-      "videoId": "BmHFEGvbsNQ",
-      "url": "https://youtube.com/watch?v=BmHFEGvbsNQ",
-      "publishedAt": "2026-11-24T05:00:10+00:00"
+      "name": "No Priors",
+      "title": "How AI Gives Countries Geopolitical Leverage",
+      "videoId": "EwFMmQvaxtg",
+      "url": "https://youtube.com/watch?v=EwFMmQvaxtg",
+      "publishedAt": "2026-11-25T11:00:02+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "The brutality of prison explained by former criminal | Larry Lawton and Lex Fridman",
-      "videoId": "TdjtDZRIvhU",
-      "url": "https://youtube.com/watch?v=TdjtDZRIvhU",
-      "publishedAt": "2026-11-23T21:00:11+00:00"
+      "title": "Surviving the most dangerous prisons | Larry Lawton and Lex Fridman",
+      "videoId": "oVPJbLugN9M",
+      "url": "https://youtube.com/watch?v=oVPJbLugN9M",
+      "publishedAt": "2026-11-25T05:00:10+00:00"
     },
     {
       "source": "podcast",
-      "name": "20VC",
-      "title": "Why American AI Labs Can’t Access Their Own Compute | Anjney Midha",
-      "videoId": "vFGrw-dfoSk",
-      "url": "https://youtube.com/watch?v=vFGrw-dfoSk",
-      "publishedAt": "2026-11-23T19:10:24+00:00"
+      "name": "No Priors",
+      "title": "Patient Safety vs. Risk Appetite in Drug Development",
+      "videoId": "MGwa6t5jqyg",
+      "url": "https://youtube.com/watch?v=MGwa6t5jqyg",
+      "publishedAt": "2026-11-24T23:16:55+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Best prison workout routine - former criminal explains | Larry Lawton and Lex Fridman",
+      "videoId": "XKOx4EDRiL8",
+      "url": "https://youtube.com/watch?v=XKOx4EDRiL8",
+      "publishedAt": "2026-11-24T21:00:11+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 9
+    "podcastEpisodes": 6
   }
 }
