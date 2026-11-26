@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-11-25T16:58:22.114Z",
+  "generatedAt": "2026-11-26T16:38:32.473Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Why AI Agents Could Make the iPhone Duo Worth It",
-      "videoId": "N1f3LuNl514",
-      "url": "https://youtube.com/watch?v=N1f3LuNl514",
-      "publishedAt": "2026-11-25T15:00:39+00:00"
+      "title": "Anthropic's IPO: How It Changes Venture | Applied Compute, Bill.com &amp; Mailchimp Acquisitions",
+      "videoId": "UGSSg8vv8vg",
+      "url": "https://youtube.com/watch?v=UGSSg8vv8vg",
+      "publishedAt": "2026-11-26T15:00:29+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "How the mafia in New York made money | Larry Lawton and Lex Fridman",
-      "videoId": "ylBmaMIlBJM",
-      "url": "https://youtube.com/watch?v=ylBmaMIlBJM",
-      "publishedAt": "2026-11-25T13:00:14+00:00"
+      "title": "First day in prison: Strip searches, dry cells, and fear | Larry Lawton and Lex Fridman",
+      "videoId": "LdLfMvca9pY",
+      "url": "https://youtube.com/watch?v=LdLfMvca9pY",
+      "publishedAt": "2026-11-26T13:00:09+00:00"
     },
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "How AI Gives Countries Geopolitical Leverage",
-      "videoId": "EwFMmQvaxtg",
-      "url": "https://youtube.com/watch?v=EwFMmQvaxtg",
-      "publishedAt": "2026-11-25T11:00:02+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Surviving the most dangerous prisons | Larry Lawton and Lex Fridman",
-      "videoId": "oVPJbLugN9M",
-      "url": "https://youtube.com/watch?v=oVPJbLugN9M",
-      "publishedAt": "2026-11-25T05:00:10+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Patient Safety vs. Risk Appetite in Drug Development",
-      "videoId": "MGwa6t5jqyg",
-      "url": "https://youtube.com/watch?v=MGwa6t5jqyg",
-      "publishedAt": "2026-11-24T23:16:55+00:00"
+      "name": "20VC",
+      "title": "Are Silicon Valley’s 2021 Valuations Still Real?",
+      "videoId": "2n3a7iyCd3w",
+      "url": "https://youtube.com/watch?v=2n3a7iyCd3w",
+      "publishedAt": "2026-11-26T06:00:39+00:00"
     },
     {
       "source": "podcast",
       "name": "Lex Fridman Podcast",
-      "title": "Best prison workout routine - former criminal explains | Larry Lawton and Lex Fridman",
-      "videoId": "XKOx4EDRiL8",
-      "url": "https://youtube.com/watch?v=XKOx4EDRiL8",
-      "publishedAt": "2026-11-24T21:00:11+00:00"
+      "title": "Cooking pasta in prison | Larry Lawton and Lex Fridman",
+      "videoId": "GEM9h7x7b0Y",
+      "url": "https://youtube.com/watch?v=GEM9h7x7b0Y",
+      "publishedAt": "2026-11-26T05:00:12+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "videoId": "Qe9d9dWyED0",
+      "url": "https://youtube.com/watch?v=Qe9d9dWyED0",
+      "publishedAt": "2026-11-25T22:11:27+00:00"
+    },
+    {
+      "source": "podcast",
+      "name": "Lex Fridman Podcast",
+      "title": "Jewel thief explains how to rob a jewelry store | Larry Lawton and Lex Fridman",
+      "videoId": "Msw-qeim7Co",
+      "url": "https://youtube.com/watch?v=Msw-qeim7Co",
+      "publishedAt": "2026-11-25T21:00:13+00:00"
     }
   ],
   "stats": {
