@@ -1,65 +1,33 @@
 {
-  "generatedAt": "2026-11-27T16:24:03.993Z",
+  "generatedAt": "2026-11-28T15:16:58.711Z",
   "lookbackHours": 72,
   "podcasts": [
     {
       "source": "podcast",
       "name": "20VC",
-      "title": "Do you still need a CRM?",
-      "videoId": "omD70Gdw6BY",
-      "url": "https://youtube.com/watch?v=omD70Gdw6BY",
-      "publishedAt": "2026-11-27T15:10:38+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "Why Nvidia Needed Jensen to Step Down",
-      "videoId": "t85E7CrXZpc",
-      "url": "https://youtube.com/watch?v=t85E7CrXZpc",
-      "publishedAt": "2026-11-27T06:05:33+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "The most dangerous gang in prison | Larry Lawton and Lex Fridman",
-      "videoId": "v59xNZmfD3s",
-      "url": "https://youtube.com/watch?v=v59xNZmfD3s",
-      "publishedAt": "2026-11-27T05:00:11+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "Lex Fridman Podcast",
-      "title": "Advice to young people from former jewel thief | Larry Lawton and Lex Fridman",
-      "videoId": "rD6ejlaH3Yw",
-      "url": "https://youtube.com/watch?v=rD6ejlaH3Yw",
-      "publishedAt": "2026-11-26T21:00:10+00:00"
+      "title": "Message-Market vs Product-Market Fit | Founders Should Launch Broken Products | Juicebox Co-founder",
+      "videoId": "DJ6TPvs9NWw",
+      "url": "https://youtube.com/watch?v=DJ6TPvs9NWw",
+      "publishedAt": "2026-11-28T15:00:26+00:00"
     },
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
-      "videoId": "qjPcaZf_plo",
-      "url": "https://youtube.com/watch?v=qjPcaZf_plo",
-      "publishedAt": "2026-11-26T19:48:59+00:00"
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "videoId": "lCtMq8jegvo",
+      "url": "https://youtube.com/watch?v=lCtMq8jegvo",
+      "publishedAt": "2026-11-28T03:18:18+00:00"
     },
     {
       "source": "podcast",
-      "name": "All-In Podcast",
-      "title": "Billionaires vs. Pros: The Besties Take On Phil Hellmuth, Alan Keating &amp; Jason Koon in Live Poker!",
-      "videoId": "APTd0tHbtuU",
-      "url": "https://youtube.com/watch?v=APTd0tHbtuU",
-      "publishedAt": "2026-11-26T19:21:16+00:00"
-    },
-    {
-      "source": "podcast",
-      "name": "20VC",
-      "title": "JENSEN IS BACK...NOW WHAT?",
-      "videoId": "EZ9CZ0y6_KA",
-      "url": "https://youtube.com/watch?v=EZ9CZ0y6_KA",
-      "publishedAt": "2026-11-26T17:30:22+00:00"
+      "name": "No Priors",
+      "title": "Build Like a Startup",
+      "videoId": "iuVEsEJwO-E",
+      "url": "https://youtube.com/watch?v=iuVEsEJwO-E",
+      "publishedAt": "2026-11-28T01:00:07+00:00"
     }
   ],
   "stats": {
-    "podcastEpisodes": 7
+    "podcastEpisodes": 3
   }
 }
